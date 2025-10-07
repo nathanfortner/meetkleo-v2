@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /of/
+Disallow: /_app/
+
+User-agent: *
+Allow: /
+
+Sitemap: http://www.meetkleo.com/sitemap.xml

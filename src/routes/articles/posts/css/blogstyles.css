@@ -1,0 +1,272 @@
+article {
+    font-family: Manrope;
+    background-color: white;
+    margin: auto;
+    padding: 12px;
+    color: #222;
+    font-size: 22px;
+    text-align: left;
+    max-width: 50ch;
+}
+
+img {
+    height: auto;
+    width: auto;
+    max-height: 300px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 10px;
+    border: 2px;
+}
+
+h1 {
+    line-height: 1.2;
+    margin: 0 0 0.5em;
+    font-size: 38px;
+    font-weight: 800;
+}
+
+h2 {
+    line-height: 1.2;
+    margin: 1.75em 0 0.5em;
+    font-size: 30px;
+    font-weight: 550;
+    color: #6835F8;
+}
+
+h3 {
+    line-height: 1.2;
+    margin: 0 0 0.5em;
+    font-size: 28px;
+    font-weight: 550;
+    color: #6835F8;
+}
+
+p {   
+    margin: 0 0 1.15em;
+}
+
+p + img {
+      margin-top: 1.5em;
+}
+
+a {
+    color: blue;
+    text-decoration: underline;
+    text-decoration-color: blue;
+}
+
+ol {
+    list-style-type: circle;
+    margin-left: 30px;
+    margin-right: 15px;
+}
+
+li {
+    margin-bottom: 20px;
+}
+
+ul {
+    list-style-type: circle;
+    margin-left: 30px;
+    margin-right: 15px;
+}
+
+table {
+    font-size: 16px;
+    table-layout: auto;
+    width: 97%;
+    border-spacing: 0.5rem;
+    margin: 0 30px 30px 0;
+}
+
+    th {
+        word-wrap: break-word;
+        vertical-align: bottom;
+        text-align: center;
+    }
+
+    td {
+        vertical-align: center;
+        text-align: center;
+        word-wrap: break-word;
+        padding-left: 0.25rem;
+        padding-top: 0.75rem;
+        padding-bottom: 0.75rem;
+    }
+
+    tbody tr:nth-child(odd) {
+        background: rgb(248, 242, 251, 0.5);
+    }
+
+    thead tr:nth-child(1) {
+        text-decoration: underline;
+    }
+
+    th:nth-child(n+2) {
+        vertical-align: bottom;
+        text-align: center;
+    }
+
+.hline {
+    margin-top: 0.5em;
+    width:25%;
+    height:2px;
+    border-radius: 10px;
+    background: #6835F8;
+}
+
+.hline + h2 {
+      margin-top: 0.3em;
+}
+.wrapper {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    text-align: center;
+    align-items: center;
+}
+
+.cover-image {
+    width: 100%;
+    max-height: 100%;
+    object-fit: cover;
+    margin: auto;
+}
+
+.opening-p {
+    font-size: 16px;
+    color: gray;
+    margin: 0 0 0.25em 0;
+}
+
+.callout {
+    font-size: 24px;
+    font-weight: bold;
+    margin-left: 0.5em;
+    margin-bottom: 0.5em;
+    color: #535252;
+    text-align: left;
+}
+
+.vline {
+    margin-bottom: 0.5em;
+    margin-left: 0.5em;
+    width:5px;
+    height:100px;
+    border-radius: 10px;
+    background: #535252;
+}
+
+.highlighter {
+    background-color: #FFFF00;
+}
+
+.kleo_blog_deep_link_text {
+    color:white;
+    display:inline;
+}
+
+.k_blog_deep_link {
+    text-decoration: none;
+}
+
+.k_apple_svg {
+    height:25px;
+    width:25px;
+    display:inline;
+    padding-bottom: 5px;
+    fill:white;
+
+}
+.k_blog_wrapper {
+    display:flex;
+    flex-direction: row;
+    background-color: #524DD0;
+    width:fit-content;
+    padding-left:20px;
+    padding-right:20px;
+    padding-top:5px;
+    padding-bottom:5px;
+    margin-left:auto;
+    margin-right:auto;
+    place-content: center;
+    justify-content: center;
+    border-radius: 15px;
+}
+
+.wrapper_audio {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: rgba(182, 251, 96, 0.267);
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 40px;
+}
+
+.speaker_icon {
+    height: 40px;
+    width: 40px;
+    fill: var(--k_deeppurple);
+    display: inline;
+    margin-right: 10px;
+}
+
+.audio_text {
+    font-size: 16px;
+}
+
+.audio_callout {
+    color: var(--k_deeppurple);
+    font-weight: 700;
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
+    text-decoration-style: wavy;
+    text-decoration-color: hsl(288, 64%, 27%, 50%);
+}
+.extralink {
+    margin-left:auto;
+    margin-right:auto;
+    text-align: center;
+}
+
+.special_image {
+	max-height: 600px;
+	/* center img */
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+@media screen and (min-width: 600px) {
+    table {
+        font-size:18px;
+    }
+
+    img {
+        height: 300px;
+    }
+
+    .cover-image {
+        height: 350px;
+    }
+    .speaker_icon {
+        height: 50px;
+        width: 50px;
+        fill: var(--k_deeppurple);
+        display: inline;
+        padding-left: 1px;
+        padding-right: 1px;
+    }
+    .audio_text {
+        font-size: 22px;
+    }
+    .audio_callout {
+        font-size: 22px;
+    }
+    
+}

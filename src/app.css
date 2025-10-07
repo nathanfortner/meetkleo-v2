@@ -1,0 +1,52 @@
+/* Write your global styles here, in PostCSS syntax */
+/* @import "@fontsource/noto-sans";
+@import "@fontsource/noto-serif"; */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+/* @font-face {
+	font-family: 'Noto Sans';
+	src: local('Noto Sans'), url('./fonts/noto-sans/NotoSans-Regular.ttf') format('truetype');
+	font-weight: normal;
+	font-display: swap;
+} */
+
+/* @font-face {
+	font-family: 'Manrope';
+	src: url('./fonts/manrope/Manrope.woff2') format('woff2');
+	font-style: normal;
+	font-weight: 300 800;
+	font-display: swap;
+} */
+
+:root {
+	font-family: Manrope, Arial, sans-serif;
+	font-size: 16px;
+	--pure-white: #ffffff;
+--primary-color: #b9c6d2;
+--secondary-color: #d0dde9;
+--tertiary-color: #edf0f8;
+--accent-color: #ff3e00;
+--k_lightgreen: #85ed99;
+--k_green: #3cd666;
+--k_yellow: #fff563;
+--k_orange: #f98858;
+--k_red: #fa5761;
+--k_darkblue: #050d29;
+--k_deeppurple: #5f1970;
+--k_purple: #aa00ff;
+--k_blue: #6835f8;
+--k_coral: #ff787b;
+--k_tan: #f6dfc5;
+--k_darkgrey: #dfd9df;
+--k_grey: #eeeeee;
+--k_offwhite: #f9f9f9;
+
+--background-without-opacity: rgba(255, 255, 255, 0.7);
+--column-width: 42rem;
+--column-margin-top: 4rem;
+}
