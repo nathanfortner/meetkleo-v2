@@ -1,0 +1,35 @@
+{
+	"/": [],
+	"/api/posts": [
+		"src/routes/api/posts/+server.js"
+	],
+	"/articles": [
+		"src/routes/articles/+page.js"
+	],
+	"/articles/[slug]": [
+		"src/routes/articles/[slug]/+page.js"
+	],
+	"/components": [
+		"src/routes/components/+page.js"
+	],
+	"/downloads": [],
+	"/learn": [],
+	"/learn/andrea": [],
+	"/learn/andrea/order_in_italian": [],
+	"/learn/andrea/say_farewell": [],
+	"/legal": [],
+	"/more": [],
+	"/more/faq": [],
+	"/more/news": [],
+	"/of/german-pronunciation": [],
+	"/of/learn-italian-like-you-are-there": [],
+	"/of/rachellasse": [],
+	"/of/simplitalian": [],
+	"/of/youritalianfriends": [],
+	"/rss": [
+		"src/routes/rss/+server.js"
+	],
+	"/sitemap.xml": [
+		"src/routes/sitemap.xml/+server.js"
+	]
+}

@@ -1,0 +1,1 @@
+export { default as component } from "../../../../src/routes/learn/andrea/say_farewell/+page.svelte";

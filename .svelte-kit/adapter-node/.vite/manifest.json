@@ -1,0 +1,692 @@
+{
+  ".svelte-kit/generated/server/internal.js": {
+    "file": "internal.js",
+    "imports": [
+      "_internal.js"
+    ],
+    "isEntry": true,
+    "src": ".svelte-kit/generated/server/internal.js"
+  },
+  "_audioelement.js": {
+    "file": "chunks/audioelement.js",
+    "imports": [
+      "_ssr.js",
+      "_audioelement.svelte_svelte_type_style_lang.js"
+    ]
+  },
+  "_audioelement.svelte_svelte_type_style_lang.js": {
+    "css": [
+      "_app/immutable/assets/audioelement.8189825e.css"
+    ],
+    "file": "chunks/audioelement.svelte_svelte_type_style_lang.js",
+    "imports": [
+      "_ssr.js"
+    ]
+  },
+  "_index.js": {
+    "file": "chunks/index.js"
+  },
+  "_index2.js": {
+    "file": "chunks/index2.js",
+    "imports": [
+      "_ssr.js"
+    ]
+  },
+  "_index3.js": {
+    "dynamicImports": [
+      "src/routes/articles/posts/k-a-pronunciation-tips.md",
+      "src/routes/articles/posts/k-ei-and-ie-pronunciation-in-german.md",
+      "src/routes/articles/posts/k-ess-tset-pronunciation-and-meaning.md",
+      "src/routes/articles/posts/k-german-alphabet-pronunciation.md",
+      "src/routes/articles/posts/k-how-to-maximize-your-learning-in-the-kleo-app.md",
+      "src/routes/articles/posts/k-how-to-pronounce-ich-in-german.md",
+      "src/routes/articles/posts/k-how-to-pronounce-ig-in-german.md",
+      "src/routes/articles/posts/k-how-to-pronounce-the-german-z.md",
+      "src/routes/articles/posts/k-how-to-use-and-pronounce-ich-liebe-dich-to-share-your-love.md",
+      "src/routes/articles/posts/k-how-to-use-danke-and-variations-to-say-thank-you-in-german.md",
+      "src/routes/articles/posts/k-i-am-in-german.md",
+      "src/routes/articles/posts/k-mastering-ch-pronunciation-in-german.md",
+      "src/routes/articles/posts/k-me-in-german.md",
+      "src/routes/articles/posts/k-o-umlaut-made-easy.md",
+      "src/routes/articles/posts/k-pronounce-the-german-r-right.md",
+      "src/routes/articles/posts/k-putting-kleo-to-work-for-you-every-time.md",
+      "src/routes/articles/posts/k-u-umlaut-simplified-like-never-before.md"
+    ],
+    "file": "chunks/index3.js"
+  },
+  "_internal.js": {
+    "file": "chunks/internal.js",
+    "imports": [
+      "_ssr.js"
+    ]
+  },
+  "_reviewcard.js": {
+    "file": "chunks/reviewcard.js",
+    "imports": [
+      "_ssr.js"
+    ]
+  },
+  "_seohead.js": {
+    "file": "chunks/seohead.js",
+    "imports": [
+      "_ssr.js"
+    ]
+  },
+  "_ssr.js": {
+    "file": "chunks/ssr.js"
+  },
+  "_stores.js": {
+    "file": "chunks/stores.js",
+    "imports": [
+      "_index2.js"
+    ]
+  },
+  "_stores2.js": {
+    "file": "chunks/stores2.js",
+    "imports": [
+      "_ssr.js"
+    ]
+  },
+  "audioelement.css": {
+    "file": "_app/immutable/assets/audioelement.8189825e.css",
+    "src": "audioelement.css"
+  },
+  "node_modules/@sveltejs/kit/src/runtime/server/index.js": {
+    "file": "index.js",
+    "imports": [
+      "_internal.js",
+      "_index.js",
+      "_index2.js"
+    ],
+    "isEntry": true,
+    "src": "node_modules/@sveltejs/kit/src/runtime/server/index.js"
+  },
+  "src/routes/+error.svelte": {
+    "file": "entries/pages/_error.svelte.js",
+    "imports": [
+      "_ssr.js",
+      "_stores2.js"
+    ],
+    "isEntry": true,
+    "src": "src/routes/+error.svelte"
+  },
+  "src/routes/+layout.css": {
+    "file": "_app/immutable/assets/_layout.1e3c95f9.css",
+    "src": "src/routes/+layout.css"
+  },
+  "src/routes/+layout.svelte": {
+    "css": [
+      "_app/immutable/assets/_layout.1e3c95f9.css"
+    ],
+    "file": "entries/pages/_layout.svelte.js",
+    "imports": [
+      "_ssr.js",
+      "_stores.js"
+    ],
+    "isEntry": true,
+    "src": "src/routes/+layout.svelte"
+  },
+  "src/routes/+page.svelte": {
+    "file": "entries/pages/_page.svelte.js",
+    "imports": [
+      "_ssr.js",
+      "_stores.js",
+      "_reviewcard.js",
+      "_seohead.js"
+    ],
+    "isEntry": true,
+    "src": "src/routes/+page.svelte"
+  },
+  "src/routes/api/posts/+server.js": {
+    "file": "entries/endpoints/api/posts/_server.js",
+    "imports": [
+      "_index3.js",
+      "_index.js"
+    ],
+    "isEntry": true,
+    "src": "src/routes/api/posts/+server.js"
+  },
+  "src/routes/articles/+page.js": {
+    "file": "entries/pages/articles/_page.js",
+    "isEntry": true,
+    "src": "src/routes/articles/+page.js"
+  },
+  "src/routes/articles/+page.svelte": {
+    "file": "entries/pages/articles/_page.svelte.js",
+    "imports": [
+      "_ssr.js"
+    ],
+    "isEntry": true,
+    "src": "src/routes/articles/+page.svelte"
+  },
+  "src/routes/articles/[slug]/+page.js": {
+    "dynamicImports": [
+      "src/routes/articles/posts/k-a-pronunciation-tips.md",
+      "src/routes/articles/posts/k-ei-and-ie-pronunciation-in-german.md",
+      "src/routes/articles/posts/k-ess-tset-pronunciation-and-meaning.md",
+      "src/routes/articles/posts/k-german-alphabet-pronunciation.md",
+      "src/routes/articles/posts/k-how-to-maximize-your-learning-in-the-kleo-app.md",
+      "src/routes/articles/posts/k-how-to-pronounce-ich-in-german.md",
+      "src/routes/articles/posts/k-how-to-pronounce-ig-in-german.md",
+      "src/routes/articles/posts/k-how-to-pronounce-the-german-z.md",
+      "src/routes/articles/posts/k-how-to-use-and-pronounce-ich-liebe-dich-to-share-your-love.md",
+      "src/routes/articles/posts/k-how-to-use-danke-and-variations-to-say-thank-you-in-german.md",
+      "src/routes/articles/posts/k-i-am-in-german.md",
+      "src/routes/articles/posts/k-mastering-ch-pronunciation-in-german.md",
+      "src/routes/articles/posts/k-me-in-german.md",
+      "src/routes/articles/posts/k-o-umlaut-made-easy.md",
+      "src/routes/articles/posts/k-pronounce-the-german-r-right.md",
+      "src/routes/articles/posts/k-putting-kleo-to-work-for-you-every-time.md",
+      "src/routes/articles/posts/k-u-umlaut-simplified-like-never-before.md"
+    ],
+    "file": "entries/pages/articles/_slug_/_page.js",
+    "imports": [
+      "_index.js"
+    ],
+    "isEntry": true,
+    "src": "src/routes/articles/[slug]/+page.js"
+  },
+  "src/routes/articles/[slug]/+page.svelte": {
+    "file": "entries/pages/articles/_slug_/_page.svelte.js",
+    "imports": [
+      "_ssr.js",
+      "_seohead.js"
+    ],
+    "isEntry": true,
+    "src": "src/routes/articles/[slug]/+page.svelte"
+  },
+  "src/routes/articles/posts/k-a-pronunciation-tips.css": {
+    "file": "_app/immutable/assets/k-a-pronunciation-tips.2d78a3c2.css",
+    "src": "src/routes/articles/posts/k-pronounce-the-german-r-right.css"
+  },
+  "src/routes/articles/posts/k-a-pronunciation-tips.md": {
+    "css": [
+      "_app/immutable/assets/k-a-pronunciation-tips.2d78a3c2.css"
+    ],
+    "file": "chunks/k-a-pronunciation-tips.js",
+    "imports": [
+      "_ssr.js",
+      "_audioelement.svelte_svelte_type_style_lang.js",
+      "_audioelement.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "src/routes/articles/posts/k-a-pronunciation-tips.md"
+  },
+  "src/routes/articles/posts/k-ei-and-ie-pronunciation-in-german.css": {
+    "file": "_app/immutable/assets/k-a-pronunciation-tips.2d78a3c2.css",
+    "src": "src/routes/articles/posts/k-pronounce-the-german-r-right.css"
+  },
+  "src/routes/articles/posts/k-ei-and-ie-pronunciation-in-german.md": {
+    "css": [
+      "_app/immutable/assets/k-a-pronunciation-tips.2d78a3c2.css"
+    ],
+    "file": "chunks/k-ei-and-ie-pronunciation-in-german.js",
+    "imports": [
+      "_ssr.js",
+      "_audioelement.svelte_svelte_type_style_lang.js",
+      "_audioelement.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "src/routes/articles/posts/k-ei-and-ie-pronunciation-in-german.md"
+  },
+  "src/routes/articles/posts/k-ess-tset-pronunciation-and-meaning.css": {
+    "file": "_app/immutable/assets/k-ess-tset-pronunciation-and-meaning.4f6c4ece.css",
+    "src": "src/routes/articles/posts/k-how-to-pronounce-the-german-z.css"
+  },
+  "src/routes/articles/posts/k-ess-tset-pronunciation-and-meaning.md": {
+    "css": [
+      "_app/immutable/assets/k-ess-tset-pronunciation-and-meaning.4f6c4ece.css"
+    ],
+    "file": "chunks/k-ess-tset-pronunciation-and-meaning.js",
+    "imports": [
+      "_ssr.js",
+      "_audioelement.svelte_svelte_type_style_lang.js",
+      "_audioelement.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "src/routes/articles/posts/k-ess-tset-pronunciation-and-meaning.md"
+  },
+  "src/routes/articles/posts/k-german-alphabet-pronunciation.css": {
+    "file": "_app/immutable/assets/k-ess-tset-pronunciation-and-meaning.4f6c4ece.css",
+    "src": "src/routes/articles/posts/k-how-to-pronounce-the-german-z.css"
+  },
+  "src/routes/articles/posts/k-german-alphabet-pronunciation.md": {
+    "css": [
+      "_app/immutable/assets/k-ess-tset-pronunciation-and-meaning.4f6c4ece.css"
+    ],
+    "file": "chunks/k-german-alphabet-pronunciation.js",
+    "imports": [
+      "_ssr.js",
+      "_audioelement.svelte_svelte_type_style_lang.js",
+      "_audioelement.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "src/routes/articles/posts/k-german-alphabet-pronunciation.md"
+  },
+  "src/routes/articles/posts/k-how-to-maximize-your-learning-in-the-kleo-app.css": {
+    "file": "_app/immutable/assets/k-how-to-maximize-your-learning-in-the-kleo-app.c0b67011.css",
+    "src": "src/routes/articles/posts/k-how-to-maximize-your-learning-in-the-kleo-app.css"
+  },
+  "src/routes/articles/posts/k-how-to-maximize-your-learning-in-the-kleo-app.md": {
+    "css": [
+      "_app/immutable/assets/k-how-to-maximize-your-learning-in-the-kleo-app.c0b67011.css"
+    ],
+    "file": "chunks/k-how-to-maximize-your-learning-in-the-kleo-app.js",
+    "imports": [
+      "_ssr.js",
+      "_audioelement.svelte_svelte_type_style_lang.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "src/routes/articles/posts/k-how-to-maximize-your-learning-in-the-kleo-app.md"
+  },
+  "src/routes/articles/posts/k-how-to-pronounce-ich-in-german.css": {
+    "file": "_app/immutable/assets/k-a-pronunciation-tips.2d78a3c2.css",
+    "src": "src/routes/articles/posts/k-pronounce-the-german-r-right.css"
+  },
+  "src/routes/articles/posts/k-how-to-pronounce-ich-in-german.md": {
+    "css": [
+      "_app/immutable/assets/k-a-pronunciation-tips.2d78a3c2.css"
+    ],
+    "file": "chunks/k-how-to-pronounce-ich-in-german.js",
+    "imports": [
+      "_ssr.js",
+      "_audioelement.svelte_svelte_type_style_lang.js",
+      "_audioelement.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "src/routes/articles/posts/k-how-to-pronounce-ich-in-german.md"
+  },
+  "src/routes/articles/posts/k-how-to-pronounce-ig-in-german.css": {
+    "file": "_app/immutable/assets/k-a-pronunciation-tips.2d78a3c2.css",
+    "src": "src/routes/articles/posts/k-pronounce-the-german-r-right.css"
+  },
+  "src/routes/articles/posts/k-how-to-pronounce-ig-in-german.md": {
+    "css": [
+      "_app/immutable/assets/k-a-pronunciation-tips.2d78a3c2.css"
+    ],
+    "file": "chunks/k-how-to-pronounce-ig-in-german.js",
+    "imports": [
+      "_ssr.js",
+      "_audioelement.svelte_svelte_type_style_lang.js",
+      "_audioelement.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "src/routes/articles/posts/k-how-to-pronounce-ig-in-german.md"
+  },
+  "src/routes/articles/posts/k-how-to-pronounce-the-german-z.css": {
+    "file": "_app/immutable/assets/k-ess-tset-pronunciation-and-meaning.4f6c4ece.css",
+    "src": "src/routes/articles/posts/k-how-to-pronounce-the-german-z.css"
+  },
+  "src/routes/articles/posts/k-how-to-pronounce-the-german-z.md": {
+    "css": [
+      "_app/immutable/assets/k-ess-tset-pronunciation-and-meaning.4f6c4ece.css"
+    ],
+    "file": "chunks/k-how-to-pronounce-the-german-z.js",
+    "imports": [
+      "_ssr.js",
+      "_audioelement.svelte_svelte_type_style_lang.js",
+      "_audioelement.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "src/routes/articles/posts/k-how-to-pronounce-the-german-z.md"
+  },
+  "src/routes/articles/posts/k-how-to-use-and-pronounce-ich-liebe-dich-to-share-your-love.css": {
+    "file": "_app/immutable/assets/k-how-to-use-and-pronounce-ich-liebe-dich-to-share-your-love.9736a633.css",
+    "src": "src/routes/articles/posts/k-how-to-use-and-pronounce-ich-liebe-dich-to-share-your-love.css"
+  },
+  "src/routes/articles/posts/k-how-to-use-and-pronounce-ich-liebe-dich-to-share-your-love.md": {
+    "css": [
+      "_app/immutable/assets/k-how-to-use-and-pronounce-ich-liebe-dich-to-share-your-love.9736a633.css"
+    ],
+    "file": "chunks/k-how-to-use-and-pronounce-ich-liebe-dich-to-share-your-love.js",
+    "imports": [
+      "_ssr.js",
+      "_audioelement.svelte_svelte_type_style_lang.js",
+      "_audioelement.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "src/routes/articles/posts/k-how-to-use-and-pronounce-ich-liebe-dich-to-share-your-love.md"
+  },
+  "src/routes/articles/posts/k-how-to-use-danke-and-variations-to-say-thank-you-in-german.css": {
+    "file": "_app/immutable/assets/k-how-to-use-danke-and-variations-to-say-thank-you-in-german.9241be86.css",
+    "src": "src/routes/articles/posts/k-how-to-use-danke-and-variations-to-say-thank-you-in-german.css"
+  },
+  "src/routes/articles/posts/k-how-to-use-danke-and-variations-to-say-thank-you-in-german.md": {
+    "css": [
+      "_app/immutable/assets/k-how-to-use-danke-and-variations-to-say-thank-you-in-german.9241be86.css"
+    ],
+    "file": "chunks/k-how-to-use-danke-and-variations-to-say-thank-you-in-german.js",
+    "imports": [
+      "_ssr.js",
+      "_audioelement.svelte_svelte_type_style_lang.js",
+      "_audioelement.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "src/routes/articles/posts/k-how-to-use-danke-and-variations-to-say-thank-you-in-german.md"
+  },
+  "src/routes/articles/posts/k-i-am-in-german.css": {
+    "file": "_app/immutable/assets/k-a-pronunciation-tips.2d78a3c2.css",
+    "src": "src/routes/articles/posts/k-pronounce-the-german-r-right.css"
+  },
+  "src/routes/articles/posts/k-i-am-in-german.md": {
+    "css": [
+      "_app/immutable/assets/k-a-pronunciation-tips.2d78a3c2.css"
+    ],
+    "file": "chunks/k-i-am-in-german.js",
+    "imports": [
+      "_ssr.js",
+      "_audioelement.svelte_svelte_type_style_lang.js",
+      "_audioelement.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "src/routes/articles/posts/k-i-am-in-german.md"
+  },
+  "src/routes/articles/posts/k-mastering-ch-pronunciation-in-german.css": {
+    "file": "_app/immutable/assets/k-mastering-ch-pronunciation-in-german.0d6ef41a.css",
+    "src": "src/routes/articles/posts/k-mastering-ch-pronunciation-in-german.css"
+  },
+  "src/routes/articles/posts/k-mastering-ch-pronunciation-in-german.md": {
+    "css": [
+      "_app/immutable/assets/k-mastering-ch-pronunciation-in-german.0d6ef41a.css"
+    ],
+    "file": "chunks/k-mastering-ch-pronunciation-in-german.js",
+    "imports": [
+      "_ssr.js",
+      "_audioelement.svelte_svelte_type_style_lang.js",
+      "_audioelement.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "src/routes/articles/posts/k-mastering-ch-pronunciation-in-german.md"
+  },
+  "src/routes/articles/posts/k-me-in-german.css": {
+    "file": "_app/immutable/assets/k-a-pronunciation-tips.2d78a3c2.css",
+    "src": "src/routes/articles/posts/k-pronounce-the-german-r-right.css"
+  },
+  "src/routes/articles/posts/k-me-in-german.md": {
+    "css": [
+      "_app/immutable/assets/k-a-pronunciation-tips.2d78a3c2.css"
+    ],
+    "file": "chunks/k-me-in-german.js",
+    "imports": [
+      "_ssr.js",
+      "_audioelement.svelte_svelte_type_style_lang.js",
+      "_audioelement.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "src/routes/articles/posts/k-me-in-german.md"
+  },
+  "src/routes/articles/posts/k-o-umlaut-made-easy.css": {
+    "file": "_app/immutable/assets/k-o-umlaut-made-easy.b1f5d3d9.css",
+    "src": "src/routes/articles/posts/k-o-umlaut-made-easy.css"
+  },
+  "src/routes/articles/posts/k-o-umlaut-made-easy.md": {
+    "css": [
+      "_app/immutable/assets/k-o-umlaut-made-easy.b1f5d3d9.css"
+    ],
+    "file": "chunks/k-o-umlaut-made-easy.js",
+    "imports": [
+      "_ssr.js",
+      "_audioelement.svelte_svelte_type_style_lang.js",
+      "_audioelement.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "src/routes/articles/posts/k-o-umlaut-made-easy.md"
+  },
+  "src/routes/articles/posts/k-pronounce-the-german-r-right.css": {
+    "file": "_app/immutable/assets/k-a-pronunciation-tips.2d78a3c2.css",
+    "src": "src/routes/articles/posts/k-pronounce-the-german-r-right.css"
+  },
+  "src/routes/articles/posts/k-pronounce-the-german-r-right.md": {
+    "css": [
+      "_app/immutable/assets/k-a-pronunciation-tips.2d78a3c2.css"
+    ],
+    "file": "chunks/k-pronounce-the-german-r-right.js",
+    "imports": [
+      "_ssr.js",
+      "_audioelement.svelte_svelte_type_style_lang.js",
+      "_audioelement.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "src/routes/articles/posts/k-pronounce-the-german-r-right.md"
+  },
+  "src/routes/articles/posts/k-putting-kleo-to-work-for-you-every-time.css": {
+    "file": "_app/immutable/assets/k-putting-kleo-to-work-for-you-every-time.f14079df.css",
+    "src": "src/routes/articles/posts/k-putting-kleo-to-work-for-you-every-time.css"
+  },
+  "src/routes/articles/posts/k-putting-kleo-to-work-for-you-every-time.md": {
+    "css": [
+      "_app/immutable/assets/k-putting-kleo-to-work-for-you-every-time.f14079df.css"
+    ],
+    "file": "chunks/k-putting-kleo-to-work-for-you-every-time.js",
+    "imports": [
+      "_ssr.js",
+      "_audioelement.svelte_svelte_type_style_lang.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "src/routes/articles/posts/k-putting-kleo-to-work-for-you-every-time.md"
+  },
+  "src/routes/articles/posts/k-u-umlaut-simplified-like-never-before.css": {
+    "file": "_app/immutable/assets/k-u-umlaut-simplified-like-never-before.86d4b1f8.css",
+    "src": "src/routes/articles/posts/k-u-umlaut-simplified-like-never-before.css"
+  },
+  "src/routes/articles/posts/k-u-umlaut-simplified-like-never-before.md": {
+    "css": [
+      "_app/immutable/assets/k-u-umlaut-simplified-like-never-before.86d4b1f8.css"
+    ],
+    "file": "chunks/k-u-umlaut-simplified-like-never-before.js",
+    "imports": [
+      "_ssr.js",
+      "_audioelement.svelte_svelte_type_style_lang.js",
+      "_audioelement.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "src/routes/articles/posts/k-u-umlaut-simplified-like-never-before.md"
+  },
+  "src/routes/components/+page.js": {
+    "file": "entries/pages/components/_page.js",
+    "imports": [
+      "_index.js"
+    ],
+    "isEntry": true,
+    "src": "src/routes/components/+page.js"
+  },
+  "src/routes/downloads/+page.svelte": {
+    "file": "entries/pages/downloads/_page.svelte.js",
+    "imports": [
+      "_ssr.js",
+      "_seohead.js"
+    ],
+    "isEntry": true,
+    "src": "src/routes/downloads/+page.svelte"
+  },
+  "src/routes/learn/+page.css": {
+    "file": "_app/immutable/assets/_page.d8202396.css",
+    "src": "src/routes/learn/+page.css"
+  },
+  "src/routes/learn/+page.svelte": {
+    "css": [
+      "_app/immutable/assets/_page.d8202396.css"
+    ],
+    "file": "entries/pages/learn/_page.svelte.js",
+    "imports": [
+      "_ssr.js",
+      "_stores2.js",
+      "_stores.js"
+    ],
+    "isEntry": true,
+    "src": "src/routes/learn/+page.svelte"
+  },
+  "src/routes/learn/andrea/+page.css": {
+    "file": "_app/immutable/assets/_page.cfb100bf.css",
+    "src": "src/routes/learn/andrea/+page.css"
+  },
+  "src/routes/learn/andrea/+page.svelte": {
+    "css": [
+      "_app/immutable/assets/_page.cfb100bf.css"
+    ],
+    "file": "entries/pages/learn/andrea/_page.svelte.js",
+    "imports": [
+      "_ssr.js",
+      "_stores.js",
+      "_seohead.js"
+    ],
+    "isEntry": true,
+    "src": "src/routes/learn/andrea/+page.svelte"
+  },
+  "src/routes/learn/andrea/order_in_italian/+page.css": {
+    "file": "_app/immutable/assets/_page.4fbe7d3d.css",
+    "src": "src/routes/learn/andrea/say_farewell/+page.css"
+  },
+  "src/routes/learn/andrea/order_in_italian/+page.svelte": {
+    "css": [
+      "_app/immutable/assets/_page.4fbe7d3d.css"
+    ],
+    "file": "entries/pages/learn/andrea/order_in_italian/_page.svelte.js",
+    "imports": [
+      "_ssr.js",
+      "_stores.js",
+      "_seohead.js"
+    ],
+    "isEntry": true,
+    "src": "src/routes/learn/andrea/order_in_italian/+page.svelte"
+  },
+  "src/routes/learn/andrea/say_farewell/+page.css": {
+    "file": "_app/immutable/assets/_page.4fbe7d3d.css",
+    "src": "src/routes/learn/andrea/say_farewell/+page.css"
+  },
+  "src/routes/learn/andrea/say_farewell/+page.svelte": {
+    "css": [
+      "_app/immutable/assets/_page.4fbe7d3d.css"
+    ],
+    "file": "entries/pages/learn/andrea/say_farewell/_page.svelte.js",
+    "imports": [
+      "_ssr.js",
+      "_stores.js",
+      "_seohead.js"
+    ],
+    "isEntry": true,
+    "src": "src/routes/learn/andrea/say_farewell/+page.svelte"
+  },
+  "src/routes/legal/+page.svelte": {
+    "file": "entries/pages/legal/_page.svelte.js",
+    "imports": [
+      "_ssr.js"
+    ],
+    "isEntry": true,
+    "src": "src/routes/legal/+page.svelte"
+  },
+  "src/routes/more/+page.svelte": {
+    "file": "entries/pages/more/_page.svelte.js",
+    "imports": [
+      "_ssr.js",
+      "_seohead.js"
+    ],
+    "isEntry": true,
+    "src": "src/routes/more/+page.svelte"
+  },
+  "src/routes/more/faq/+page.svelte": {
+    "file": "entries/pages/more/faq/_page.svelte.js",
+    "imports": [
+      "_ssr.js",
+      "_stores.js",
+      "_seohead.js"
+    ],
+    "isEntry": true,
+    "src": "src/routes/more/faq/+page.svelte"
+  },
+  "src/routes/more/news/+page.svelte": {
+    "file": "entries/pages/more/news/_page.svelte.js",
+    "imports": [
+      "_ssr.js",
+      "_stores.js",
+      "_seohead.js"
+    ],
+    "isEntry": true,
+    "src": "src/routes/more/news/+page.svelte"
+  },
+  "src/routes/of/german-pronunciation/+page.css": {
+    "file": "_app/immutable/assets/_page.b4b14e30.css",
+    "src": "src/routes/of/german-pronunciation/+page.css"
+  },
+  "src/routes/of/german-pronunciation/+page.svelte": {
+    "css": [
+      "_app/immutable/assets/_page.b4b14e30.css"
+    ],
+    "file": "entries/pages/of/german-pronunciation/_page.svelte.js",
+    "imports": [
+      "_ssr.js",
+      "_reviewcard.js"
+    ],
+    "isEntry": true,
+    "src": "src/routes/of/german-pronunciation/+page.svelte"
+  },
+  "src/routes/of/learn-italian-like-you-are-there/+page.css": {
+    "file": "_app/immutable/assets/_page.525506fc.css",
+    "src": "src/routes/of/learn-italian-like-you-are-there/+page.css"
+  },
+  "src/routes/of/learn-italian-like-you-are-there/+page.svelte": {
+    "css": [
+      "_app/immutable/assets/_page.525506fc.css"
+    ],
+    "file": "entries/pages/of/learn-italian-like-you-are-there/_page.svelte.js",
+    "imports": [
+      "_ssr.js",
+      "_reviewcard.js"
+    ],
+    "isEntry": true,
+    "src": "src/routes/of/learn-italian-like-you-are-there/+page.svelte"
+  },
+  "src/routes/of/rachellasse/+page.css": {
+    "file": "_app/immutable/assets/_page.9c15195c.css",
+    "src": "src/routes/of/simplitalian/+page.css"
+  },
+  "src/routes/of/rachellasse/+page.svelte": {
+    "css": [
+      "_app/immutable/assets/_page.9c15195c.css"
+    ],
+    "file": "entries/pages/of/rachellasse/_page.svelte.js",
+    "imports": [
+      "_ssr.js"
+    ],
+    "isEntry": true,
+    "src": "src/routes/of/rachellasse/+page.svelte"
+  },
+  "src/routes/of/simplitalian/+page.css": {
+    "file": "_app/immutable/assets/_page.9c15195c.css",
+    "src": "src/routes/of/simplitalian/+page.css"
+  },
+  "src/routes/of/simplitalian/+page.svelte": {
+    "css": [
+      "_app/immutable/assets/_page.9c15195c.css"
+    ],
+    "file": "entries/pages/of/simplitalian/_page.svelte.js",
+    "imports": [
+      "_ssr.js"
+    ],
+    "isEntry": true,
+    "src": "src/routes/of/simplitalian/+page.svelte"
+  },
+  "src/routes/of/youritalianfriends/+page.svelte": {
+    "file": "entries/pages/of/youritalianfriends/_page.svelte.js",
+    "imports": [
+      "_ssr.js",
+      "_stores.js",
+      "_seohead.js"
+    ],
+    "isEntry": true,
+    "src": "src/routes/of/youritalianfriends/+page.svelte"
+  },
+  "src/routes/rss/+server.js": {
+    "file": "entries/endpoints/rss/_server.js",
+    "imports": [
+      "_index3.js"
+    ],
+    "isEntry": true,
+    "src": "src/routes/rss/+server.js"
+  },
+  "src/routes/sitemap.xml/+server.js": {
+    "file": "entries/endpoints/sitemap.xml/_server.js",
+    "isEntry": true,
+    "src": "src/routes/sitemap.xml/+server.js"
+  }
+}
