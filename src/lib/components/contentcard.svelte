@@ -33,18 +33,18 @@
     
     
     <div class="flex flex-row flex-wrap gap-4">
-      <button class="flex mx-auto rounded-xl bg-purple-200 px-2 py-1 text-k_deeppurple border-2 border-k_deeppurple shadow-md shadow-k_deeppurple hover:bg-purple-100 hover:shadow-none w-24 place-content-center items-center" on:click={() => {currentLang = 'German'}} id='German' class:selected="{currentLang === 'German'}">
+      <button class="flex mx-auto rounded-xl bg-purple-200 px-2 py-1 text-k_deeppurple border-2 border-k_deeppurple shadow-md shadow-k_deeppurple hover:bg-purple-100 hover:shadow-none w-24 place-content-center items-center" on:click={() => {currentLang = 'German'; $valueLang = 'German'}} id='German' class:selected="{currentLang === 'German'}">
         <p class="text-lg">German</p>
       </button>
-      <button class="flex mx-auto rounded-xl bg-purple-200 px-2 py-1 text-k_deeppurple border-2 border-k_deeppurple shadow-md shadow-k_deeppurple hover:bg-purple-100 hover:shadow-none w-24 place-content-center items-center" on:click={() => {currentLang = 'Italian'}} class:selected="{currentLang === 'Italian'}">
-        <p class="text-lg">Italian</p>
+      <button class="flex mx-auto rounded-xl bg-purple-200 px-2 py-1 text-k_deeppurple border-2 border-k_deeppurple shadow-md shadow-k_deeppurple hover:bg-purple-100 hover:shadow-none w-24 place-content-center items-center" on:click={() => {currentLang = 'Italian'; $valueLang = 'Italian'}} class:selected="{currentLang === 'Italian'}">
+<p class="text-lg">Italian</p>
       </button>
 
-      <button class="flex mx-auto rounded-xl bg-purple-200 px-2 py-1 text-k_deeppurple border-2 border-k_deeppurple shadow-md shadow-k_deeppurple hover:bg-purple-100 hover:shadow-none w-24 place-content-center" on:click={() => {currentLang = 'Spanish'}} class:selected="{currentLang === 'Spanish'}">
+      <button class="flex mx-auto rounded-xl bg-purple-200 px-2 py-1 text-k_deeppurple border-2 border-k_deeppurple shadow-md shadow-k_deeppurple hover:bg-purple-100 hover:shadow-none w-24 place-content-center" on:click={() => {currentLang = 'Spanish'; $valueLang = 'Spanish'}} class:selected="{currentLang === 'Spanish'}">
         <p class="text-lg">Spanish</p>
       </button>
 
-      <button class="flex mx-auto rounded-xl bg-purple-200 px-2 py-1 text-k_deeppurple border-2 border-k_deeppurple shadow-md shadow-k_deeppurple hover:bg-purple-100 hover:shadow-none w-24 place-content-center" on:click={() => {currentLang = 'Ukrainian'}} class:selected="{currentLang === 'Ukrainian'}">
+      <button class="flex mx-auto rounded-xl bg-purple-200 px-2 py-1 text-k_deeppurple border-2 border-k_deeppurple shadow-md shadow-k_deeppurple hover:bg-purple-100 hover:shadow-none w-24 place-content-center" on:click={() => {currentLang = 'Ukrainian'; $valueLang = 'Ukrainian'}} class:selected="{currentLang === 'Ukrainian'}">
         <p class="text-lg">Ukrainian</p>
       </button>
     </div>
