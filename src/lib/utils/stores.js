@@ -150,6 +150,39 @@ export let faqs = readable([
 
 export let newsitems = readable([
   {
+    "id": 15,
+    "attributes": {
+      "newstitle": "Enhanced User Experience",
+      "newsdate": "2025-01-07",
+      "newsdescription": "New user page with personalized learning dashboard and progress tracking",
+      "createdAt": "2025-01-07T00:00:00.000Z",
+      "updatedAt": "2025-01-07T00:00:00.000Z",
+      "publishedAt": "2025-01-07T00:00:00.000Z"
+    }
+  },
+  {
+    "id": 14,
+    "attributes": {
+      "newstitle": "Expanded Language Dictionary",
+      "newsdate": "2025-01-01",
+      "newsdescription": "Improved language dictionary with better pronunciation guides and cultural context",
+      "createdAt": "2025-01-01T00:00:00.000Z",
+      "updatedAt": "2025-01-01T00:00:00.000Z",
+      "publishedAt": "2025-01-01T00:00:00.000Z"
+    }
+  },
+  {
+    "id": 13,
+    "attributes": {
+      "newstitle": "New Dojo Lessons",
+      "newsdate": "2024-12-15",
+      "newsdescription": "Added more interactive dojo lessons for advanced learners across all supported languages",
+      "createdAt": "2024-12-15T00:00:00.000Z",
+      "updatedAt": "2024-12-15T00:00:00.000Z",
+      "publishedAt": "2024-12-15T00:00:00.000Z"
+    }
+  },
+  {
     "id": 1,
     "attributes": {
       "newstitle": "Expressing wants",

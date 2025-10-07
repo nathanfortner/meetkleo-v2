@@ -40,20 +40,39 @@
         <div class="max-w-7xl mx-auto py-12 px-4 sm:py-16 sm:px-6 lg:px-8">        
             <h1 class="text-center text-3xl font-extrabold text-gray-900 sm:text-4xl">News and Updates</h1>
     
-            <!-- Full Version -->
-            <h2 class="text-center text-2xl sm:text-md font-semibold mt-3 bg-k_yellow/30">JUST LAUNCHED!</h2>
-            <h3 class="text-center text-2xl sm:text-md font-semibold mt-1 bg-k_yellow/30">Hands free learning</h3>
-            <h4 class="text-center mt-1 max-w-md mx-auto">Grab your headphones, put your phone in your pocket and keep learning. Get the same interctive experience while you cook, clean, workout, or whatever you want to do. Integrate learning into your daily routines and watch your progress soar!</h4>
-            <br>
+            <!-- Recent Updates Section -->
+            <div class="bg-gradient-to-r from-k_yellow/20 to-k_lightgreen/20 rounded-xl p-6 mb-8">
+                <h2 class="text-center text-2xl sm:text-3xl font-bold text-k_deeppurple mb-4">🚀 Latest Updates</h2>
+                <div class="grid md:grid-cols-3 gap-4 text-center">
+                    <div class="bg-white/50 rounded-lg p-4">
+                        <h3 class="text-lg font-semibold text-k_deeppurple mb-2">Enhanced User Experience</h3>
+                        <p class="text-sm text-gray-700">New personalized learning dashboard with progress tracking</p>
+                    </div>
+                    <div class="bg-white/50 rounded-lg p-4">
+                        <h3 class="text-lg font-semibold text-k_deeppurple mb-2">Expanded Dictionary</h3>
+                        <p class="text-sm text-gray-700">Improved pronunciation guides and cultural context</p>
+                    </div>
+                    <div class="bg-white/50 rounded-lg p-4">
+                        <h3 class="text-lg font-semibold text-k_deeppurple mb-2">New Dojo Lessons</h3>
+                        <p class="text-sm text-gray-700">More interactive lessons for advanced learners</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Hands Free Learning Feature -->
+            <div class="bg-gradient-to-r from-k_yellow/30 to-k_lightgreen/30 rounded-xl p-6 mb-8">
+                <h2 class="text-center text-2xl sm:text-3xl font-bold text-k_deeppurple mb-2">🎧 Hands Free Learning</h2>
+                <p class="text-center text-lg text-gray-800 max-w-2xl mx-auto">Grab your headphones, put your phone in your pocket and keep learning. Get the same interactive experience while you cook, clean, workout, or whatever you want to do. Integrate learning into your daily routines and watch your progress soar!</p>
+            </div>
             
             <table class="hidden md:table table-fixed mx-auto w-xl mt-6 border-collapse bg-white shadow-sm rounded-xl">
                 <thead class="bg-purple-400">
                     <tr class="text-black text-lg bg-white">
-                      <th colspan="3">12 weeks of german release schedule</th>
+                      <th colspan="3">All Updates & Release Schedule</th>
                     </tr>
                     <tr class="text-white text-xl">
                       <th class="font-bold lg:w-[15%] text-left p-[30px] rounded-tl-xl">DATE</th>
-                      <th class="font-bold w-[25%] text-left p-[30px]">CAPABILITY</th>
+                      <th class="font-bold w-[25%] text-left p-[30px]">FEATURE</th>
                       <th class="font-bold w-[40%] text-left p-[30px] rounded-tr-xl">DESCRIPTION</th>
                     </tr>
                   </thead>
