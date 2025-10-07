@@ -18,7 +18,7 @@
 
 <section class="mt-6" id='freecontent'>
   <h1 class="block text-k_yellow text-2xl font-bold mb-3 text-center"> 
-     {tileCount} Ways To Unleash <p class="block md:inline"> The {currentLang} You </p>
+     {tileCount} Ways To Unleash <span class="block md:inline"> The {currentLang} You </span>
     <p class="block text-white">Easier - Faster - Cooler</p>
     <p class="block text-white">Than You Ever Imagined</p>
     
@@ -92,7 +92,7 @@
             <p class="text-[12px] md:text-[14px] text-black mx-1 mt-1 px-1">{lessonDescription}</p>
             <!-- try it in kleo button -->
               <div class="flex flex-row absolute bottom-1 right-4 sm:right-9 bg-k_blue-600 rounded-xl h-7 w-28 mx-auto place-content-center border-0 shadow-blue-800 shadow-sm">
-                <a href={lessonLink} rel="external">
+                <a href={lessonLink}>
                   <p class="text-white text-xs inline">Try it in Kleo</p>
                   <!-- this is the apple icon -->
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" class="fill-indigo-300 h-5 pl-1 inline"><!--! Font Awesome Pro 6.1.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. --><path d="M318.7 268.7c-.2-36.7 16.4-64.4 50-84.8-18.8-26.9-47.2-41.7-84.7-44.6-35.5-2.8-74.3 20.7-88.5 20.7-15 0-49.4-19.7-76.4-19.7C63.3 141.2 4 184.8 4 273.5q0 39.3 14.4 81.2c12.8 36.7 59 126.7 107.2 125.2 25.2-.6 43-17.9 75.8-17.9 31.8 0 48.3 17.9 76.4 17.9 48.6-.7 90.4-82.5 102.6-119.3-65.2-30.7-61.7-90-61.7-91.9zm-56.6-164.2c27.3-32.4 24.8-61.9 24-72.5-24.1 1.4-52 16.4-67.9 34.9-17.5 19.8-27.8 44.3-25.6 71.9 26.1 2 49.9-11.4 69.5-34.3z"/></svg>                
