@@ -48,19 +48,19 @@ tldr: "The Italian alphabet has 21 letters (no J, K, W, X, Y). Key sounds: C bef
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_it_ciao'} displayname={'ciao'} />
+					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_ciao'} displayname={'ciao'} />
 				</td>
 				<td>hello / goodbye</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_it_buono'} displayname={'buono'} />
+					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_buono'} displayname={'buono'} />
 				</td>
 				<td>good</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_it_acqua'} displayname={'acqua'} />
+					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_acqua'} displayname={'acqua'} />
 				</td>
 				<td>water</td>
 			</tr>
@@ -84,13 +84,13 @@ tldr: "The Italian alphabet has 21 letters (no J, K, W, X, Y). Key sounds: C bef
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_it_cena'} displayname={'cena'} />
+					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_cena'} displayname={'cena'} />
 				</td>
 				<td>dinner</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_it_ciao'} displayname={'ciao'} />
+					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_ciao'} displayname={'ciao'} />
 				</td>
 				<td>hello/bye</td>
 			</tr>
@@ -111,7 +111,7 @@ tldr: "The Italian alphabet has 21 letters (no J, K, W, X, Y). Key sounds: C bef
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_it_casa'} displayname={'casa'} />
+					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_casa'} displayname={'casa'} />
 				</td>
 				<td>house</td>
 			</tr>
@@ -132,7 +132,7 @@ tldr: "The Italian alphabet has 21 letters (no J, K, W, X, Y). Key sounds: C bef
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_it_che'} displayname={'che'} />
+					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_che'} displayname={'che'} />
 				</td>
 				<td>what / that</td>
 			</tr>
@@ -157,7 +157,7 @@ tldr: "The Italian alphabet has 21 letters (no J, K, W, X, Y). Key sounds: C bef
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_it_gelato'} displayname={'gelato'} />
+					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_gelato'} displayname={'gelato'} />
 				</td>
 				<td>ice cream</td>
 			</tr>
@@ -178,7 +178,7 @@ tldr: "The Italian alphabet has 21 letters (no J, K, W, X, Y). Key sounds: C bef
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_it_gatto'} displayname={'gatto'} />
+					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_gatto'} displayname={'gatto'} />
 				</td>
 				<td>cat</td>
 			</tr>
@@ -199,7 +199,7 @@ tldr: "The Italian alphabet has 21 letters (no J, K, W, X, Y). Key sounds: C bef
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_it_spaghetti'} displayname={'spaghetti'} />
+					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_spaghetti'} displayname={'spaghetti'} />
 				</td>
 				<td>spaghetti</td>
 			</tr>
@@ -223,7 +223,7 @@ tldr: "The Italian alphabet has 21 letters (no J, K, W, X, Y). Key sounds: C bef
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_it_famiglia'} displayname={'famiglia'} />
+					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_famiglia'} displayname={'famiglia'} />
 				</td>
 				<td>family</td>
 			</tr>
@@ -244,7 +244,7 @@ tldr: "The Italian alphabet has 21 letters (no J, K, W, X, Y). Key sounds: C bef
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_it_gnocchi'} displayname={'gnocchi'} />
+					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_gnocchi'} displayname={'gnocchi'} />
 				</td>
 				<td>gnocchi</td>
 			</tr>
@@ -264,13 +264,13 @@ tldr: "The Italian alphabet has 21 letters (no J, K, W, X, Y). Key sounds: C bef
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_it_pizza'} displayname={'pizza'} />
+					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_pizza'} displayname={'pizza'} />
 				</td>
 				<td>pizza</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_it_zero'} displayname={'zero'} />
+					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_zero'} displayname={'zero'} />
 				</td>
 				<td>zero</td>
 			</tr>

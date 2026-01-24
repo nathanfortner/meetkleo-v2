@@ -47,14 +47,14 @@ tldr: "Spanish has two main ways to say 'I love you': 'te quiero' (casual, for f
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_es_te_quiero'} displayname={'te quiero'} />
+					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_te_quiero'} displayname={'te quiero'} />
 				</td>
 				<td>I love you</td>
 				<td>Family, friends, new relationships</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_es_te_amo'} displayname={'te amo'} />
+					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_te_amo'} displayname={'te amo'} />
 				</td>
 				<td>I love you (deeply)</td>
 				<td>Deep romantic love</td>
@@ -77,14 +77,14 @@ tldr: "Spanish has two main ways to say 'I love you': 'te quiero' (casual, for f
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_es_te_adoro'} displayname={'te adoro'} />
+					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_te_adoro'} displayname={'te adoro'} />
 				</td>
 				<td>I adore you</td>
 				<td>Very emphatic, romantic</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_es_te_quiero_mucho'} displayname={'te quiero mucho'} />
+					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_te_quiero_mucho'} displayname={'te quiero mucho'} />
 				</td>
 				<td>I love you a lot</td>
 				<td>Emphatic "te quiero"</td>
@@ -106,14 +106,14 @@ tldr: "Spanish has two main ways to say 'I love you': 'te quiero' (casual, for f
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_es_mi_amor'} displayname={'mi amor'} />
+					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_mi_amor'} displayname={'mi amor'} />
 				</td>
 				<td>my love</td>
 				<td>Very common, for partners</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_es_carino'} displayname={'cariño'} />
+					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_carino'} displayname={'cariño'} />
 				</td>
 				<td>darling / sweetie</td>
 				<td>Warm, affectionate</td>

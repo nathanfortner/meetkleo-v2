@@ -50,7 +50,7 @@ tldr: "Spanish has two R sounds: the single R (a quick tongue tap) and the rolle
 			<tr>
 				<td>Single R (tap)</td>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_es_pero'} displayname={'pero'} />
+					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_pero'} displayname={'pero'} />
 				</td>
 				<td>but</td>
 				<td>Quick tongue tap</td>
@@ -58,7 +58,7 @@ tldr: "Spanish has two R sounds: the single R (a quick tongue tap) and the rolle
 			<tr>
 				<td>Double RR (trill)</td>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_es_perro'} displayname={'perro'} />
+					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_perro'} displayname={'perro'} />
 				</td>
 				<td>dog</td>
 				<td>Rolled/trilled</td>
@@ -84,19 +84,19 @@ tldr: "Spanish has two R sounds: the single R (a quick tongue tap) and the rolle
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_es_perro'} displayname={'perro'} />
+					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_perro'} displayname={'perro'} />
 				</td>
 				<td>dog</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_es_carro'} displayname={'carro'} />
+					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_carro'} displayname={'carro'} />
 				</td>
 				<td>car</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_es_arroz'} displayname={'arroz'} />
+					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_arroz'} displayname={'arroz'} />
 				</td>
 				<td>rice</td>
 			</tr>
@@ -117,19 +117,19 @@ tldr: "Spanish has two R sounds: the single R (a quick tongue tap) and the rolle
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_es_rosa'} displayname={'rosa'} />
+					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_rosa'} displayname={'rosa'} />
 				</td>
 				<td>rose</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_es_rico'} displayname={'rico'} />
+					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_rico'} displayname={'rico'} />
 				</td>
 				<td>rich/delicious</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_es_raton'} displayname={'ratón'} />
+					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_raton'} displayname={'ratón'} />
 				</td>
 				<td>mouse</td>
 			</tr>
@@ -150,13 +150,13 @@ tldr: "Spanish has two R sounds: the single R (a quick tongue tap) and the rolle
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_es_alrededor'} displayname={'alrededor'} />
+					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_alrededor'} displayname={'alrededor'} />
 				</td>
 				<td>around</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_es_enrique'} displayname={'Enrique'} />
+					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_enrique'} displayname={'Enrique'} />
 				</td>
 				<td>Henry (name)</td>
 			</tr>
@@ -176,13 +176,13 @@ tldr: "Spanish has two R sounds: the single R (a quick tongue tap) and the rolle
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_es_pero'} displayname={'pero'} />
+					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_pero'} displayname={'pero'} />
 				</td>
 				<td>but</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_es_caro'} displayname={'caro'} />
+					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_caro'} displayname={'caro'} />
 				</td>
 				<td>expensive</td>
 			</tr>
@@ -203,13 +203,13 @@ tldr: "Spanish has two R sounds: the single R (a quick tongue tap) and the rolle
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_es_tres'} displayname={'tres'} />
+					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_tres'} displayname={'tres'} />
 				</td>
 				<td>three</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_es_trabajo'} displayname={'trabajo'} />
+					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_trabajo'} displayname={'trabajo'} />
 				</td>
 				<td>work</td>
 			</tr>

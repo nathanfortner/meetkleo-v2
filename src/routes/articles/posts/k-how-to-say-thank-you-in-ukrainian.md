@@ -47,21 +47,21 @@ tldr: "Basic: 'дякую' (DYAH-koo-yoo) = thank you. Emphatic: 'дуже дя�
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_uk_dyakuyu'} displayname={'дякую'} />
+					<Kaudio lang={'uk'} pid={'AUDIO_NEEDED_uk_dyakuyu'} displayname={'дякую'} />
 				</td>
 				<td>DYAH-koo-yoo</td>
 				<td>thank you</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_uk_duzhe_dyakuyu'} displayname={'дуже дякую'} />
+					<Kaudio lang={'uk'} pid={'AUDIO_NEEDED_uk_duzhe_dyakuyu'} displayname={'дуже дякую'} />
 				</td>
 				<td>DOO-zheh DYAH-koo-yoo</td>
 				<td>thank you very much</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_uk_shchyro_dyakuyu'} displayname={'щиро дякую'} />
+					<Kaudio lang={'uk'} pid={'AUDIO_NEEDED_uk_shchyro_dyakuyu'} displayname={'щиро дякую'} />
 				</td>
 				<td>SHCHY-roh DYAH-koo-yoo</td>
 				<td>I sincerely thank you</td>
@@ -84,21 +84,21 @@ tldr: "Basic: 'дякую' (DYAH-koo-yoo) = thank you. Emphatic: 'дуже дя�
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_uk_bud_laska'} displayname={'будь ласка'} />
+					<Kaudio lang={'uk'} pid={'AUDIO_NEEDED_uk_bud_laska'} displayname={'будь ласка'} />
 				</td>
 				<td>bood' LAHS-kah</td>
 				<td>you're welcome / please</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_uk_nema_za_shcho'} displayname={'нема за що'} />
+					<Kaudio lang={'uk'} pid={'AUDIO_NEEDED_uk_nema_za_shcho'} displayname={'нема за що'} />
 				</td>
 				<td>neh-MAH zah SHCHO</td>
 				<td>it's nothing / don't mention it</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_uk_proshu'} displayname={'прошу'} />
+					<Kaudio lang={'uk'} pid={'AUDIO_NEEDED_uk_proshu'} displayname={'прошу'} />
 				</td>
 				<td>PROH-shoo</td>
 				<td>you're welcome</td>

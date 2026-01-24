@@ -51,7 +51,7 @@ tldr: "The Spanish alphabet has 27 letters - the 26 English letters plus Ñ. Key
 				<td>H</td>
 				<td>Always silent</td>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_es_hola'} displayname={'hola'} />
+					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_hola'} displayname={'hola'} />
 				</td>
 				<td>hello</td>
 			</tr>
@@ -59,7 +59,7 @@ tldr: "The Spanish alphabet has 27 letters - the 26 English letters plus Ñ. Key
 				<td>J</td>
 				<td>Like English "H"</td>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_es_jalapeno'} displayname={'jalapeño'} />
+					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_jalapeno'} displayname={'jalapeño'} />
 				</td>
 				<td>jalapeño</td>
 			</tr>
@@ -67,7 +67,7 @@ tldr: "The Spanish alphabet has 27 letters - the 26 English letters plus Ñ. Key
 				<td>LL</td>
 				<td>Like English "Y"</td>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_es_llamar'} displayname={'llamar'} />
+					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_llamar'} displayname={'llamar'} />
 				</td>
 				<td>to call</td>
 			</tr>
@@ -75,7 +75,7 @@ tldr: "The Spanish alphabet has 27 letters - the 26 English letters plus Ñ. Key
 				<td>Ñ</td>
 				<td>Like "NY" in canyon</td>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_es_nino'} displayname={'niño'} />
+					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_nino'} displayname={'niño'} />
 				</td>
 				<td>boy</td>
 			</tr>
@@ -83,7 +83,7 @@ tldr: "The Spanish alphabet has 27 letters - the 26 English letters plus Ñ. Key
 				<td>RR</td>
 				<td>Rolled/trilled</td>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_es_perro'} displayname={'perro'} />
+					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_perro'} displayname={'perro'} />
 				</td>
 				<td>dog</td>
 			</tr>
@@ -107,7 +107,7 @@ tldr: "The Spanish alphabet has 27 letters - the 26 English letters plus Ñ. Key
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_es_casa'} displayname={'casa'} />
+					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_casa'} displayname={'casa'} />
 				</td>
 				<td>house</td>
 			</tr>
@@ -128,7 +128,7 @@ tldr: "The Spanish alphabet has 27 letters - the 26 English letters plus Ñ. Key
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_es_cerveza'} displayname={'cerveza'} />
+					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_cerveza'} displayname={'cerveza'} />
 				</td>
 				<td>beer</td>
 			</tr>
@@ -152,7 +152,7 @@ tldr: "The Spanish alphabet has 27 letters - the 26 English letters plus Ñ. Key
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_es_gato'} displayname={'gato'} />
+					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_gato'} displayname={'gato'} />
 				</td>
 				<td>cat</td>
 			</tr>
@@ -173,7 +173,7 @@ tldr: "The Spanish alphabet has 27 letters - the 26 English letters plus Ñ. Key
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_es_gente'} displayname={'gente'} />
+					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_gente'} displayname={'gente'} />
 				</td>
 				<td>people</td>
 			</tr>
@@ -193,7 +193,7 @@ tldr: "The Spanish alphabet has 27 letters - the 26 English letters plus Ñ. Key
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_es_zapato'} displayname={'zapato'} />
+					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_zapato'} displayname={'zapato'} />
 				</td>
 				<td>shoe</td>
 			</tr>
@@ -213,7 +213,7 @@ tldr: "The Spanish alphabet has 27 letters - the 26 English letters plus Ñ. Key
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_es_queso'} displayname={'queso'} />
+					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_queso'} displayname={'queso'} />
 				</td>
 				<td>cheese</td>
 			</tr>
@@ -237,7 +237,7 @@ tldr: "The Spanish alphabet has 27 letters - the 26 English letters plus Ñ. Key
 				<td>A</td>
 				<td>"ah" as in "father"</td>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_es_agua'} displayname={'agua'} />
+					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_agua'} displayname={'agua'} />
 				</td>
 				<td>water</td>
 			</tr>
@@ -245,7 +245,7 @@ tldr: "The Spanish alphabet has 27 letters - the 26 English letters plus Ñ. Key
 				<td>E</td>
 				<td>"eh" as in "bed"</td>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_es_pero'} displayname={'pero'} />
+					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_pero'} displayname={'pero'} />
 				</td>
 				<td>but</td>
 			</tr>
@@ -253,7 +253,7 @@ tldr: "The Spanish alphabet has 27 letters - the 26 English letters plus Ñ. Key
 				<td>I</td>
 				<td>"ee" as in "see"</td>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_es_nino'} displayname={'niño'} />
+					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_nino'} displayname={'niño'} />
 				</td>
 				<td>boy</td>
 			</tr>
@@ -261,7 +261,7 @@ tldr: "The Spanish alphabet has 27 letters - the 26 English letters plus Ñ. Key
 				<td>O</td>
 				<td>"oh" as in "go"</td>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_es_hola'} displayname={'hola'} />
+					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_hola'} displayname={'hola'} />
 				</td>
 				<td>hello</td>
 			</tr>
@@ -269,7 +269,7 @@ tldr: "The Spanish alphabet has 27 letters - the 26 English letters plus Ñ. Key
 				<td>U</td>
 				<td>"oo" as in "food"</td>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_es_bueno'} displayname={'bueno'} />
+					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_bueno'} displayname={'bueno'} />
 				</td>
 				<td>good</td>
 			</tr>

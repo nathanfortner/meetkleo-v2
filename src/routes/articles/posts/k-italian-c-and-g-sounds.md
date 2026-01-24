@@ -51,21 +51,21 @@ tldr: "Italian C before E/I = 'CH' sound (cena, ciao). C before A/O/U = 'K' soun
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_it_cena'} displayname={'cena'} />
+					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_cena'} displayname={'cena'} />
 				</td>
 				<td>dinner</td>
 				<td>CHEH-nah</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_it_ciao'} displayname={'ciao'} />
+					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_ciao'} displayname={'ciao'} />
 				</td>
 				<td>hello/bye</td>
 				<td>CHOW</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_it_amici'} displayname={'amici'} />
+					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_amici'} displayname={'amici'} />
 				</td>
 				<td>friends</td>
 				<td>ah-MEE-chee</td>
@@ -88,7 +88,7 @@ tldr: "Italian C before E/I = 'CH' sound (cena, ciao). C before A/O/U = 'K' soun
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_it_casa'} displayname={'casa'} />
+					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_casa'} displayname={'casa'} />
 				</td>
 				<td>house</td>
 				<td>KAH-zah</td>
@@ -111,14 +111,14 @@ tldr: "Italian C before E/I = 'CH' sound (cena, ciao). C before A/O/U = 'K' soun
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_it_che'} displayname={'che'} />
+					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_che'} displayname={'che'} />
 				</td>
 				<td>what/that</td>
 				<td>KEH</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_it_amiche'} displayname={'amiche'} />
+					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_amiche'} displayname={'amiche'} />
 				</td>
 				<td>friends (f)</td>
 				<td>ah-MEE-keh</td>
@@ -144,21 +144,21 @@ tldr: "Italian C before E/I = 'CH' sound (cena, ciao). C before A/O/U = 'K' soun
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_it_gelato'} displayname={'gelato'} />
+					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_gelato'} displayname={'gelato'} />
 				</td>
 				<td>ice cream</td>
 				<td>jeh-LAH-toh</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_it_gente'} displayname={'gente'} />
+					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_gente'} displayname={'gente'} />
 				</td>
 				<td>people</td>
 				<td>JEN-teh</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_it_giorno'} displayname={'giorno'} />
+					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_giorno'} displayname={'giorno'} />
 				</td>
 				<td>day</td>
 				<td>JOR-noh</td>
@@ -181,7 +181,7 @@ tldr: "Italian C before E/I = 'CH' sound (cena, ciao). C before A/O/U = 'K' soun
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_it_gatto'} displayname={'gatto'} />
+					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_gatto'} displayname={'gatto'} />
 				</td>
 				<td>cat</td>
 				<td>GAHT-toh</td>
@@ -204,14 +204,14 @@ tldr: "Italian C before E/I = 'CH' sound (cena, ciao). C before A/O/U = 'K' soun
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_it_spaghetti'} displayname={'spaghetti'} />
+					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_spaghetti'} displayname={'spaghetti'} />
 				</td>
 				<td>spaghetti</td>
 				<td>spah-GET-tee</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_it_funghi'} displayname={'funghi'} />
+					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_funghi'} displayname={'funghi'} />
 				</td>
 				<td>mushrooms</td>
 				<td>FOON-gee</td>
@@ -264,31 +264,31 @@ tldr: "Italian C before E/I = 'CH' sound (cena, ciao). C before A/O/U = 'K' soun
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_it_ciao'} displayname={'ciao'} />
+					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_ciao'} displayname={'ciao'} />
 				</td>
 				<td>hello</td>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_it_che'} displayname={'che'} />
+					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_che'} displayname={'che'} />
 				</td>
 				<td>what</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_it_amici'} displayname={'amici'} />
+					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_amici'} displayname={'amici'} />
 				</td>
 				<td>friends (m)</td>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_it_amiche'} displayname={'amiche'} />
+					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_amiche'} displayname={'amiche'} />
 				</td>
 				<td>friends (f)</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_it_gelato'} displayname={'gelato'} />
+					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_gelato'} displayname={'gelato'} />
 				</td>
 				<td>ice cream</td>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_it_spaghetti'} displayname={'spaghetti'} />
+					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_spaghetti'} displayname={'spaghetti'} />
 				</td>
 				<td>spaghetti</td>
 			</tr>

@@ -47,21 +47,21 @@ tldr: "Basic: 'grazie' (GRAHT-see-eh). Emphatic: 'grazie mille' (thanks a lot), 
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_it_grazie'} displayname={'grazie'} />
+					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_grazie'} displayname={'grazie'} />
 				</td>
 				<td>thank you</td>
 				<td>Everyday situations</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_it_grazie_mille'} displayname={'grazie mille'} />
+					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_grazie_mille'} displayname={'grazie mille'} />
 				</td>
 				<td>thanks a lot (lit: a thousand thanks)</td>
 				<td>More emphatic</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_it_grazie_tante'} displayname={'grazie tante'} />
+					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_grazie_tante'} displayname={'grazie tante'} />
 				</td>
 				<td>many thanks</td>
 				<td>Emphatic</td>
@@ -84,21 +84,21 @@ tldr: "Basic: 'grazie' (GRAHT-see-eh). Emphatic: 'grazie mille' (thanks a lot), 
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_it_prego'} displayname={'prego'} />
+					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_prego'} displayname={'prego'} />
 				</td>
 				<td>you're welcome</td>
 				<td>Most common - works everywhere</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_it_di_niente'} displayname={'di niente'} />
+					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_di_niente'} displayname={'di niente'} />
 				</td>
 				<td>it's nothing</td>
 				<td>Casual, friendly</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_it_figurati'} displayname={'figurati'} />
+					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_figurati'} displayname={'figurati'} />
 				</td>
 				<td>don't mention it</td>
 				<td>Informal (to friends)</td>
@@ -120,7 +120,7 @@ tldr: "Basic: 'grazie' (GRAHT-see-eh). Emphatic: 'grazie mille' (thanks a lot), 
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_it_ti_ringrazio'} displayname={'ti ringrazio'} />
+					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_ti_ringrazio'} displayname={'ti ringrazio'} />
 				</td>
 				<td>I thank you (informal)</td>
 			</tr>

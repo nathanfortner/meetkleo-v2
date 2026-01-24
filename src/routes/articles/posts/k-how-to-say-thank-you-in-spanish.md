@@ -47,28 +47,28 @@ tldr: "Basic: 'gracias' (thank you). Emphatic: 'muchas gracias' (thank you very 
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_es_gracias'} displayname={'gracias'} />
+					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_gracias'} displayname={'gracias'} />
 				</td>
 				<td>thank you</td>
 				<td>Everyday situations</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_es_muchas_gracias'} displayname={'muchas gracias'} />
+					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_muchas_gracias'} displayname={'muchas gracias'} />
 				</td>
 				<td>thank you very much</td>
 				<td>More emphatic thanks</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_es_muchisimas_gracias'} displayname={'muchísimas gracias'} />
+					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_muchisimas_gracias'} displayname={'muchísimas gracias'} />
 				</td>
 				<td>thank you so much</td>
 				<td>Very emphatic</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_es_mil_gracias'} displayname={'mil gracias'} />
+					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_mil_gracias'} displayname={'mil gracias'} />
 				</td>
 				<td>a thousand thanks</td>
 				<td>Heartfelt gratitude</td>
@@ -91,21 +91,21 @@ tldr: "Basic: 'gracias' (thank you). Emphatic: 'muchas gracias' (thank you very 
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_es_de_nada'} displayname={'de nada'} />
+					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_de_nada'} displayname={'de nada'} />
 				</td>
 				<td>you're welcome (lit: "of nothing")</td>
 				<td>Universal</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_es_no_hay_de_que'} displayname={'no hay de qué'} />
+					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_no_hay_de_que'} displayname={'no hay de qué'} />
 				</td>
 				<td>don't mention it</td>
 				<td>Slightly formal</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_es_gracias_a_ti'} displayname={'gracias a ti'} />
+					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_gracias_a_ti'} displayname={'gracias a ti'} />
 				</td>
 				<td>thank YOU</td>
 				<td>Returning thanks</td>
@@ -127,7 +127,7 @@ tldr: "Basic: 'gracias' (thank you). Emphatic: 'muchas gracias' (thank you very 
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_es_te_lo_agradezco'} displayname={'te lo agradezco'} />
+					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_te_lo_agradezco'} displayname={'te lo agradezco'} />
 				</td>
 				<td>I appreciate it (informal)</td>
 			</tr>

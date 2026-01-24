@@ -48,21 +48,21 @@ tldr: "The Italian R is a tongue-tip trill made at the front of the mouth - neve
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_it_roma'} displayname={'Roma'} />
+					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_roma'} displayname={'Roma'} />
 				</td>
 				<td>Rome</td>
 				<td>Initial R</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_it_rosso'} displayname={'rosso'} />
+					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_rosso'} displayname={'rosso'} />
 				</td>
 				<td>red</td>
 				<td>Initial R</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_it_amore'} displayname={'amore'} />
+					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_amore'} displayname={'amore'} />
 				</td>
 				<td>love</td>
 				<td>R between vowels</td>
@@ -85,21 +85,21 @@ tldr: "The Italian R is a tongue-tip trill made at the front of the mouth - neve
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_it_caro'} displayname={'caro'} />
+					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_caro'} displayname={'caro'} />
 				</td>
 				<td>dear/expensive</td>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_it_carro'} displayname={'carro'} />
+					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_carro'} displayname={'carro'} />
 				</td>
 				<td>cart</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_it_sera'} displayname={'sera'} />
+					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_sera'} displayname={'sera'} />
 				</td>
 				<td>evening</td>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_it_terra'} displayname={'terra'} />
+					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_terra'} displayname={'terra'} />
 				</td>
 				<td>earth</td>
 			</tr>
@@ -124,13 +124,13 @@ tldr: "The Italian R is a tongue-tip trill made at the front of the mouth - neve
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_it_roma'} displayname={'Roma'} />
+					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_roma'} displayname={'Roma'} />
 				</td>
 				<td>Rome</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_it_rosso'} displayname={'rosso'} />
+					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_rosso'} displayname={'rosso'} />
 				</td>
 				<td>red</td>
 			</tr>
@@ -152,13 +152,13 @@ tldr: "The Italian R is a tongue-tip trill made at the front of the mouth - neve
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_it_caro'} displayname={'caro'} />
+					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_caro'} displayname={'caro'} />
 				</td>
 				<td>dear</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_it_sera'} displayname={'sera'} />
+					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_sera'} displayname={'sera'} />
 				</td>
 				<td>evening</td>
 			</tr>
@@ -179,13 +179,13 @@ tldr: "The Italian R is a tongue-tip trill made at the front of the mouth - neve
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_it_tre'} displayname={'tre'} />
+					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_tre'} displayname={'tre'} />
 				</td>
 				<td>three</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_it_primo'} displayname={'primo'} />
+					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_primo'} displayname={'primo'} />
 				</td>
 				<td>first</td>
 			</tr>
@@ -205,19 +205,19 @@ tldr: "The Italian R is a tongue-tip trill made at the front of the mouth - neve
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_it_birra'} displayname={'birra'} />
+					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_birra'} displayname={'birra'} />
 				</td>
 				<td>beer</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_it_carro'} displayname={'carro'} />
+					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_carro'} displayname={'carro'} />
 				</td>
 				<td>cart</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_it_terra'} displayname={'terra'} />
+					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_terra'} displayname={'terra'} />
 				</td>
 				<td>earth</td>
 			</tr>

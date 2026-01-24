@@ -48,21 +48,21 @@ tldr: "Ї (yi) = 'YEE' as in 'yield' - unique to Ukrainian (їжа = food, Ки�
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_uk_yikhaty'} displayname={'їхати'} />
+					<Kaudio lang={'uk'} pid={'AUDIO_NEEDED_uk_yikhaty'} displayname={'їхати'} />
 				</td>
 				<td>YEE-khah-ty</td>
 				<td>to go / to ride</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_uk_yisty'} displayname={'їсти'} />
+					<Kaudio lang={'uk'} pid={'AUDIO_NEEDED_uk_yisty'} displayname={'їсти'} />
 				</td>
 				<td>YEES-ty</td>
 				<td>to eat</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_uk_kyiv'} displayname={'Київ'} />
+					<Kaudio lang={'uk'} pid={'AUDIO_NEEDED_uk_kyiv'} displayname={'Київ'} />
 				</td>
 				<td>KY-yeev</td>
 				<td>Kyiv (capital city)</td>
@@ -85,14 +85,14 @@ tldr: "Ї (yi) = 'YEE' as in 'yield' - unique to Ukrainian (їжа = food, Ки�
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_uk_yevropa'} displayname={'Європа'} />
+					<Kaudio lang={'uk'} pid={'AUDIO_NEEDED_uk_yevropa'} displayname={'Європа'} />
 				</td>
 				<td>yev-ROH-pah</td>
 				<td>Europe</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_uk_yedynyi'} displayname={'єдиний'} />
+					<Kaudio lang={'uk'} pid={'AUDIO_NEEDED_uk_yedynyi'} displayname={'єдиний'} />
 				</td>
 				<td>yeh-DY-nyy</td>
 				<td>only / single</td>
@@ -119,14 +119,14 @@ tldr: "Ї (yi) = 'YEE' as in 'yield' - unique to Ukrainian (їжа = food, Ки�
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_uk_ganok'} displayname={'ґанок'} />
+					<Kaudio lang={'uk'} pid={'AUDIO_NEEDED_uk_ganok'} displayname={'ґанок'} />
 				</td>
 				<td>GAH-nok</td>
 				<td>porch</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_uk_gudzyk'} displayname={'ґудзик'} />
+					<Kaudio lang={'uk'} pid={'AUDIO_NEEDED_uk_gudzyk'} displayname={'ґудзик'} />
 				</td>
 				<td>GOO-dzyk</td>
 				<td>button</td>
@@ -151,13 +151,13 @@ tldr: "Ї (yi) = 'YEE' as in 'yield' - unique to Ukrainian (їжа = food, Ки�
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_uk_shchastya'} displayname={'щастя'} />
+					<Kaudio lang={'uk'} pid={'AUDIO_NEEDED_uk_shchastya'} displayname={'щастя'} />
 				</td>
 				<td>happiness</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_uk_borshch'} displayname={'борщ'} />
+					<Kaudio lang={'uk'} pid={'AUDIO_NEEDED_uk_borshch'} displayname={'борщ'} />
 				</td>
 				<td>borscht (beet soup)</td>
 			</tr>
@@ -179,7 +179,7 @@ tldr: "Ї (yi) = 'YEE' as in 'yield' - unique to Ukrainian (їжа = food, Ки�
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_uk_tsina'} displayname={'ціна'} />
+					<Kaudio lang={'uk'} pid={'AUDIO_NEEDED_uk_tsina'} displayname={'ціна'} />
 				</td>
 				<td>price</td>
 			</tr>

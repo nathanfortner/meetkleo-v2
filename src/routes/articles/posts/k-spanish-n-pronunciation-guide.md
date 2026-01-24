@@ -49,28 +49,28 @@ tldr: "The Spanish Ñ sounds like 'NY' in 'canyon' or 'onion'. It's a single sou
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_es_nino'} displayname={'niño'} />
+					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_nino'} displayname={'niño'} />
 				</td>
 				<td>boy</td>
 				<td>"NEEN-yo"</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_es_nina'} displayname={'niña'} />
+					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_nina'} displayname={'niña'} />
 				</td>
 				<td>girl</td>
 				<td>"NEEN-ya"</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_es_espana'} displayname={'España'} />
+					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_espana'} displayname={'España'} />
 				</td>
 				<td>Spain</td>
 				<td>"es-PAN-ya"</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_es_espanol'} displayname={'español'} />
+					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_espanol'} displayname={'español'} />
 				</td>
 				<td>Spanish</td>
 				<td>"es-pan-YOL"</td>
@@ -93,7 +93,7 @@ tldr: "The Spanish Ñ sounds like 'NY' in 'canyon' or 'onion'. It's a single sou
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_es_ano'} displayname={'año'} />
+					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_ano'} displayname={'año'} />
 				</td>
 				<td>year</td>
 				<td>ano</td>
@@ -120,19 +120,19 @@ tldr: "The Spanish Ñ sounds like 'NY' in 'canyon' or 'onion'. It's a single sou
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_es_ano'} displayname={'año'} />
+					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_ano'} displayname={'año'} />
 				</td>
 				<td>year</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_es_manana'} displayname={'mañana'} />
+					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_manana'} displayname={'mañana'} />
 				</td>
 				<td>tomorrow / morning</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_es_cumpleanos'} displayname={'cumpleaños'} />
+					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_cumpleanos'} displayname={'cumpleaños'} />
 				</td>
 				<td>birthday</td>
 			</tr>
@@ -153,25 +153,25 @@ tldr: "The Spanish Ñ sounds like 'NY' in 'canyon' or 'onion'. It's a single sou
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_es_nino'} displayname={'niño'} />
+					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_nino'} displayname={'niño'} />
 				</td>
 				<td>boy / child</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_es_nina'} displayname={'niña'} />
+					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_nina'} displayname={'niña'} />
 				</td>
 				<td>girl</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_es_senor'} displayname={'señor'} />
+					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_senor'} displayname={'señor'} />
 				</td>
 				<td>mister / sir</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_es_senora'} displayname={'señora'} />
+					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_senora'} displayname={'señora'} />
 				</td>
 				<td>mrs / madam</td>
 			</tr>
@@ -192,19 +192,19 @@ tldr: "The Spanish Ñ sounds like 'NY' in 'canyon' or 'onion'. It's a single sou
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_es_pequeno'} displayname={'pequeño'} />
+					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_pequeno'} displayname={'pequeño'} />
 				</td>
 				<td>small</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_es_sueno'} displayname={'sueño'} />
+					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_sueno'} displayname={'sueño'} />
 				</td>
 				<td>dream / sleep</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_es_bano'} displayname={'baño'} />
+					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_bano'} displayname={'baño'} />
 				</td>
 				<td>bathroom</td>
 			</tr>

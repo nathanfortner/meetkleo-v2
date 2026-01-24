@@ -2,19 +2,24 @@
 
     export let displayname;
     export let pid;
+    export let lang = 'de'; // default to German for backwards compatibility
 
     displayname;
     pid;
 
+    // Language code mapping for audio paths
+    const langCodes = {
+        'de': 'en_nt_de',
+        'es': 'en_nt_es',
+        'it': 'en_nt_it',
+        'uk': 'en_nt_uk'
+    };
 
     //audio url parts
     let kAudio;
-    let kAudioUrl = 'https://ddseu0ssi.mo.cloudinary.net/audio/en_nt_de/phrase/'
-    //let kAudioUrl = 'https://ddseu0ssi.mo.cloudinary.net/audio/en_nt_de/phrase/'
-    // https://d302naonb9wq01.cloudfront.net 
-    // let kAudioTag = '_0';
-    // let kAudioExtentsion = ".mp3"
-    let kAudioFullUrl = `${kAudioUrl}${pid}`;
+    let kAudioBaseUrl = 'https://ddseu0ssi.mo.cloudinary.net/audio/';
+    let langPath = langCodes[lang] || 'en_nt_de';
+    let kAudioFullUrl = `${kAudioBaseUrl}${langPath}/phrase/${pid}`;
 
     function playAudio() {
         kAudio.play();

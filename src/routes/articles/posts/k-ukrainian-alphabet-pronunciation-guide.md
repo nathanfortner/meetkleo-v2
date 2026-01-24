@@ -47,35 +47,35 @@ tldr: "Ukrainian uses the Cyrillic alphabet with 33 letters. Many look familiar 
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_uk_pryvit'} displayname={'привіт'} />
+					<Kaudio lang={'uk'} pid={'AUDIO_NEEDED_uk_pryvit'} displayname={'привіт'} />
 				</td>
 				<td>pry-VEET</td>
 				<td>hello</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_uk_tak'} displayname={'так'} />
+					<Kaudio lang={'uk'} pid={'AUDIO_NEEDED_uk_tak'} displayname={'так'} />
 				</td>
 				<td>tahk</td>
 				<td>yes</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_uk_ni'} displayname={'ні'} />
+					<Kaudio lang={'uk'} pid={'AUDIO_NEEDED_uk_ni'} displayname={'ні'} />
 				</td>
 				<td>nee</td>
 				<td>no</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_uk_dobre'} displayname={'добре'} />
+					<Kaudio lang={'uk'} pid={'AUDIO_NEEDED_uk_dobre'} displayname={'добре'} />
 				</td>
 				<td>DOH-breh</td>
 				<td>good / okay</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_uk_bud_laska'} displayname={'будь ласка'} />
+					<Kaudio lang={'uk'} pid={'AUDIO_NEEDED_uk_bud_laska'} displayname={'будь ласка'} />
 				</td>
 				<td>bood' LAHS-kah</td>
 				<td>please</td>
@@ -135,25 +135,25 @@ tldr: "Ukrainian uses the Cyrillic alphabet with 33 letters. Many look familiar 
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_uk_voda'} displayname={'вода'} />
+					<Kaudio lang={'uk'} pid={'AUDIO_NEEDED_uk_voda'} displayname={'вода'} />
 				</td>
 				<td>water</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_uk_khlib'} displayname={'хліб'} />
+					<Kaudio lang={'uk'} pid={'AUDIO_NEEDED_uk_khlib'} displayname={'хліб'} />
 				</td>
 				<td>bread</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_uk_misto'} displayname={'місто'} />
+					<Kaudio lang={'uk'} pid={'AUDIO_NEEDED_uk_misto'} displayname={'місто'} />
 				</td>
 				<td>city</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_uk_ukrayina'} displayname={'Україна'} />
+					<Kaudio lang={'uk'} pid={'AUDIO_NEEDED_uk_ukrayina'} displayname={'Україна'} />
 				</td>
 				<td>Ukraine</td>
 			</tr>
@@ -173,7 +173,7 @@ tldr: "Ukrainian uses the Cyrillic alphabet with 33 letters. Many look familiar 
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_uk_khlib'} displayname={'хліб'} />
+					<Kaudio lang={'uk'} pid={'AUDIO_NEEDED_uk_khlib'} displayname={'хліб'} />
 				</td>
 				<td>bread</td>
 			</tr>
@@ -197,7 +197,7 @@ tldr: "Ukrainian uses the Cyrillic alphabet with 33 letters. Many look familiar 
 				<td>Ї ї</td>
 				<td>"YEE"</td>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_uk_yizha'} displayname={'їжа'} />
+					<Kaudio lang={'uk'} pid={'AUDIO_NEEDED_uk_yizha'} displayname={'їжа'} />
 				</td>
 				<td>food</td>
 			</tr>
@@ -205,7 +205,7 @@ tldr: "Ukrainian uses the Cyrillic alphabet with 33 letters. Many look familiar 
 				<td>І і</td>
 				<td>"EE"</td>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_uk_misto'} displayname={'місто'} />
+					<Kaudio lang={'uk'} pid={'AUDIO_NEEDED_uk_misto'} displayname={'місто'} />
 				</td>
 				<td>city</td>
 			</tr>

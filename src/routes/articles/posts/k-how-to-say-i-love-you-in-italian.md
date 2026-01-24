@@ -47,14 +47,14 @@ tldr: "Italian distinguishes between romantic love and affectionate love: 'ti am
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_it_ti_amo'} displayname={'ti amo'} />
+					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_ti_amo'} displayname={'ti amo'} />
 				</td>
 				<td>I love you</td>
 				<td>Romantic partners only</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_it_ti_voglio_bene'} displayname={'ti voglio bene'} />
+					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_ti_voglio_bene'} displayname={'ti voglio bene'} />
 				</td>
 				<td>I love you</td>
 				<td>Family, friends, pets</td>
@@ -77,28 +77,28 @@ tldr: "Italian distinguishes between romantic love and affectionate love: 'ti am
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_it_amore_mio'} displayname={'amore mio'} />
+					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_amore_mio'} displayname={'amore mio'} />
 				</td>
 				<td>my love</td>
 				<td>Very common for partners</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_it_tesoro'} displayname={'tesoro'} />
+					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_tesoro'} displayname={'tesoro'} />
 				</td>
 				<td>treasure / darling</td>
 				<td>Sweet and affectionate</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_it_cara'} displayname={'cara'} />
+					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_cara'} displayname={'cara'} />
 				</td>
 				<td>dear (to a woman)</td>
 				<td>Warm, affectionate</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_it_caro'} displayname={'caro'} />
+					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_caro'} displayname={'caro'} />
 				</td>
 				<td>dear (to a man)</td>
 				<td>Warm, affectionate</td>

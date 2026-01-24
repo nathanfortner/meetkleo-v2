@@ -47,14 +47,14 @@ tldr: "Ukrainian has two ways to say 'I love you': 'Я тебе кохаю' (ya 
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_uk_ya_tebe_kokhayu'} displayname={'я тебе кохаю'} />
+					<Kaudio lang={'uk'} pid={'AUDIO_NEEDED_uk_ya_tebe_kokhayu'} displayname={'я тебе кохаю'} />
 				</td>
 				<td>ya TEH-beh ko-KHAH-yoo</td>
 				<td>Romantic love only</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_uk_ya_tebe_lyublyu'} displayname={'я тебе люблю'} />
+					<Kaudio lang={'uk'} pid={'AUDIO_NEEDED_uk_ya_tebe_lyublyu'} displayname={'я тебе люблю'} />
 				</td>
 				<td>ya TEH-beh lyoo-BLYOO</td>
 				<td>General love (family, friends, things)</td>
@@ -77,28 +77,28 @@ tldr: "Ukrainian has two ways to say 'I love you': 'Я тебе кохаю' (ya 
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_uk_kokhannya_moye'} displayname={'кохання моє'} />
+					<Kaudio lang={'uk'} pid={'AUDIO_NEEDED_uk_kokhannya_moye'} displayname={'кохання моє'} />
 				</td>
 				<td>ko-KHAH-nya mo-YE</td>
 				<td>my love</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_uk_lyubyi'} displayname={'любий'} />
+					<Kaudio lang={'uk'} pid={'AUDIO_NEEDED_uk_lyubyi'} displayname={'любий'} />
 				</td>
 				<td>lyoo-BYY</td>
 				<td>dear (to a man)</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_uk_lyuba'} displayname={'люба'} />
+					<Kaudio lang={'uk'} pid={'AUDIO_NEEDED_uk_lyuba'} displayname={'люба'} />
 				</td>
 				<td>LYOO-bah</td>
 				<td>dear (to a woman)</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_uk_sonechko'} displayname={'сонечко'} />
+					<Kaudio lang={'uk'} pid={'AUDIO_NEEDED_uk_sonechko'} displayname={'сонечко'} />
 				</td>
 				<td>SOH-nech-ko</td>
 				<td>little sun / sunshine</td>

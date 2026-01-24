@@ -48,35 +48,35 @@ tldr: "GLI sounds like 'LLI' in 'million' or 'brilliant' - your tongue presses f
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_it_famiglia'} displayname={'famiglia'} />
+					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_famiglia'} displayname={'famiglia'} />
 				</td>
 				<td>family</td>
 				<td>fah-MEE-lyah</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_it_figlio'} displayname={'figlio'} />
+					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_figlio'} displayname={'figlio'} />
 				</td>
 				<td>son</td>
 				<td>FEE-lyoh</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_it_figlia'} displayname={'figlia'} />
+					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_figlia'} displayname={'figlia'} />
 				</td>
 				<td>daughter</td>
 				<td>FEE-lyah</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_it_moglie'} displayname={'moglie'} />
+					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_moglie'} displayname={'moglie'} />
 				</td>
 				<td>wife</td>
 				<td>MOH-lyeh</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_it_aglio'} displayname={'aglio'} />
+					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_aglio'} displayname={'aglio'} />
 				</td>
 				<td>garlic</td>
 				<td>AH-lyoh</td>
@@ -99,28 +99,28 @@ tldr: "GLI sounds like 'LLI' in 'million' or 'brilliant' - your tongue presses f
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_it_gnocchi'} displayname={'gnocchi'} />
+					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_gnocchi'} displayname={'gnocchi'} />
 				</td>
 				<td>gnocchi</td>
 				<td>NYOH-kee</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_it_lasagna'} displayname={'lasagna'} />
+					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_lasagna'} displayname={'lasagna'} />
 				</td>
 				<td>lasagna</td>
 				<td>lah-ZAH-nyah</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_it_bagno'} displayname={'bagno'} />
+					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_bagno'} displayname={'bagno'} />
 				</td>
 				<td>bathroom</td>
 				<td>BAH-nyoh</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_it_ogni'} displayname={'ogni'} />
+					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_ogni'} displayname={'ogni'} />
 				</td>
 				<td>every</td>
 				<td>OH-nyee</td>
@@ -141,19 +141,19 @@ tldr: "GLI sounds like 'LLI' in 'million' or 'brilliant' - your tongue presses f
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_it_signore'} displayname={'signore'} />
+					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_signore'} displayname={'signore'} />
 				</td>
 				<td>mister / sir</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_it_signora'} displayname={'signora'} />
+					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_signora'} displayname={'signora'} />
 				</td>
 				<td>mrs / madam</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio pid={'AUDIO_NEEDED_it_bologna'} displayname={'Bologna'} />
+					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_bologna'} displayname={'Bologna'} />
 				</td>
 				<td>Bologna (city)</td>
 			</tr>
