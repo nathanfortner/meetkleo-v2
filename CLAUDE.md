@@ -1,5 +1,21 @@
 # Kleo Website - Codebase Documentation
 
+## Git Workflow Rules
+
+**IMPORTANT: Before pushing to `main` branch:**
+1. Ask user for confirmation FIRST time
+2. Ask user for confirmation SECOND time
+3. Only push after receiving two explicit approvals
+
+This applies to:
+- `git push` to main
+- `git merge` to main followed by push
+- Any direct commits to main
+
+Feature branches (like `ai_upgrade`) can be pushed freely.
+
+---
+
 ## Overview
 
 **Project:** meetkleo-v1 - Marketing website for Kleo, a language learning app
