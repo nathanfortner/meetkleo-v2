@@ -26,6 +26,7 @@ export async function handle({ event, resolve }) {
             "script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.googletagmanager.com https://*.google-analytics.com https://www.google.com https://cdn.usefathom.com https://connect.facebook.net https://www.facebook.com",
             "style-src 'self' 'unsafe-inline'",
             "img-src 'self' data: https: blob:",
+            "media-src 'self' https://ddseu0ssi.mo.cloudinary.net",
             "font-src 'self' data:",
             "connect-src 'self' https://*.google-analytics.com https://*.analytics.google.com https://*.googletagmanager.com https://*.doubleclick.net https://cdn.usefathom.com https://www.facebook.com",
             "frame-src https://www.googletagmanager.com https://www.facebook.com",
