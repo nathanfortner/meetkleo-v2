@@ -5,12 +5,14 @@ title: German Alphabet Pronunciation (Ultimate Guide, Every Letter)
 metadescription: With this ultimate guide, take control of German alphabet pronunciation. Enjoy tips and audio for every single letter!
 fname: k-german-alphabet-pronunciation
 date: 10/21/2022
+dateModified: 01/24/2026
 longdate: October 21, 2022
 author: Michiyo Kawasaki
 categories: pronunciation, training, speaking
 k_language: german
 coverimage: Articles/alphabet_cover2_3_27_23_F.jpg
 articleimage: Articles/alphabet_cover2_11_18_22_F.jpg
+tldr: "The German alphabet has 26 letters like English plus 4 unique letters (ß, Ä, Ö, Ü). German is phonetic, so once you learn each sound, you can pronounce any word. This guide covers every letter with audio examples and tips."
 ---
 <script>
 	import Kaudio from '$lib/components/audioelement.svelte';

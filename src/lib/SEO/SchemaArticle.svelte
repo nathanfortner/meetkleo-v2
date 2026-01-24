@@ -3,6 +3,7 @@
     export let description = '';
     export let author = '';
     export let datePublished = '';
+    export let dateModified = '';
     export let image = '';
     export let url = '';
 
@@ -24,7 +25,7 @@
             }
         },
         "datePublished": datePublished,
-        "dateModified": datePublished,
+        "dateModified": dateModified || datePublished,
         "image": image ? `https://ddseu0ssi.mo.cloudinary.net/web/images/${image}` : undefined,
         "mainEntityOfPage": {
             "@type": "WebPage",

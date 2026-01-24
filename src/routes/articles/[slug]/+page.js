@@ -12,7 +12,7 @@ export async function load({ params }) {
 
     try {
         const Thing = await import(`../posts/k-${params.slug}.md`);
-        const {seotitle, title, author, date, longdate, metadescription, fname, coverimage } = Thing.metadata;
+        const {seotitle, title, author, date, longdate, metadescription, fname, coverimage, dateModified, tldr } = Thing.metadata;
         const content = Thing.default;
 
         return {
@@ -24,6 +24,8 @@ export async function load({ params }) {
           metadescription,
           fname,
           coverimage,
+          dateModified,
+          tldr,
           content
         }    
     } catch (error) {

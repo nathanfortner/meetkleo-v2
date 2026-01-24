@@ -2,15 +2,17 @@
 layout: blog
 seotitle: Mastering CH Pronunciation in German (Your Ultimate Guide)
 title: Mastering CH Pronunciation in German
-metadescription: There are 2 ways to pronounce CH in German – soft and guttural. Let’s learn how and when to make each sound for CH!
+metadescription: There are 2 ways to pronounce CH in German – soft and guttural. Let's learn how and when to make each sound for CH!
 fname: k-mastering-ch-pronunciation-in-german
 date: 09/05/2022
+dateModified: 01/24/2026
 longdate: September 5, 2022
 author: Michiyo Kawasaki
 categories: pronunciation, training, speaking
 k_language: german
 coverimage: Articles/twoch_cover1v2_10_1_22.jpg
 articleimage: Articles/twoch_cover2v2_10_1_22.jpg
+tldr: "German CH has two pronunciations: a soft 'hissing cat' sound (after most vowels) and a guttural 'throat-clearing' sound (after A, O, U, AU). The soft sound is more common and appears in essential words like 'ich' (I) and 'nicht' (not)."
 ---
 <script>
 	import Kaudio from '$lib/components/audioelement.svelte';

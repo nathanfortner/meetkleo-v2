@@ -5,12 +5,14 @@ title: Pronounce The German R Right (Tips, Audio For Both R Sounds)
 metadescription: There are 2 ways to pronounce the German R – gargling and barely-there. Learn how and when to make each sound for R!
 fname: k-pronounce-the-german-r-right
 date: 10/31/2022
+dateModified: 01/24/2026
 longdate: October 31, 2022
 author: Michiyo Kawasaki
 categories: pronunciation, training, speaking
 k_language: german
 coverimage: Articles/r_blog_cover1_10_31_22_F.jpg
 articleimage: Articles/r_blog_cover2_10_31_22_F.jpg
+tldr: "The German R has two pronunciations: a gargling sound (used at the start of words or before vowels) and a barely-there sound (used at the end of words or before consonants). Neither exists in English, but with practice you can master both."
 ---
 <script>
 	import Kaudio from '$lib/components/audioelement.svelte';
