@@ -48,35 +48,35 @@ tldr: "GLI sounds like 'LLI' in 'million' or 'brilliant' - your tongue presses f
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio lang={'it'} pid={'4f5ac4e2-01aa-4299-9b7f-12bad2864fa7_0.mp3'} displayname={'famiglia'} />
+					<Kaudio lang={'it'} pid={'8fe56450-ea68-43f9-9d69-2f1d7da8614d_0.mp3'} displayname={'famiglia'} />
 				</td>
 				<td>family</td>
 				<td>fah-MEE-lyah</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'it'} pid={'d250d28a-c8c1-438f-a521-c34fd7088b87_0.mp3'} displayname={'figlio'} />
+					<Kaudio lang={'it'} pid={'dd68fe85-24b9-47c3-8928-e9fa367ee771_0.mp3'} displayname={'figlio'} />
 				</td>
 				<td>son</td>
 				<td>FEE-lyoh</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'it'} pid={'964b9b2a-571b-40d9-bb10-e0cdae0a3801_0.mp3'} displayname={'figlia'} />
+					<Kaudio lang={'it'} pid={'6cb13bfb-8146-41b8-8adf-7bd7256fdebc_0.mp3'} displayname={'figlia'} />
 				</td>
 				<td>daughter</td>
 				<td>FEE-lyah</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'it'} pid={'36ce4e41-ac9d-410f-9c29-293c8dfa483a_0.mp3'} displayname={'moglie'} />
+					<Kaudio lang={'it'} pid={'e4d136a5-6034-407c-889a-798c7e5ce7dc_0.mp3'} displayname={'moglie'} />
 				</td>
 				<td>wife</td>
 				<td>MOH-lyeh</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'it'} pid={'cc57f01e-2a6e-4305-b046-07663a95fbdd_0.mp3'} displayname={'aglio'} />
+					<Kaudio lang={'it'} pid={'e003a72d-41de-4a4d-951f-351378a52b91_0.mp3'} displayname={'aglio'} />
 				</td>
 				<td>garlic</td>
 				<td>AH-lyoh</td>
@@ -99,28 +99,28 @@ tldr: "GLI sounds like 'LLI' in 'million' or 'brilliant' - your tongue presses f
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio lang={'it'} pid={'0e614806-992a-4af2-bab7-5ca11a8a12b4_0.mp3'} displayname={'gnocchi'} />
+					<Kaudio lang={'it'} pid={'89d2d2ed-6ae4-459f-98e7-515bf26f7127_0.mp3'} displayname={'gnocchi'} />
 				</td>
 				<td>gnocchi</td>
 				<td>NYOH-kee</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'it'} pid={'65f04070-f3e9-481c-902e-e2eaadb123c6_0.mp3'} displayname={'lasagna'} />
+					<Kaudio lang={'it'} pid={'34541203-bdae-4d09-afb4-fe76e3ad3c73_0.mp3'} displayname={'lasagna'} />
 				</td>
 				<td>lasagna</td>
 				<td>lah-ZAH-nyah</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'it'} pid={'a469fd8c-61e2-4bc3-8dc0-24fb94774577_0.mp3'} displayname={'bagno'} />
+					<Kaudio lang={'it'} pid={'4629456f-44fc-4b82-ba93-4e823038db7d_0.mp3'} displayname={'bagno'} />
 				</td>
 				<td>bathroom</td>
 				<td>BAH-nyoh</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'it'} pid={'921308dd-d059-4c18-b4dd-0ee25f5ed99f_0.mp3'} displayname={'ogni'} />
+					<Kaudio lang={'it'} pid={'649a428d-d7fc-4eea-a62c-33ef169bdc18_0.mp3'} displayname={'ogni'} />
 				</td>
 				<td>every</td>
 				<td>OH-nyee</td>
@@ -141,19 +141,19 @@ tldr: "GLI sounds like 'LLI' in 'million' or 'brilliant' - your tongue presses f
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio lang={'it'} pid={'7f2ccc5e-aff6-492f-977f-dbc9b8085b9f_0.mp3'} displayname={'signore'} />
+					<Kaudio lang={'it'} pid={'513cc50a-634a-4be3-bd47-867d2842b237_0.mp3'} displayname={'signore'} />
 				</td>
 				<td>mister / sir</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'it'} pid={'5c37a99a-f3b9-405f-82cb-ca5c27db55af_0.mp3'} displayname={'signora'} />
+					<Kaudio lang={'it'} pid={'f876e0e7-5c3f-4a7a-b7dc-996785c750b3_0.mp3'} displayname={'signora'} />
 				</td>
 				<td>mrs / madam</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'it'} pid={'b2b91cf4-3655-4681-bf4b-b27864b7d355_0.mp3'} displayname={'Bologna'} />
+					<Kaudio lang={'it'} pid={'15cd9f41-2a83-4908-87b8-a58939e3ace0_0.mp3'} displayname={'Bologna'} />
 				</td>
 				<td>Bologna (city)</td>
 			</tr>

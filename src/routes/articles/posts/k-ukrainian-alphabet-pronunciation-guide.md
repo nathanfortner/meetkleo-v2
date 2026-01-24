@@ -47,35 +47,35 @@ tldr: "Ukrainian uses the Cyrillic alphabet with 33 letters. Many look familiar 
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio lang={'uk'} pid={'9cc9a1de-2e06-43db-91e0-862e45b7f99a_0.mp3'} displayname={'привіт'} />
+					<Kaudio lang={'uk'} pid={'49fdafff-ac59-4d76-9a52-f1b646f73d2d_0.mp3'} displayname={'привіт'} />
 				</td>
 				<td>pry-VEET</td>
 				<td>hello</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'uk'} pid={'1904ff48-f37c-40ea-a63b-fb946b85a894_0.mp3'} displayname={'так'} />
+					<Kaudio lang={'uk'} pid={'58b5cd67-852f-45d2-ae9f-ee24bd32726e_0.mp3'} displayname={'так'} />
 				</td>
 				<td>tahk</td>
 				<td>yes</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'uk'} pid={'def102d6-b235-4aae-9b76-b60b544c9108_0.mp3'} displayname={'ні'} />
+					<Kaudio lang={'uk'} pid={'fbeb4dbc-b2ac-47a8-8d90-307c8354c4ab_0.mp3'} displayname={'ні'} />
 				</td>
 				<td>nee</td>
 				<td>no</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'uk'} pid={'9d5178ad-d247-4a40-b53b-d9be85ae8c8b_0.mp3'} displayname={'добре'} />
+					<Kaudio lang={'uk'} pid={'43981f7d-1026-4419-bfb6-890fbe6473c4_0.mp3'} displayname={'добре'} />
 				</td>
 				<td>DOH-breh</td>
 				<td>good / okay</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'uk'} pid={'43544f7a-e457-4a71-b37c-2b42a40c18ea_0.mp3'} displayname={'будь ласка'} />
+					<Kaudio lang={'uk'} pid={'29c0b9b0-a6a9-47ee-bc3f-a68f7e1be001_0.mp3'} displayname={'будь ласка'} />
 				</td>
 				<td>bood' LAHS-kah</td>
 				<td>please</td>
@@ -135,25 +135,25 @@ tldr: "Ukrainian uses the Cyrillic alphabet with 33 letters. Many look familiar 
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio lang={'uk'} pid={'8001ac2d-1858-41ca-abc2-519dce4bc096_0.mp3'} displayname={'вода'} />
+					<Kaudio lang={'uk'} pid={'b7f6a463-09b4-4167-a420-6250c54631a1_0.mp3'} displayname={'вода'} />
 				</td>
 				<td>water</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'uk'} pid={'f30a0736-33d3-406d-8411-f6868268532e_0.mp3'} displayname={'хліб'} />
+					<Kaudio lang={'uk'} pid={'cd1a0b24-8fc7-4eb8-8bb1-d34efcb50d04_0.mp3'} displayname={'хліб'} />
 				</td>
 				<td>bread</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'uk'} pid={'b5e11731-606b-4222-8720-5cbfaf7e4a31_0.mp3'} displayname={'місто'} />
+					<Kaudio lang={'uk'} pid={'31542594-b8e0-4d44-9cc4-4a6e04a10ea1_0.mp3'} displayname={'місто'} />
 				</td>
 				<td>city</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'uk'} pid={'bdd7920a-90b5-41d1-94d7-4189ab998e59_0.mp3'} displayname={'Україна'} />
+					<Kaudio lang={'uk'} pid={'49bae7d3-548b-458d-a5c5-03a67e7ca92a_0.mp3'} displayname={'Україна'} />
 				</td>
 				<td>Ukraine</td>
 			</tr>
@@ -173,7 +173,7 @@ tldr: "Ukrainian uses the Cyrillic alphabet with 33 letters. Many look familiar 
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio lang={'uk'} pid={'f30a0736-33d3-406d-8411-f6868268532e_0.mp3'} displayname={'хліб'} />
+					<Kaudio lang={'uk'} pid={'cd1a0b24-8fc7-4eb8-8bb1-d34efcb50d04_0.mp3'} displayname={'хліб'} />
 				</td>
 				<td>bread</td>
 			</tr>
@@ -197,7 +197,7 @@ tldr: "Ukrainian uses the Cyrillic alphabet with 33 letters. Many look familiar 
 				<td>Ї ї</td>
 				<td>"YEE"</td>
 				<td>
-					<Kaudio lang={'uk'} pid={'c374aa61-9b9c-4c62-9458-2694fa446a62_0.mp3'} displayname={'їжа'} />
+					<Kaudio lang={'uk'} pid={'01694c75-77bb-43f0-b621-bc9902ba215c_0.mp3'} displayname={'їжа'} />
 				</td>
 				<td>food</td>
 			</tr>
@@ -205,7 +205,7 @@ tldr: "Ukrainian uses the Cyrillic alphabet with 33 letters. Many look familiar 
 				<td>І і</td>
 				<td>"EE"</td>
 				<td>
-					<Kaudio lang={'uk'} pid={'b5e11731-606b-4222-8720-5cbfaf7e4a31_0.mp3'} displayname={'місто'} />
+					<Kaudio lang={'uk'} pid={'31542594-b8e0-4d44-9cc4-4a6e04a10ea1_0.mp3'} displayname={'місто'} />
 				</td>
 				<td>city</td>
 			</tr>

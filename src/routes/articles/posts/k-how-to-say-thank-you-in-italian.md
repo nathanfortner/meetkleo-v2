@@ -47,21 +47,21 @@ tldr: "Basic: 'grazie' (GRAHT-see-eh). Emphatic: 'grazie mille' (thanks a lot), 
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio lang={'it'} pid={'77126185-9e07-4635-a07a-efe3d76c9063_0.mp3'} displayname={'grazie'} />
+					<Kaudio lang={'it'} pid={'7337c790-1c1f-47fd-9967-40d183c7fc6a_0.mp3'} displayname={'grazie'} />
 				</td>
 				<td>thank you</td>
 				<td>Everyday situations</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'it'} pid={'0e5b16b6-9861-49cf-9d4d-b4f92b866727_0.mp3'} displayname={'grazie mille'} />
+					<Kaudio lang={'it'} pid={'af149b37-0c30-4b3c-be90-a68275f5b378_0.mp3'} displayname={'grazie mille'} />
 				</td>
 				<td>thanks a lot (lit: a thousand thanks)</td>
 				<td>More emphatic</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'it'} pid={'e840052c-8fd3-4d11-b57d-afb147e87a66_0.mp3'} displayname={'grazie tante'} />
+					<Kaudio lang={'it'} pid={'db84f1ff-6dd6-41c1-83aa-b9f419e7c72b_0.mp3'} displayname={'grazie tante'} />
 				</td>
 				<td>many thanks</td>
 				<td>Emphatic</td>
@@ -84,21 +84,21 @@ tldr: "Basic: 'grazie' (GRAHT-see-eh). Emphatic: 'grazie mille' (thanks a lot), 
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio lang={'it'} pid={'00169d6d-13ba-4948-9c99-7c2120bbceea_0.mp3'} displayname={'prego'} />
+					<Kaudio lang={'it'} pid={'ff40d543-b1c8-4414-a2af-88a354fcd9c7_0.mp3'} displayname={'prego'} />
 				</td>
 				<td>you're welcome</td>
 				<td>Most common - works everywhere</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'it'} pid={'866d1029-6199-40de-a973-e4d2b9cf14e7_0.mp3'} displayname={'di niente'} />
+					<Kaudio lang={'it'} pid={'0d546826-2e63-49d8-92c8-60df42834357_0.mp3'} displayname={'di niente'} />
 				</td>
 				<td>it's nothing</td>
 				<td>Casual, friendly</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'it'} pid={'29e7bba7-ed34-48a9-970c-e912a9f4e140_0.mp3'} displayname={'figurati'} />
+					<Kaudio lang={'it'} pid={'508a099e-9c87-49d6-b899-cd6b5fbc338b_0.mp3'} displayname={'figurati'} />
 				</td>
 				<td>don't mention it</td>
 				<td>Informal (to friends)</td>
@@ -120,7 +120,7 @@ tldr: "Basic: 'grazie' (GRAHT-see-eh). Emphatic: 'grazie mille' (thanks a lot), 
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio lang={'it'} pid={'739aa99c-4918-4ef7-9aea-6b1ebb5bf8d4_0.mp3'} displayname={'ti ringrazio'} />
+					<Kaudio lang={'it'} pid={'92a7bae7-ea58-41d4-8154-0ac990027d82_0.mp3'} displayname={'ti ringrazio'} />
 				</td>
 				<td>I thank you (informal)</td>
 			</tr>

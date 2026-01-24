@@ -47,7 +47,7 @@ tldr: "Ukrainian has two ways to say 'I love you': 'Я тебе кохаю' (ya 
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio lang={'uk'} pid={'a5c3b530-c398-4f7b-94fa-3d8f83c3f24b_0.mp3'} displayname={'я тебе кохаю'} />
+					<Kaudio lang={'uk'} pid={'244c5753-8e37-41e0-8b64-79cd75e89c8f_0.mp3'} displayname={'я тебе кохаю'} />
 				</td>
 				<td>ya TEH-beh ko-KHAH-yoo</td>
 				<td>Romantic love only</td>
@@ -77,28 +77,28 @@ tldr: "Ukrainian has two ways to say 'I love you': 'Я тебе кохаю' (ya 
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio lang={'uk'} pid={'402fcce9-2644-4591-bf5f-4ebf91916a1e_0.mp3'} displayname={'кохання моє'} />
+					<Kaudio lang={'uk'} pid={'3e0b8c37-cc3c-4b09-9d53-71b895c447b5_0.mp3'} displayname={'кохання моє'} />
 				</td>
 				<td>ko-KHAH-nya mo-YE</td>
 				<td>my love</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'uk'} pid={'67d188e8-0917-4410-8c5a-95fe56abf907_0.mp3'} displayname={'любий'} />
+					<Kaudio lang={'uk'} pid={'f34a6e74-3c9d-4048-9258-239a97c67542_0.mp3'} displayname={'любий'} />
 				</td>
 				<td>lyoo-BYY</td>
 				<td>dear (to a man)</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'uk'} pid={'377da151-7095-4a4c-8c15-3110e219b63b_0.mp3'} displayname={'люба'} />
+					<Kaudio lang={'uk'} pid={'f5ff3a0f-d9fa-4807-979b-8b8d7734fe14_0.mp3'} displayname={'люба'} />
 				</td>
 				<td>LYOO-bah</td>
 				<td>dear (to a woman)</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'uk'} pid={'d09de202-7df1-4c81-b4bc-f60e5d9e4a94_0.mp3'} displayname={'сонечко'} />
+					<Kaudio lang={'uk'} pid={'7df286c6-6576-4174-8137-e158280cde37_0.mp3'} displayname={'сонечко'} />
 				</td>
 				<td>SOH-nech-ko</td>
 				<td>little sun / sunshine</td>

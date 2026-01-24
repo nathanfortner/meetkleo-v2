@@ -51,21 +51,21 @@ tldr: "Italian C before E/I = 'CH' sound (cena, ciao). C before A/O/U = 'K' soun
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio lang={'it'} pid={'3a2c9f86-665c-4dde-b7ec-81ffab04b5b9_0.mp3'} displayname={'cena'} />
+					<Kaudio lang={'it'} pid={'9e08e7f2-f5a7-4ab4-b8c8-4a02e5d794fb_0.mp3'} displayname={'cena'} />
 				</td>
 				<td>dinner</td>
 				<td>CHEH-nah</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'it'} pid={'a964e460-a889-456b-af8f-5a159c9f96ee_0.mp3'} displayname={'ciao'} />
+					<Kaudio lang={'it'} pid={'d1018f37-9612-4134-b485-9f81f27762ee_0.mp3'} displayname={'ciao'} />
 				</td>
 				<td>hello/bye</td>
 				<td>CHOW</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'it'} pid={'9d7aea7d-3dd9-4504-a949-87d113121806_0.mp3'} displayname={'amici'} />
+					<Kaudio lang={'it'} pid={'2b66c95d-399c-4943-9718-f32ce3e301bc_0.mp3'} displayname={'amici'} />
 				</td>
 				<td>friends</td>
 				<td>ah-MEE-chee</td>
@@ -88,7 +88,7 @@ tldr: "Italian C before E/I = 'CH' sound (cena, ciao). C before A/O/U = 'K' soun
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio lang={'it'} pid={'6b0226df-a4ea-41ca-a19c-f30763d4f92b_0.mp3'} displayname={'casa'} />
+					<Kaudio lang={'it'} pid={'8539b461-8a54-486e-abf8-70e05b9640ae_0.mp3'} displayname={'casa'} />
 				</td>
 				<td>house</td>
 				<td>KAH-zah</td>
@@ -111,14 +111,14 @@ tldr: "Italian C before E/I = 'CH' sound (cena, ciao). C before A/O/U = 'K' soun
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio lang={'it'} pid={'a3d807cc-dce4-47b6-b50d-d49ba984e64c_0.mp3'} displayname={'che'} />
+					<Kaudio lang={'it'} pid={'ec80b443-6782-4d48-a561-e94cb30e4b70_0.mp3'} displayname={'che'} />
 				</td>
 				<td>what/that</td>
 				<td>KEH</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'it'} pid={'a1b72799-0107-4743-8f96-72d376b53f72_0.mp3'} displayname={'amiche'} />
+					<Kaudio lang={'it'} pid={'52816b7b-9f47-4815-840a-e24356f54cda_0.mp3'} displayname={'amiche'} />
 				</td>
 				<td>friends (f)</td>
 				<td>ah-MEE-keh</td>
@@ -144,21 +144,21 @@ tldr: "Italian C before E/I = 'CH' sound (cena, ciao). C before A/O/U = 'K' soun
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio lang={'it'} pid={'9fac822e-b0f3-46cb-b10f-606a62165383_0.mp3'} displayname={'gelato'} />
+					<Kaudio lang={'it'} pid={'5ab180aa-9251-4c7a-8151-80f1b3abd8f6_0.mp3'} displayname={'gelato'} />
 				</td>
 				<td>ice cream</td>
 				<td>jeh-LAH-toh</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'it'} pid={'f4a500fc-4397-4252-9522-83faa83b2770_0.mp3'} displayname={'gente'} />
+					<Kaudio lang={'it'} pid={'f078641f-3a0e-4e4e-868e-fcf89f42d51e_0.mp3'} displayname={'gente'} />
 				</td>
 				<td>people</td>
 				<td>JEN-teh</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'it'} pid={'60e0a881-79ba-4b0e-9f76-e2a92179a693_0.mp3'} displayname={'giorno'} />
+					<Kaudio lang={'it'} pid={'1db146e0-df1d-4225-b002-4e9122cbb876_0.mp3'} displayname={'giorno'} />
 				</td>
 				<td>day</td>
 				<td>JOR-noh</td>
@@ -181,7 +181,7 @@ tldr: "Italian C before E/I = 'CH' sound (cena, ciao). C before A/O/U = 'K' soun
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio lang={'it'} pid={'cef7ffa5-753e-4d89-af66-a3a3fa41a0cf_0.mp3'} displayname={'gatto'} />
+					<Kaudio lang={'it'} pid={'4a760631-64ce-4860-98ea-ce2da4cf3bf3_0.mp3'} displayname={'gatto'} />
 				</td>
 				<td>cat</td>
 				<td>GAHT-toh</td>
@@ -204,14 +204,14 @@ tldr: "Italian C before E/I = 'CH' sound (cena, ciao). C before A/O/U = 'K' soun
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio lang={'it'} pid={'c177a6c0-3031-411c-9555-1e8068514980_0.mp3'} displayname={'spaghetti'} />
+					<Kaudio lang={'it'} pid={'4232bcff-b4b8-412d-91a5-8c1be7009e9f_0.mp3'} displayname={'spaghetti'} />
 				</td>
 				<td>spaghetti</td>
 				<td>spah-GET-tee</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'it'} pid={'67c8108b-bf4f-48b8-a0c2-747a6d82dda4_0.mp3'} displayname={'funghi'} />
+					<Kaudio lang={'it'} pid={'07a0ef98-3797-48ab-a067-b16a596d3a85_0.mp3'} displayname={'funghi'} />
 				</td>
 				<td>mushrooms</td>
 				<td>FOON-gee</td>
@@ -264,31 +264,31 @@ tldr: "Italian C before E/I = 'CH' sound (cena, ciao). C before A/O/U = 'K' soun
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio lang={'it'} pid={'a964e460-a889-456b-af8f-5a159c9f96ee_0.mp3'} displayname={'ciao'} />
+					<Kaudio lang={'it'} pid={'d1018f37-9612-4134-b485-9f81f27762ee_0.mp3'} displayname={'ciao'} />
 				</td>
 				<td>hello</td>
 				<td>
-					<Kaudio lang={'it'} pid={'a3d807cc-dce4-47b6-b50d-d49ba984e64c_0.mp3'} displayname={'che'} />
+					<Kaudio lang={'it'} pid={'ec80b443-6782-4d48-a561-e94cb30e4b70_0.mp3'} displayname={'che'} />
 				</td>
 				<td>what</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'it'} pid={'9d7aea7d-3dd9-4504-a949-87d113121806_0.mp3'} displayname={'amici'} />
+					<Kaudio lang={'it'} pid={'2b66c95d-399c-4943-9718-f32ce3e301bc_0.mp3'} displayname={'amici'} />
 				</td>
 				<td>friends (m)</td>
 				<td>
-					<Kaudio lang={'it'} pid={'a1b72799-0107-4743-8f96-72d376b53f72_0.mp3'} displayname={'amiche'} />
+					<Kaudio lang={'it'} pid={'52816b7b-9f47-4815-840a-e24356f54cda_0.mp3'} displayname={'amiche'} />
 				</td>
 				<td>friends (f)</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'it'} pid={'9fac822e-b0f3-46cb-b10f-606a62165383_0.mp3'} displayname={'gelato'} />
+					<Kaudio lang={'it'} pid={'5ab180aa-9251-4c7a-8151-80f1b3abd8f6_0.mp3'} displayname={'gelato'} />
 				</td>
 				<td>ice cream</td>
 				<td>
-					<Kaudio lang={'it'} pid={'c177a6c0-3031-411c-9555-1e8068514980_0.mp3'} displayname={'spaghetti'} />
+					<Kaudio lang={'it'} pid={'4232bcff-b4b8-412d-91a5-8c1be7009e9f_0.mp3'} displayname={'spaghetti'} />
 				</td>
 				<td>spaghetti</td>
 			</tr>

@@ -51,7 +51,7 @@ tldr: "The Spanish alphabet has 27 letters - the 26 English letters plus Ñ. Key
 				<td>H</td>
 				<td>Always silent</td>
 				<td>
-					<Kaudio lang={'es'} pid={'12cfe965-fb7d-4305-8bac-06314fbcfdef_0.mp3'} displayname={'hola'} />
+					<Kaudio lang={'es'} pid={'cc6c1ba7-c98d-4d5b-a1ef-3b36f8320645_0.mp3'} displayname={'hola'} />
 				</td>
 				<td>hello</td>
 			</tr>
@@ -59,7 +59,7 @@ tldr: "The Spanish alphabet has 27 letters - the 26 English letters plus Ñ. Key
 				<td>J</td>
 				<td>Like English "H"</td>
 				<td>
-					<Kaudio lang={'es'} pid={'8eacc7f0-e60f-4022-b5ff-8d01abbb16aa_0.mp3'} displayname={'jalapeño'} />
+					<Kaudio lang={'es'} pid={'3f38e0fc-6717-4f7c-b24d-9d571c7f03c0_0.mp3'} displayname={'jalapeño'} />
 				</td>
 				<td>jalapeño</td>
 			</tr>
@@ -67,7 +67,7 @@ tldr: "The Spanish alphabet has 27 letters - the 26 English letters plus Ñ. Key
 				<td>LL</td>
 				<td>Like English "Y"</td>
 				<td>
-					<Kaudio lang={'es'} pid={'45633173-7432-4f02-bcd8-36b72c9fd61e_0.mp3'} displayname={'llamar'} />
+					<Kaudio lang={'es'} pid={'a75fe3db-bc83-40d4-aee5-b9168da2601a_0.mp3'} displayname={'llamar'} />
 				</td>
 				<td>to call</td>
 			</tr>
@@ -75,7 +75,7 @@ tldr: "The Spanish alphabet has 27 letters - the 26 English letters plus Ñ. Key
 				<td>Ñ</td>
 				<td>Like "NY" in canyon</td>
 				<td>
-					<Kaudio lang={'es'} pid={'82e80510-aff3-41b8-82bb-986b0662e73d_0.mp3'} displayname={'niño'} />
+					<Kaudio lang={'es'} pid={'6c9ebf40-d795-4109-8272-a14199cdb28b_0.mp3'} displayname={'niño'} />
 				</td>
 				<td>boy</td>
 			</tr>
@@ -83,7 +83,7 @@ tldr: "The Spanish alphabet has 27 letters - the 26 English letters plus Ñ. Key
 				<td>RR</td>
 				<td>Rolled/trilled</td>
 				<td>
-					<Kaudio lang={'es'} pid={'71981575-4a03-4b30-8b0e-c08a923b7f53_0.mp3'} displayname={'perro'} />
+					<Kaudio lang={'es'} pid={'8ed4f117-c1dc-45a6-98ee-2974dc346e5a_0.mp3'} displayname={'perro'} />
 				</td>
 				<td>dog</td>
 			</tr>
@@ -107,7 +107,7 @@ tldr: "The Spanish alphabet has 27 letters - the 26 English letters plus Ñ. Key
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio lang={'es'} pid={'5b4af25d-25a2-4312-8d7c-f5e4fd3190ce_0.mp3'} displayname={'casa'} />
+					<Kaudio lang={'es'} pid={'86666ed6-849a-4629-8ac8-6a659d706d14_0.mp3'} displayname={'casa'} />
 				</td>
 				<td>house</td>
 			</tr>
@@ -128,7 +128,7 @@ tldr: "The Spanish alphabet has 27 letters - the 26 English letters plus Ñ. Key
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio lang={'es'} pid={'6fef27c6-5ad6-4016-932e-54562f8e6266_0.mp3'} displayname={'cerveza'} />
+					<Kaudio lang={'es'} pid={'bb0f0cbb-184d-4331-877e-804616efda89_0.mp3'} displayname={'cerveza'} />
 				</td>
 				<td>beer</td>
 			</tr>
@@ -152,7 +152,7 @@ tldr: "The Spanish alphabet has 27 letters - the 26 English letters plus Ñ. Key
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio lang={'es'} pid={'829d3156-ecba-4f42-b751-bd14551d21e8_0.mp3'} displayname={'gato'} />
+					<Kaudio lang={'es'} pid={'baaef86e-bc10-4ebd-9ef9-015a27277bf1_0.mp3'} displayname={'gato'} />
 				</td>
 				<td>cat</td>
 			</tr>
@@ -173,7 +173,7 @@ tldr: "The Spanish alphabet has 27 letters - the 26 English letters plus Ñ. Key
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio lang={'es'} pid={'889be4e6-9e25-400e-9be1-9158cf549f12_0.mp3'} displayname={'gente'} />
+					<Kaudio lang={'es'} pid={'9925e234-ea23-48cd-ad66-3bff87bfed98_0.mp3'} displayname={'gente'} />
 				</td>
 				<td>people</td>
 			</tr>
@@ -193,7 +193,7 @@ tldr: "The Spanish alphabet has 27 letters - the 26 English letters plus Ñ. Key
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio lang={'es'} pid={'6cc68efe-5005-4af9-919d-f39f899bc597_0.mp3'} displayname={'zapato'} />
+					<Kaudio lang={'es'} pid={'64ca632b-c15b-4127-99de-d245cfd83925_0.mp3'} displayname={'zapato'} />
 				</td>
 				<td>shoe</td>
 			</tr>
@@ -213,7 +213,7 @@ tldr: "The Spanish alphabet has 27 letters - the 26 English letters plus Ñ. Key
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio lang={'es'} pid={'06a64933-dff7-43fd-a3fd-ca5b311b6ec2_0.mp3'} displayname={'queso'} />
+					<Kaudio lang={'es'} pid={'94bb625b-3db7-45a5-8519-9bd25fffa0df_0.mp3'} displayname={'queso'} />
 				</td>
 				<td>cheese</td>
 			</tr>
@@ -237,7 +237,7 @@ tldr: "The Spanish alphabet has 27 letters - the 26 English letters plus Ñ. Key
 				<td>A</td>
 				<td>"ah" as in "father"</td>
 				<td>
-					<Kaudio lang={'es'} pid={'0ca8eb4b-18ae-4483-a45a-1ba4222ddf20_0.mp3'} displayname={'agua'} />
+					<Kaudio lang={'es'} pid={'9a82c14b-f3aa-4f47-bfaa-8ee973cb92c7_0.mp3'} displayname={'agua'} />
 				</td>
 				<td>water</td>
 			</tr>
@@ -245,7 +245,7 @@ tldr: "The Spanish alphabet has 27 letters - the 26 English letters plus Ñ. Key
 				<td>E</td>
 				<td>"eh" as in "bed"</td>
 				<td>
-					<Kaudio lang={'es'} pid={'b03743ba-7f7b-48e3-9956-c9608acba848_0.mp3'} displayname={'pero'} />
+					<Kaudio lang={'es'} pid={'740cbe6b-fbb5-43dd-b9d2-3297d6399c9f_0.mp3'} displayname={'pero'} />
 				</td>
 				<td>but</td>
 			</tr>
@@ -253,7 +253,7 @@ tldr: "The Spanish alphabet has 27 letters - the 26 English letters plus Ñ. Key
 				<td>I</td>
 				<td>"ee" as in "see"</td>
 				<td>
-					<Kaudio lang={'es'} pid={'82e80510-aff3-41b8-82bb-986b0662e73d_0.mp3'} displayname={'niño'} />
+					<Kaudio lang={'es'} pid={'6c9ebf40-d795-4109-8272-a14199cdb28b_0.mp3'} displayname={'niño'} />
 				</td>
 				<td>boy</td>
 			</tr>
@@ -261,7 +261,7 @@ tldr: "The Spanish alphabet has 27 letters - the 26 English letters plus Ñ. Key
 				<td>O</td>
 				<td>"oh" as in "go"</td>
 				<td>
-					<Kaudio lang={'es'} pid={'12cfe965-fb7d-4305-8bac-06314fbcfdef_0.mp3'} displayname={'hola'} />
+					<Kaudio lang={'es'} pid={'cc6c1ba7-c98d-4d5b-a1ef-3b36f8320645_0.mp3'} displayname={'hola'} />
 				</td>
 				<td>hello</td>
 			</tr>
@@ -269,7 +269,7 @@ tldr: "The Spanish alphabet has 27 letters - the 26 English letters plus Ñ. Key
 				<td>U</td>
 				<td>"oo" as in "food"</td>
 				<td>
-					<Kaudio lang={'es'} pid={'19d09ff3-e8ff-42cd-8650-7898893178fb_0.mp3'} displayname={'bueno'} />
+					<Kaudio lang={'es'} pid={'7f5dd6a7-e914-409f-8c82-022733b9db1c_0.mp3'} displayname={'bueno'} />
 				</td>
 				<td>good</td>
 			</tr>

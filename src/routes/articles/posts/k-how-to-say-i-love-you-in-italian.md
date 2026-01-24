@@ -47,14 +47,14 @@ tldr: "Italian distinguishes between romantic love and affectionate love: 'ti am
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio lang={'it'} pid={'12109df4-87c7-4db9-b810-3ff700d30d81_0.mp3'} displayname={'ti amo'} />
+					<Kaudio lang={'it'} pid={'fa8bd71e-690e-4fc3-889b-91e52efe5a71_0.mp3'} displayname={'ti amo'} />
 				</td>
 				<td>I love you</td>
 				<td>Romantic partners only</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'it'} pid={'cb79d59d-2c69-4262-a75e-773a5ff013d6_0.mp3'} displayname={'ti voglio bene'} />
+					<Kaudio lang={'it'} pid={'f0edcf11-eeae-4229-b7f5-6a0d907da232_0.mp3'} displayname={'ti voglio bene'} />
 				</td>
 				<td>I love you</td>
 				<td>Family, friends, pets</td>
@@ -77,28 +77,28 @@ tldr: "Italian distinguishes between romantic love and affectionate love: 'ti am
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio lang={'it'} pid={'dc6179b8-d671-4f98-b1e9-4e23f347e951_0.mp3'} displayname={'amore mio'} />
+					<Kaudio lang={'it'} pid={'6f18bd42-c370-48d5-8e44-b3e68e7b042c_0.mp3'} displayname={'amore mio'} />
 				</td>
 				<td>my love</td>
 				<td>Very common for partners</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'it'} pid={'65379bb9-ee55-4b9f-be1b-f4f8712654ca_0.mp3'} displayname={'tesoro'} />
+					<Kaudio lang={'it'} pid={'9dd2df66-7e20-4a29-bb34-0c7553623bbb_0.mp3'} displayname={'tesoro'} />
 				</td>
 				<td>treasure / darling</td>
 				<td>Sweet and affectionate</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'it'} pid={'5c9addea-a9fd-48fb-ad3d-311714954b32_0.mp3'} displayname={'cara'} />
+					<Kaudio lang={'it'} pid={'5f9db0c1-fe05-41e8-8a86-ec5b5357044a_0.mp3'} displayname={'cara'} />
 				</td>
 				<td>dear (to a woman)</td>
 				<td>Warm, affectionate</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'it'} pid={'bdd47129-d5f4-4653-ade8-f62386be2f31_0.mp3'} displayname={'caro'} />
+					<Kaudio lang={'it'} pid={'03ad0983-0409-40d8-ab78-ea194fcfa1c3_0.mp3'} displayname={'caro'} />
 				</td>
 				<td>dear (to a man)</td>
 				<td>Warm, affectionate</td>

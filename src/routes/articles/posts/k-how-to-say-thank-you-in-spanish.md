@@ -47,28 +47,28 @@ tldr: "Basic: 'gracias' (thank you). Emphatic: 'muchas gracias' (thank you very 
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio lang={'es'} pid={'96592faf-4e79-4682-aa6f-3eb97219b9cf_0.mp3'} displayname={'gracias'} />
+					<Kaudio lang={'es'} pid={'15a655e5-f17f-481a-9ec2-14fb9fdb8e08_0.mp3'} displayname={'gracias'} />
 				</td>
 				<td>thank you</td>
 				<td>Everyday situations</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'es'} pid={'5a20f48a-a841-406f-9ef3-4b466f1ebef4_0.mp3'} displayname={'muchas gracias'} />
+					<Kaudio lang={'es'} pid={'e5d2b7de-a46b-445b-bae2-e7e3f8606669_0.mp3'} displayname={'muchas gracias'} />
 				</td>
 				<td>thank you very much</td>
 				<td>More emphatic thanks</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'es'} pid={'c338bf22-e303-4a7a-82ab-6625e40a6851_0.mp3'} displayname={'muchísimas gracias'} />
+					<Kaudio lang={'es'} pid={'b2769932-b0e7-4eb6-afe8-744cce6bd04b_0.mp3'} displayname={'muchísimas gracias'} />
 				</td>
 				<td>thank you so much</td>
 				<td>Very emphatic</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'es'} pid={'2bf4a9bb-cb7a-4628-bec4-6cd17bccad84_0.mp3'} displayname={'mil gracias'} />
+					<Kaudio lang={'es'} pid={'73145bd5-25c3-4c5f-a412-87864deacd78_0.mp3'} displayname={'mil gracias'} />
 				</td>
 				<td>a thousand thanks</td>
 				<td>Heartfelt gratitude</td>
@@ -91,21 +91,21 @@ tldr: "Basic: 'gracias' (thank you). Emphatic: 'muchas gracias' (thank you very 
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio lang={'es'} pid={'0a37040e-1f25-4ec9-aa6d-e06ce1249dd6_0.mp3'} displayname={'de nada'} />
+					<Kaudio lang={'es'} pid={'1a09a157-bd52-47ea-bdd6-61f3bebfc82a_0.mp3'} displayname={'de nada'} />
 				</td>
 				<td>you're welcome (lit: "of nothing")</td>
 				<td>Universal</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'es'} pid={'004b6a16-63e5-4d5a-b14d-9c5de53e09c6_0.mp3'} displayname={'no hay de qué'} />
+					<Kaudio lang={'es'} pid={'a3fe8502-16b6-48fb-83dc-4c7fc9fb3ff2_0.mp3'} displayname={'no hay de qué'} />
 				</td>
 				<td>don't mention it</td>
 				<td>Slightly formal</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'es'} pid={'2ced5ef1-5cad-4387-8946-672fbc347c01_0.mp3'} displayname={'gracias a ti'} />
+					<Kaudio lang={'es'} pid={'ea85cdfb-67b8-4cdd-81bc-b457be4940b9_0.mp3'} displayname={'gracias a ti'} />
 				</td>
 				<td>thank YOU</td>
 				<td>Returning thanks</td>
@@ -127,7 +127,7 @@ tldr: "Basic: 'gracias' (thank you). Emphatic: 'muchas gracias' (thank you very 
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio lang={'es'} pid={'cedadad0-7edc-40f2-909e-54bf68f3adc3_0.mp3'} displayname={'te lo agradezco'} />
+					<Kaudio lang={'es'} pid={'ad99bc92-4fc1-4967-82a3-31de2641b4d0_0.mp3'} displayname={'te lo agradezco'} />
 				</td>
 				<td>I appreciate it (informal)</td>
 			</tr>

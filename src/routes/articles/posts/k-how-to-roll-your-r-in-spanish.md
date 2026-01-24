@@ -50,7 +50,7 @@ tldr: "Spanish has two R sounds: the single R (a quick tongue tap) and the rolle
 			<tr>
 				<td>Single R (tap)</td>
 				<td>
-					<Kaudio lang={'es'} pid={'b03743ba-7f7b-48e3-9956-c9608acba848_0.mp3'} displayname={'pero'} />
+					<Kaudio lang={'es'} pid={'740cbe6b-fbb5-43dd-b9d2-3297d6399c9f_0.mp3'} displayname={'pero'} />
 				</td>
 				<td>but</td>
 				<td>Quick tongue tap</td>
@@ -58,7 +58,7 @@ tldr: "Spanish has two R sounds: the single R (a quick tongue tap) and the rolle
 			<tr>
 				<td>Double RR (trill)</td>
 				<td>
-					<Kaudio lang={'es'} pid={'71981575-4a03-4b30-8b0e-c08a923b7f53_0.mp3'} displayname={'perro'} />
+					<Kaudio lang={'es'} pid={'8ed4f117-c1dc-45a6-98ee-2974dc346e5a_0.mp3'} displayname={'perro'} />
 				</td>
 				<td>dog</td>
 				<td>Rolled/trilled</td>
@@ -84,19 +84,19 @@ tldr: "Spanish has two R sounds: the single R (a quick tongue tap) and the rolle
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio lang={'es'} pid={'71981575-4a03-4b30-8b0e-c08a923b7f53_0.mp3'} displayname={'perro'} />
+					<Kaudio lang={'es'} pid={'8ed4f117-c1dc-45a6-98ee-2974dc346e5a_0.mp3'} displayname={'perro'} />
 				</td>
 				<td>dog</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'es'} pid={'ac5d6c80-bb14-4113-b662-0ea81edd3245_0.mp3'} displayname={'carro'} />
+					<Kaudio lang={'es'} pid={'f397dd5e-efba-4598-ad2c-72c9f1a3edbd_0.mp3'} displayname={'carro'} />
 				</td>
 				<td>car</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'es'} pid={'36b390da-4b27-4343-b834-21186aa1999b_0.mp3'} displayname={'arroz'} />
+					<Kaudio lang={'es'} pid={'ac4d7788-d3df-4c7e-82fe-da5211c453dd_0.mp3'} displayname={'arroz'} />
 				</td>
 				<td>rice</td>
 			</tr>
@@ -117,19 +117,19 @@ tldr: "Spanish has two R sounds: the single R (a quick tongue tap) and the rolle
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio lang={'es'} pid={'541768c0-cce2-41d7-b8ac-8a8dfcee3417_0.mp3'} displayname={'rosa'} />
+					<Kaudio lang={'es'} pid={'a8727b5c-9655-4864-af4e-3832ac6dbdbc_0.mp3'} displayname={'rosa'} />
 				</td>
 				<td>rose</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'es'} pid={'c0779cef-35f7-4e9d-9676-88aa9abf3f89_0.mp3'} displayname={'rico'} />
+					<Kaudio lang={'es'} pid={'4085b9d5-aca4-42e2-a230-a8654d0d3095_0.mp3'} displayname={'rico'} />
 				</td>
 				<td>rich/delicious</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'es'} pid={'110e1626-6634-4c5f-98d1-069684a58c29_0.mp3'} displayname={'ratón'} />
+					<Kaudio lang={'es'} pid={'eff3e501-3e47-42ed-b97e-93b8892302fc_0.mp3'} displayname={'ratón'} />
 				</td>
 				<td>mouse</td>
 			</tr>
@@ -150,13 +150,13 @@ tldr: "Spanish has two R sounds: the single R (a quick tongue tap) and the rolle
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio lang={'es'} pid={'49e27515-31f7-440a-9de5-d0421c699242_0.mp3'} displayname={'alrededor'} />
+					<Kaudio lang={'es'} pid={'6b8cfc50-fd08-40a5-95c7-35a6f716e195_0.mp3'} displayname={'alrededor'} />
 				</td>
 				<td>around</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'es'} pid={'9d0b1451-350e-4f6d-8d1a-85842d7d5134_0.mp3'} displayname={'Enrique'} />
+					<Kaudio lang={'es'} pid={'1f420ae0-a768-4a37-8327-87d120d77767_0.mp3'} displayname={'Enrique'} />
 				</td>
 				<td>Henry (name)</td>
 			</tr>
@@ -176,13 +176,13 @@ tldr: "Spanish has two R sounds: the single R (a quick tongue tap) and the rolle
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio lang={'es'} pid={'b03743ba-7f7b-48e3-9956-c9608acba848_0.mp3'} displayname={'pero'} />
+					<Kaudio lang={'es'} pid={'740cbe6b-fbb5-43dd-b9d2-3297d6399c9f_0.mp3'} displayname={'pero'} />
 				</td>
 				<td>but</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'es'} pid={'ed80e428-8d1a-43e8-b1b9-d9477c8780f8_0.mp3'} displayname={'caro'} />
+					<Kaudio lang={'es'} pid={'090121de-317f-4ff4-b43e-634a663995a9_0.mp3'} displayname={'caro'} />
 				</td>
 				<td>expensive</td>
 			</tr>
@@ -203,13 +203,13 @@ tldr: "Spanish has two R sounds: the single R (a quick tongue tap) and the rolle
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio lang={'es'} pid={'d265ba04-f377-4dde-b41f-b3f20eb36a78_0.mp3'} displayname={'tres'} />
+					<Kaudio lang={'es'} pid={'bb466a7f-2eaa-4e9d-8813-90d3fcfc84d0_0.mp3'} displayname={'tres'} />
 				</td>
 				<td>three</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'es'} pid={'31186566-f272-4768-9faf-826ea23d7cfd_0.mp3'} displayname={'trabajo'} />
+					<Kaudio lang={'es'} pid={'264ff573-d30a-414b-bebc-10921f864952_0.mp3'} displayname={'trabajo'} />
 				</td>
 				<td>work</td>
 			</tr>

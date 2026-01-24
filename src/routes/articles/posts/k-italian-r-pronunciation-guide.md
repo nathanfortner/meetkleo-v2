@@ -48,21 +48,21 @@ tldr: "The Italian R is a tongue-tip trill made at the front of the mouth - neve
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio lang={'it'} pid={'893270f0-d6ea-4dc5-af48-b7ad05ae355e_0.mp3'} displayname={'Roma'} />
+					<Kaudio lang={'it'} pid={'fe6b5c9f-eb76-4e82-9cfb-d6d7d7c4c38e_0.mp3'} displayname={'Roma'} />
 				</td>
 				<td>Rome</td>
 				<td>Initial R</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'it'} pid={'dacfae02-0d02-4ff2-b7a2-460b6c7f2424_0.mp3'} displayname={'rosso'} />
+					<Kaudio lang={'it'} pid={'b3ccc63c-4759-49ad-a636-45ce287a16dc_0.mp3'} displayname={'rosso'} />
 				</td>
 				<td>red</td>
 				<td>Initial R</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'it'} pid={'24539bff-21f8-4195-ab6c-7b0110b9cb04_0.mp3'} displayname={'amore'} />
+					<Kaudio lang={'it'} pid={'b3e2483c-647c-4254-af85-57d09b4cc3b4_0.mp3'} displayname={'amore'} />
 				</td>
 				<td>love</td>
 				<td>R between vowels</td>
@@ -85,21 +85,21 @@ tldr: "The Italian R is a tongue-tip trill made at the front of the mouth - neve
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio lang={'it'} pid={'bdd47129-d5f4-4653-ade8-f62386be2f31_0.mp3'} displayname={'caro'} />
+					<Kaudio lang={'it'} pid={'03ad0983-0409-40d8-ab78-ea194fcfa1c3_0.mp3'} displayname={'caro'} />
 				</td>
 				<td>dear/expensive</td>
 				<td>
-					<Kaudio lang={'it'} pid={'08bc8a4d-7762-4abe-9daf-adaf75110107_0.mp3'} displayname={'carro'} />
+					<Kaudio lang={'it'} pid={'5da66a48-65ba-4a99-a081-c94cb9e71e27_0.mp3'} displayname={'carro'} />
 				</td>
 				<td>cart</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'it'} pid={'ce232f8d-564a-488a-bca8-00fd95a1904e_0.mp3'} displayname={'sera'} />
+					<Kaudio lang={'it'} pid={'1809230f-e2dd-42e2-ae5d-ad6641d975f1_0.mp3'} displayname={'sera'} />
 				</td>
 				<td>evening</td>
 				<td>
-					<Kaudio lang={'it'} pid={'e7ac2ab3-3c0a-40ce-ac1f-e60fd0978d6f_0.mp3'} displayname={'terra'} />
+					<Kaudio lang={'it'} pid={'8f91b8a2-f99d-485d-a769-9ebcd29cac4a_0.mp3'} displayname={'terra'} />
 				</td>
 				<td>earth</td>
 			</tr>
@@ -124,13 +124,13 @@ tldr: "The Italian R is a tongue-tip trill made at the front of the mouth - neve
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio lang={'it'} pid={'893270f0-d6ea-4dc5-af48-b7ad05ae355e_0.mp3'} displayname={'Roma'} />
+					<Kaudio lang={'it'} pid={'fe6b5c9f-eb76-4e82-9cfb-d6d7d7c4c38e_0.mp3'} displayname={'Roma'} />
 				</td>
 				<td>Rome</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'it'} pid={'dacfae02-0d02-4ff2-b7a2-460b6c7f2424_0.mp3'} displayname={'rosso'} />
+					<Kaudio lang={'it'} pid={'b3ccc63c-4759-49ad-a636-45ce287a16dc_0.mp3'} displayname={'rosso'} />
 				</td>
 				<td>red</td>
 			</tr>
@@ -152,13 +152,13 @@ tldr: "The Italian R is a tongue-tip trill made at the front of the mouth - neve
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio lang={'it'} pid={'bdd47129-d5f4-4653-ade8-f62386be2f31_0.mp3'} displayname={'caro'} />
+					<Kaudio lang={'it'} pid={'03ad0983-0409-40d8-ab78-ea194fcfa1c3_0.mp3'} displayname={'caro'} />
 				</td>
 				<td>dear</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'it'} pid={'ce232f8d-564a-488a-bca8-00fd95a1904e_0.mp3'} displayname={'sera'} />
+					<Kaudio lang={'it'} pid={'1809230f-e2dd-42e2-ae5d-ad6641d975f1_0.mp3'} displayname={'sera'} />
 				</td>
 				<td>evening</td>
 			</tr>
@@ -179,13 +179,13 @@ tldr: "The Italian R is a tongue-tip trill made at the front of the mouth - neve
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio lang={'it'} pid={'42d038d9-424c-4076-afe9-45a187dae40c_0.mp3'} displayname={'tre'} />
+					<Kaudio lang={'it'} pid={'72df9cbf-1bec-4107-9cc9-80b2c72841b1_0.mp3'} displayname={'tre'} />
 				</td>
 				<td>three</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'it'} pid={'4b1fa790-7aab-4384-94bf-d43330f1eb29_0.mp3'} displayname={'primo'} />
+					<Kaudio lang={'it'} pid={'1b3b5ef0-e0c6-428a-a74b-ec619df63a2d_0.mp3'} displayname={'primo'} />
 				</td>
 				<td>first</td>
 			</tr>
@@ -205,19 +205,19 @@ tldr: "The Italian R is a tongue-tip trill made at the front of the mouth - neve
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio lang={'it'} pid={'7c00b861-f0f4-4cd7-a1cd-a9022f4aba15_0.mp3'} displayname={'birra'} />
+					<Kaudio lang={'it'} pid={'ddd15434-1eee-4152-abcc-4491e28275f7_0.mp3'} displayname={'birra'} />
 				</td>
 				<td>beer</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'it'} pid={'08bc8a4d-7762-4abe-9daf-adaf75110107_0.mp3'} displayname={'carro'} />
+					<Kaudio lang={'it'} pid={'5da66a48-65ba-4a99-a081-c94cb9e71e27_0.mp3'} displayname={'carro'} />
 				</td>
 				<td>cart</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'it'} pid={'e7ac2ab3-3c0a-40ce-ac1f-e60fd0978d6f_0.mp3'} displayname={'terra'} />
+					<Kaudio lang={'it'} pid={'8f91b8a2-f99d-485d-a769-9ebcd29cac4a_0.mp3'} displayname={'terra'} />
 				</td>
 				<td>earth</td>
 			</tr>
