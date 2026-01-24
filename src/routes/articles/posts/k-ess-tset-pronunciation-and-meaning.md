@@ -1,16 +1,18 @@
 ---
 layout: blog
-seotitle: ß Pronunciation And Meaning (It’s Easier Than It Looks)
-title: ß Pronunciation And Meaning (It’s Easier Than It Looks)
-metadescription: The German ß, or ess-tset, does not exist in English. The ß is pronounced like the double-s in the English word “miss.” 
+seotitle: ß Pronunciation And Meaning (It's Easier Than It Looks)
+title: ß Pronunciation And Meaning (It's Easier Than It Looks)
+metadescription: The German ß, or ess-tset, does not exist in English. The ß is pronounced like the double-s in the English word "miss."
 fname: k-ess-tset-pronunciation-and-meaning
 date: 09/18/2022
+dateModified: 01/24/2026
 longdate: September 18, 2022
 author: Michiyo Kawasaki
 categories: pronunciation, training, speaking
 k_language: german
 coverimage: Articles/esstset_cover1_10_22_22v3F.jpg
 articleimage: Articles/esstset_cover2_10_22_22v4_F.jpg
+tldr: "The German ß (called 'ess-tset' or 'sharp S') is pronounced exactly like the double-s in 'miss'. Despite looking unusual, it's one of the easiest German letters - just say 'ss'. Used in words like 'groß' (big) and 'Straße' (street)."
 ---
 <script>
 	import Kaudio from '$lib/components/audioelement.svelte';

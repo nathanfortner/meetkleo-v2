@@ -1,18 +1,18 @@
 ---
-
 layout: blog
 seotitle: How To Maximize Your Learning In The Kleo App
 title: How To Maximize Your Learning In The Kleo App
 metadescription: Learn expert tips on how to allocate your time when learning a language.
 fname: k-how-to-maximize-your-learning-in-the-kleo-app
 date: 03/24/2023
+dateModified: 01/24/2026
 longdate: March 24, 2023
 author: Michiyo Kawasaki
 categories: training, speaking
 k_language: all
 coverimage: Articles/peter1.png
 articleimage: Articles/peter2.png
-
+tldr: "Language expert Peter Chase recommends: spend 60% of your time on speaking practice (Kleo's interactive videos), 30% on vocabulary building, and 10% on grammar review. Short daily sessions (15-20 min) beat long weekly sessions for retention."
 ---
 
 <script>

@@ -1,18 +1,18 @@
 ---
-
 layout: blog
 seotitle: Putting Kleo To Work For You Every Time
 title: Putting Kleo To Work For You Every Time
 metadescription: Discover the best kept secrets for learning and speaking a new language.
 fname: k-putting-kleo-to-work-for-you-every-time
 date: 03/19/2023
+dateModified: 01/24/2026
 longdate: March 19, 2023
 author: Michiyo Kawasaki
 categories: training, speaking
 k_language: all
 coverimage: Articles/features_cover1v3_F.png
 articleimage: Articles/features_cover2v2_F.png
-
+tldr: "Key Kleo features: adjust video speed for your level, use hands-free mode for immersive practice, enable subtitles when needed, and tap pause to access Video Settings. The app gives real-time pronunciation feedback so you can practice until perfect."
 ---
 
 <script>

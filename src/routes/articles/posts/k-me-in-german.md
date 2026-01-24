@@ -5,13 +5,14 @@ title: Me in German (Mich Or Mir - Choose Right Every Time)
 metadescription: Mich - direct object, with accusative prepositions. Mir - indirect object, with dative prepositions. Let's see examples!
 fname: k-me-in-german
 date: 11/1/2022
+dateModified: 01/24/2026
 longdate: November 1, 2022
 author: Michiyo Kawasaki
 categories: grammar, training, speaking
 k_language: german
 coverimage: Articles/me_cover1_11_1_22_F.jpg
 articleimage: Articles/me_cover2_11_1_22_F.jpg
-
+tldr: "Use 'mich' as a direct object and after accusative prepositions (für, ohne, gegen). Use 'mir' as an indirect object and after dative prepositions (mit, bei, zu). Example: 'Siehst du mich?' (Do you see me?) vs 'Hilf mir!' (Help me!)"
 ---
 <script>
 	import Kaudio from '$lib/components/audioelement.svelte';

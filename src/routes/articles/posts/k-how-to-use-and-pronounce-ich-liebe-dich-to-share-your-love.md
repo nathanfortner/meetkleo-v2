@@ -2,16 +2,17 @@
 layout: blog
 seotitle: How To Use And Pronounce Ich Liebe Dich To Share Your Love
 title: How To Use And Pronounce Ich Liebe Dich To Share Your Love
-metadescription: Use ich liebe dich for “I love you” in German. Let’s learn the sounds you’ll need, including the soft CH pronunciation.
+metadescription: Use ich liebe dich for "I love you" in German. Let's learn the sounds you'll need, including the soft CH pronunciation.
 fname: k-how-to-use-and-pronounce-ich-liebe-dich-to-share-your-love
 date: 09/12/2022
+dateModified: 01/24/2026
 longdate: September 12, 2022
 author: Michiyo Kawasaki
 categories: pronunciation, training, speaking
 k_language: german
 coverimage: Articles/ichliebe_cover1_10_1_22.jpg
 articleimage: Articles/ichliebe_cover2_10_1_22.jpg
-
+tldr: "'Ich liebe dich' means 'I love you' in German. The key sounds are: 'ich' (with soft CH like a hissing cat), 'liebe' (LEE-buh), and 'dich' (with the same soft CH). Use it with anyone you love - family, friends, or romantic partners."
 ---
 <script>
 	import Kaudio from '$lib/components/audioelement.svelte';

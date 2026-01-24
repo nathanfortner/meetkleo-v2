@@ -5,13 +5,14 @@ title: I am In German (Ich Bin Is Powerful And You Can Use It Now)
 metadescription: To say "I am" in German, use ich bin. Let's see the types of information we can share and refine our pronunciation too!
 fname: k-i-am-in-german
 date: 11/4/2022
+dateModified: 01/24/2026
 longdate: November 4, 2022
 author: Michiyo Kawasaki
 categories: grammar, training, speaking
 k_language: german
 coverimage: Articles/ichbin_cover1_11722_F.jpg
 articleimage: Articles/ichbin_cover2_11722_F.jpg
-
+tldr: "'Ich bin' means 'I am' in German. It's one of the most useful phrases for beginners - use it to share your name (Ich bin Anna), profession (Ich bin Arzt), feelings (Ich bin müde), and location (Ich bin hier). Pronounced 'ikh bin'."
 ---
 <script>
 	import Kaudio from '$lib/components/audioelement.svelte';

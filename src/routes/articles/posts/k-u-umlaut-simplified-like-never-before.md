@@ -2,15 +2,17 @@
 layout: blog
 seotitle: U Umlaut Simplified Like Never Before (Ü Pronunciation Tips)
 title: U Umlaut Simplified Like Never Before (Ü Pronunciation Tips)
-metadescription: The U Umlaut makes a unique sound – kind of like you’ve smelled something unpleasant. Let’s practice pronouncing Ü!
+metadescription: The U Umlaut makes a unique sound – kind of like you've smelled something unpleasant. Let's practice pronouncing Ü!
 fname: k-u-umlaut-simplified-like-never-before
 date: 09/19/2022
+dateModified: 01/24/2026
 longdate: September 19, 2022
 author: Michiyo Kawasaki
 categories: pronunciation, training, speaking
 k_language: german
 coverimage: Articles/u_umlaut_coverimage1_10.1.22.jpg
 articleimage: Articles/u_umlaut_coverimage2_10.1.22.jpg
+tldr: "The German Ü (U umlaut) has no English equivalent - it sounds like you've smelled something unpleasant. To make it: round your lips like saying 'oo' but try to say 'ee' instead. Long Ü is in 'über', short Ü is in 'fünf'."
 ---
 <script>
 	import Kaudio from '$lib/components/audioelement.svelte';

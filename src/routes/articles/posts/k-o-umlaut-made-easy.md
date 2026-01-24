@@ -2,15 +2,17 @@
 layout: blog
 seotitle: O Umlaut Made Easy (Ö Pronunciation Guide)
 title: O Umlaut Made Easy (Ö Pronunciation Guide)
-metadescription: The O Umlaut makes a distinct sound, kind of like you’re disgusted by something. Let’s learn to pronounce Ö!
+metadescription: The O Umlaut makes a distinct sound, kind of like you're disgusted by something. Let's learn to pronounce Ö!
 fname: k-o-umlaut-made-easy
 date: 09/24/2022
+dateModified: 01/24/2026
 longdate: September 24, 2022
 author: Michiyo Kawasaki
 categories: pronunciation, training, speaking
 k_language: german
 coverimage: Articles/o_umlaut_coverimage1_10.1.22.jpg
 articleimage: Articles/o_umlaut_coverimage2_10.1.22.jpg
+tldr: "The German Ö (O umlaut) has no English equivalent - it sounds like you're disgusted by something. It has both a long and short pronunciation. Round your lips as if saying 'O' but try to say 'E' instead."
 ---
 <script>
 	import Kaudio from '$lib/components/audioelement.svelte';

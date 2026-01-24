@@ -2,15 +2,17 @@
 layout: blog
 seotitle: How To Pronounce IG In German (Do This When Words End In IG)
 title: How To Pronounce IG In German
-metadescription: In standard German, IG at the end of a word is pronounced as the soft CH, as in ich. Let’s practice this distinct sound!
+metadescription: In standard German, IG at the end of a word is pronounced as the soft CH, as in ich. Let's practice this distinct sound!
 fname: k-how-to-pronounce-ig-in-german
 date: 09/12/2022
+dateModified: 01/24/2026
 longdate: September 12, 2022
 author: Michiyo Kawasaki
 categories: pronunciation, training, speaking
 k_language: german
 coverimage: Articles/igend_cover1_10_1_22.jpg
 articleimage: Articles/igend_cover2_10_1_22.jpg
+tldr: "In standard German, when words end in '-ig', pronounce it like the soft CH in 'ich' (like a hissing cat). So 'fertig' (finished) sounds like 'fertich', and 'lustig' (funny) sounds like 'lustich'. This is Northern German pronunciation."
 ---
 <script>
 	import Kaudio from '$lib/components/audioelement.svelte';

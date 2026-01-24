@@ -2,16 +2,17 @@
 layout: blog
 seotitle: How to Pronounce the German Z (Pizza Anyone?)
 title: How to Pronounce the German Z (Pizza Anyone?)
-metadescription: The Z in German always makes the same sound. It’s like the “TS” sound heard in the words pizza” or cats.”
+metadescription: The Z in German always makes the same sound. It's like the "TS" sound heard in the words pizza" or cats."
 fname: k-how-to-pronounce-the-german-z
 date: 10/01/2022
+dateModified: 01/24/2026
 longdate: October 1, 2022
 author: Michiyo Kawasaki
 categories: pronunciation, training, speaking
 k_language: german
 coverimage: Articles/zblog_cover1_10_1_22.jpg
 articleimage: Articles/zblog_cover2_10_1_22.jpg
-
+tldr: "The German Z always sounds like 'TS' - as in 'pizza' or 'cats'. Never like the English 'z' in 'zoo'. So 'zehn' (ten) sounds like 'tsehn', and 'Zeit' (time) sounds like 'tseit'. It's consistent and never changes."
 ---
 <script>
 	import Kaudio from '$lib/components/audioelement.svelte';

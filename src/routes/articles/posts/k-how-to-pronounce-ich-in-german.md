@@ -5,12 +5,14 @@ title: How to Pronounce Ich In German
 metadescription: For the word ich, use a short I. Then make the soft CH sound, like a hissing cat. Learn how to master this sound now!
 fname: k-how-to-pronounce-ich-in-german
 date: 09/12/2022
+dateModified: 01/24/2026
 longdate: September 12, 2022
 author: Michiyo Kawasaki
 categories: pronunciation, training, speaking
 k_language: german
 coverimage: Articles/ich_cover1_10_1_22.jpg
 articleimage: Articles/ich_cover2_10_1_22.jpg
+tldr: "To pronounce 'ich' (I) in German: use a short 'i' sound like in 'in', then add the soft CH sound like a hissing cat. The CH has no English equivalent - try whispering 'huge' and exaggerating the 'h' sound."
 ---
 <script>
 	import Kaudio from '$lib/components/audioelement.svelte';
