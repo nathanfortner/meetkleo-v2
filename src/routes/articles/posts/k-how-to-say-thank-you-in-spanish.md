@@ -47,7 +47,7 @@ tldr: "Basic: 'gracias' (thank you). Emphatic: 'muchas gracias' (thank you very 
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_gracias'} displayname={'gracias'} />
+					<Kaudio lang={'es'} pid={'96592faf-4e79-4682-aa6f-3eb97219b9cf_0.mp3'} displayname={'gracias'} />
 				</td>
 				<td>thank you</td>
 				<td>Everyday situations</td>
@@ -91,7 +91,7 @@ tldr: "Basic: 'gracias' (thank you). Emphatic: 'muchas gracias' (thank you very 
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_de_nada'} displayname={'de nada'} />
+					<Kaudio lang={'es'} pid={'0a37040e-1f25-4ec9-aa6d-e06ce1249dd6_0.mp3'} displayname={'de nada'} />
 				</td>
 				<td>you're welcome (lit: "of nothing")</td>
 				<td>Universal</td>

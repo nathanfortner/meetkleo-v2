@@ -55,7 +55,7 @@ tldr: "Ї (yi) = 'YEE' as in 'yield' - unique to Ukrainian (їжа = food, Ки�
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'uk'} pid={'AUDIO_NEEDED_uk_yisty'} displayname={'їсти'} />
+					<Kaudio lang={'uk'} pid={'8789ca9d-05db-48c2-bc10-43ae51b8eea0_0.mp3'} displayname={'їсти'} />
 				</td>
 				<td>YEES-ty</td>
 				<td>to eat</td>
@@ -157,7 +157,7 @@ tldr: "Ї (yi) = 'YEE' as in 'yield' - unique to Ukrainian (їжа = food, Ки�
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'uk'} pid={'AUDIO_NEEDED_uk_borshch'} displayname={'борщ'} />
+					<Kaudio lang={'uk'} pid={'bad35398-67e9-49fd-a066-23408f921209_0.mp3'} displayname={'борщ'} />
 				</td>
 				<td>borscht (beet soup)</td>
 			</tr>

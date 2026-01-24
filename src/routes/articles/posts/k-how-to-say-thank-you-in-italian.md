@@ -47,7 +47,7 @@ tldr: "Basic: 'grazie' (GRAHT-see-eh). Emphatic: 'grazie mille' (thanks a lot), 
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_grazie'} displayname={'grazie'} />
+					<Kaudio lang={'it'} pid={'77126185-9e07-4635-a07a-efe3d76c9063_0.mp3'} displayname={'grazie'} />
 				</td>
 				<td>thank you</td>
 				<td>Everyday situations</td>
@@ -84,7 +84,7 @@ tldr: "Basic: 'grazie' (GRAHT-see-eh). Emphatic: 'grazie mille' (thanks a lot), 
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_prego'} displayname={'prego'} />
+					<Kaudio lang={'it'} pid={'00169d6d-13ba-4948-9c99-7c2120bbceea_0.mp3'} displayname={'prego'} />
 				</td>
 				<td>you're welcome</td>
 				<td>Most common - works everywhere</td>

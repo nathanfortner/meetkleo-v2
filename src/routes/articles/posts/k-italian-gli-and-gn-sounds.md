@@ -48,28 +48,28 @@ tldr: "GLI sounds like 'LLI' in 'million' or 'brilliant' - your tongue presses f
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_famiglia'} displayname={'famiglia'} />
+					<Kaudio lang={'it'} pid={'4f5ac4e2-01aa-4299-9b7f-12bad2864fa7_0.mp3'} displayname={'famiglia'} />
 				</td>
 				<td>family</td>
 				<td>fah-MEE-lyah</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_figlio'} displayname={'figlio'} />
+					<Kaudio lang={'it'} pid={'d250d28a-c8c1-438f-a521-c34fd7088b87_0.mp3'} displayname={'figlio'} />
 				</td>
 				<td>son</td>
 				<td>FEE-lyoh</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_figlia'} displayname={'figlia'} />
+					<Kaudio lang={'it'} pid={'964b9b2a-571b-40d9-bb10-e0cdae0a3801_0.mp3'} displayname={'figlia'} />
 				</td>
 				<td>daughter</td>
 				<td>FEE-lyah</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_moglie'} displayname={'moglie'} />
+					<Kaudio lang={'it'} pid={'36ce4e41-ac9d-410f-9c29-293c8dfa483a_0.mp3'} displayname={'moglie'} />
 				</td>
 				<td>wife</td>
 				<td>MOH-lyeh</td>
@@ -113,14 +113,14 @@ tldr: "GLI sounds like 'LLI' in 'million' or 'brilliant' - your tongue presses f
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_bagno'} displayname={'bagno'} />
+					<Kaudio lang={'it'} pid={'a469fd8c-61e2-4bc3-8dc0-24fb94774577_0.mp3'} displayname={'bagno'} />
 				</td>
 				<td>bathroom</td>
 				<td>BAH-nyoh</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_ogni'} displayname={'ogni'} />
+					<Kaudio lang={'it'} pid={'921308dd-d059-4c18-b4dd-0ee25f5ed99f_0.mp3'} displayname={'ogni'} />
 				</td>
 				<td>every</td>
 				<td>OH-nyee</td>

@@ -70,7 +70,7 @@ tldr: "The Spanish Ñ sounds like 'NY' in 'canyon' or 'onion'. It's a single sou
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_espanol'} displayname={'español'} />
+					<Kaudio lang={'es'} pid={'0e1d5ed4-ffc0-4e19-953f-2131ee029bca_0.mp3'} displayname={'español'} />
 				</td>
 				<td>Spanish</td>
 				<td>"es-pan-YOL"</td>
@@ -93,7 +93,7 @@ tldr: "The Spanish Ñ sounds like 'NY' in 'canyon' or 'onion'. It's a single sou
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_ano'} displayname={'año'} />
+					<Kaudio lang={'es'} pid={'0784bcad-9f3e-4406-8ea6-b0f8a0d7323d_0.mp3'} displayname={'año'} />
 				</td>
 				<td>year</td>
 				<td>ano</td>
@@ -120,13 +120,13 @@ tldr: "The Spanish Ñ sounds like 'NY' in 'canyon' or 'onion'. It's a single sou
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_ano'} displayname={'año'} />
+					<Kaudio lang={'es'} pid={'0784bcad-9f3e-4406-8ea6-b0f8a0d7323d_0.mp3'} displayname={'año'} />
 				</td>
 				<td>year</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_manana'} displayname={'mañana'} />
+					<Kaudio lang={'es'} pid={'10873d70-58b9-4652-ab5a-3226fe600728_0.mp3'} displayname={'mañana'} />
 				</td>
 				<td>tomorrow / morning</td>
 			</tr>
@@ -198,13 +198,13 @@ tldr: "The Spanish Ñ sounds like 'NY' in 'canyon' or 'onion'. It's a single sou
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_sueno'} displayname={'sueño'} />
+					<Kaudio lang={'es'} pid={'6db8d686-cfd4-421b-8a6b-e3eb241477ac_0.mp3'} displayname={'sueño'} />
 				</td>
 				<td>dream / sleep</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_bano'} displayname={'baño'} />
+					<Kaudio lang={'es'} pid={'f54a3af4-f862-479c-a684-80bdd29371df_0.mp3'} displayname={'baño'} />
 				</td>
 				<td>bathroom</td>
 			</tr>

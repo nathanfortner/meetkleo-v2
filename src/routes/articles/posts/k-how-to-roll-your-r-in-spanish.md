@@ -50,7 +50,7 @@ tldr: "Spanish has two R sounds: the single R (a quick tongue tap) and the rolle
 			<tr>
 				<td>Single R (tap)</td>
 				<td>
-					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_pero'} displayname={'pero'} />
+					<Kaudio lang={'es'} pid={'b03743ba-7f7b-48e3-9956-c9608acba848_0.mp3'} displayname={'pero'} />
 				</td>
 				<td>but</td>
 				<td>Quick tongue tap</td>
@@ -58,7 +58,7 @@ tldr: "Spanish has two R sounds: the single R (a quick tongue tap) and the rolle
 			<tr>
 				<td>Double RR (trill)</td>
 				<td>
-					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_perro'} displayname={'perro'} />
+					<Kaudio lang={'es'} pid={'71981575-4a03-4b30-8b0e-c08a923b7f53_0.mp3'} displayname={'perro'} />
 				</td>
 				<td>dog</td>
 				<td>Rolled/trilled</td>
@@ -84,13 +84,13 @@ tldr: "Spanish has two R sounds: the single R (a quick tongue tap) and the rolle
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_perro'} displayname={'perro'} />
+					<Kaudio lang={'es'} pid={'71981575-4a03-4b30-8b0e-c08a923b7f53_0.mp3'} displayname={'perro'} />
 				</td>
 				<td>dog</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_carro'} displayname={'carro'} />
+					<Kaudio lang={'es'} pid={'ac5d6c80-bb14-4113-b662-0ea81edd3245_0.mp3'} displayname={'carro'} />
 				</td>
 				<td>car</td>
 			</tr>
@@ -176,7 +176,7 @@ tldr: "Spanish has two R sounds: the single R (a quick tongue tap) and the rolle
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_pero'} displayname={'pero'} />
+					<Kaudio lang={'es'} pid={'b03743ba-7f7b-48e3-9956-c9608acba848_0.mp3'} displayname={'pero'} />
 				</td>
 				<td>but</td>
 			</tr>
@@ -203,13 +203,13 @@ tldr: "Spanish has two R sounds: the single R (a quick tongue tap) and the rolle
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_tres'} displayname={'tres'} />
+					<Kaudio lang={'es'} pid={'d265ba04-f377-4dde-b41f-b3f20eb36a78_0.mp3'} displayname={'tres'} />
 				</td>
 				<td>three</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_trabajo'} displayname={'trabajo'} />
+					<Kaudio lang={'es'} pid={'31186566-f272-4768-9faf-826ea23d7cfd_0.mp3'} displayname={'trabajo'} />
 				</td>
 				<td>work</td>
 			</tr>

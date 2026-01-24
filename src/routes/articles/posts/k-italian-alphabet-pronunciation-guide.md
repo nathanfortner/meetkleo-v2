@@ -48,7 +48,7 @@ tldr: "The Italian alphabet has 21 letters (no J, K, W, X, Y). Key sounds: C bef
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_ciao'} displayname={'ciao'} />
+					<Kaudio lang={'it'} pid={'a964e460-a889-456b-af8f-5a159c9f96ee_0.mp3'} displayname={'ciao'} />
 				</td>
 				<td>hello / goodbye</td>
 			</tr>
@@ -84,13 +84,13 @@ tldr: "The Italian alphabet has 21 letters (no J, K, W, X, Y). Key sounds: C bef
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_cena'} displayname={'cena'} />
+					<Kaudio lang={'it'} pid={'3a2c9f86-665c-4dde-b7ec-81ffab04b5b9_0.mp3'} displayname={'cena'} />
 				</td>
 				<td>dinner</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_ciao'} displayname={'ciao'} />
+					<Kaudio lang={'it'} pid={'a964e460-a889-456b-af8f-5a159c9f96ee_0.mp3'} displayname={'ciao'} />
 				</td>
 				<td>hello/bye</td>
 			</tr>
@@ -111,7 +111,7 @@ tldr: "The Italian alphabet has 21 letters (no J, K, W, X, Y). Key sounds: C bef
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_casa'} displayname={'casa'} />
+					<Kaudio lang={'it'} pid={'6b0226df-a4ea-41ca-a19c-f30763d4f92b_0.mp3'} displayname={'casa'} />
 				</td>
 				<td>house</td>
 			</tr>
@@ -157,7 +157,7 @@ tldr: "The Italian alphabet has 21 letters (no J, K, W, X, Y). Key sounds: C bef
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_gelato'} displayname={'gelato'} />
+					<Kaudio lang={'it'} pid={'9fac822e-b0f3-46cb-b10f-606a62165383_0.mp3'} displayname={'gelato'} />
 				</td>
 				<td>ice cream</td>
 			</tr>
@@ -178,7 +178,7 @@ tldr: "The Italian alphabet has 21 letters (no J, K, W, X, Y). Key sounds: C bef
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_gatto'} displayname={'gatto'} />
+					<Kaudio lang={'it'} pid={'cef7ffa5-753e-4d89-af66-a3a3fa41a0cf_0.mp3'} displayname={'gatto'} />
 				</td>
 				<td>cat</td>
 			</tr>
@@ -223,7 +223,7 @@ tldr: "The Italian alphabet has 21 letters (no J, K, W, X, Y). Key sounds: C bef
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_famiglia'} displayname={'famiglia'} />
+					<Kaudio lang={'it'} pid={'4f5ac4e2-01aa-4299-9b7f-12bad2864fa7_0.mp3'} displayname={'famiglia'} />
 				</td>
 				<td>family</td>
 			</tr>
@@ -264,7 +264,7 @@ tldr: "The Italian alphabet has 21 letters (no J, K, W, X, Y). Key sounds: C bef
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_pizza'} displayname={'pizza'} />
+					<Kaudio lang={'it'} pid={'a863b341-ca14-4e20-a005-888e74702b2e_0.mp3'} displayname={'pizza'} />
 				</td>
 				<td>pizza</td>
 			</tr>

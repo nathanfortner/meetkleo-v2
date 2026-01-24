@@ -47,14 +47,14 @@ tldr: "Italian distinguishes between romantic love and affectionate love: 'ti am
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_ti_amo'} displayname={'ti amo'} />
+					<Kaudio lang={'it'} pid={'12109df4-87c7-4db9-b810-3ff700d30d81_0.mp3'} displayname={'ti amo'} />
 				</td>
 				<td>I love you</td>
 				<td>Romantic partners only</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_ti_voglio_bene'} displayname={'ti voglio bene'} />
+					<Kaudio lang={'it'} pid={'cb79d59d-2c69-4262-a75e-773a5ff013d6_0.mp3'} displayname={'ti voglio bene'} />
 				</td>
 				<td>I love you</td>
 				<td>Family, friends, pets</td>

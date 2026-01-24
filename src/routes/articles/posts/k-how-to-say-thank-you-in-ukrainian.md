@@ -47,7 +47,7 @@ tldr: "Basic: 'дякую' (DYAH-koo-yoo) = thank you. Emphatic: 'дуже дя�
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio lang={'uk'} pid={'AUDIO_NEEDED_uk_dyakuyu'} displayname={'дякую'} />
+					<Kaudio lang={'uk'} pid={'fe61d96c-7a3b-455c-be0f-b6dacbf635a3_0.mp3'} displayname={'дякую'} />
 				</td>
 				<td>DYAH-koo-yoo</td>
 				<td>thank you</td>
@@ -84,7 +84,7 @@ tldr: "Basic: 'дякую' (DYAH-koo-yoo) = thank you. Emphatic: 'дуже дя�
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio lang={'uk'} pid={'AUDIO_NEEDED_uk_bud_laska'} displayname={'будь ласка'} />
+					<Kaudio lang={'uk'} pid={'43544f7a-e457-4a71-b37c-2b42a40c18ea_0.mp3'} displayname={'будь ласка'} />
 				</td>
 				<td>bood' LAHS-kah</td>
 				<td>you're welcome / please</td>
