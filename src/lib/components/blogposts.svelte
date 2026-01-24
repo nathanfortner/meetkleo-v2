@@ -7,7 +7,7 @@
 </script>
 
 <div class="relative flex flex-col max-w-[350px] rounded-xl shadow-lg bg-white shadow-slate-600 hover:bg-white/90 hover:ring-2 hover:ring-blue-300 hover:shadow-k_blue-400">
-    <a href={`./articles/${blogposts.path}`}>
+    <a href={`/articles/${blogposts.path}`}>
         <img class="w-full aspect-square rounded-t-xl object-cover" src={`${imgURL}${blogposts.meta.coverimage}`} alt={blogposts.meta.title}>
         <div class="px-6 py-4">
             <div class="font-bold text-3xl mb-2">
