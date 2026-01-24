@@ -5,8 +5,12 @@ import { error, redirect } from '@sveltejs/kit';
 export const prerender = true;
 
 export async function load({ params }) {
+    // Validate slug: only allow lowercase letters, numbers, and hyphens
+    if (!params.slug || !/^[a-z0-9-]+$/.test(params.slug)) {
+        throw error(404, 'Invalid article slug');
+    }
+
     try {
-        // let direct = `../posts/blog-${params.slug}.md`;
         const Thing = await import(`../posts/k-${params.slug}.md`);
         const {seotitle, title, author, date, longdate, metadescription, fname } = Thing.metadata;
         const content = Thing.default;
