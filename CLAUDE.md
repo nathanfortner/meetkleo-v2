@@ -195,3 +195,56 @@ Choose Language → Updates $valueLang store
 - **Prerendering:** `export const prerender = true` for static pages
 - **Cloudinary:** All images served via CDN
 - **SEO:** Meta tags, canonicals, JSON-LD via SEO component
+
+## SEO Rules - READ BEFORE MAKING CHANGES
+
+### Critical Rules
+
+1. **NEVER change URLs** - URL changes destroy Google rankings. If a page ranks well, its URL must stay exactly the same.
+
+2. **NEVER change filenames in `/articles/posts/`** - The filename (e.g., `k-pronounce-the-german-r-right.md`) determines the URL.
+
+3. **NEVER significantly alter H1 tags or main content** on high-ranking pages without explicit approval.
+
+### High-Ranking Pages (HANDLE WITH CARE)
+
+These pages have strong Google rankings. Be extremely cautious:
+
+| Page | URL | Notes |
+|------|-----|-------|
+| German R Pronunciation | `/articles/pronounce-the-german-r-right` | Top ranked - DO NOT modify URL or H1 |
+| All articles in `/articles/*` | Various | Assume all are indexed - preserve URLs |
+| Homepage | `/` | Core landing page |
+
+**Safe changes for high-ranking pages:**
+- Styling/CSS updates
+- Adding structured data (schema)
+- Improving page speed
+- Adding internal links TO the page
+- Bug fixes that don't alter content
+
+**Risky changes (require approval):**
+- Changing page titles or H1s
+- Rewriting or removing content
+- Changing URL structure
+- Removing internal links
+
+### Low-Risk Pages (Safe to Modify)
+
+These pages have low/no rankings - safe to experiment:
+
+| Page | URL | Notes |
+|------|-----|-------|
+| News | `/more/news` | Low traffic, safe to redesign |
+| FAQ | `/more/faq` | Low traffic, safe to modify |
+| Downloads | `/downloads` | Utility page |
+| Learn | `/learn` | Internal page |
+| Influencer pages | `/of/*` | Campaign pages |
+
+### Before Making Page Changes
+
+Always ask:
+1. Does this change affect a URL? → **STOP, get approval**
+2. Does this change the H1 or main content? → **Check if page ranks well first**
+3. Is this a design/style change only? → **Usually safe**
+4. Am I adding content (not removing)? → **Usually safe**
