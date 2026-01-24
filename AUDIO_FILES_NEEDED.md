@@ -2,16 +2,44 @@
 
 This document tracks all words and phrases that need audio recordings for the interactive Kaudio components on the website.
 
-## Audio File Structure
-- **Host:** Cloudinary (`https://ddseu0ssi.mo.cloudinary.net/audio/`)
-- **Path pattern:** `{source_lang}_nt_{target_lang}/phrase/{uuid}_0.mp3`
-- **Example:** `en_nt_de/phrase/6ccb5332-2452-44a6-92f1-1faf28802a07_0.mp3`
+## Audio File Storage
+
+### S3 Bucket (Source)
+- **Bucket:** `kleo-prod`
+- **Path pattern:** `audio/{lang_code}/phrase/{uuid}_0.mp3`
+- **Language codes:**
+  - German: `en_nt_de`
+  - Spanish: `en_nt_es`
+  - Italian: `en_nt_it`
+  - Ukrainian: `en_nt_uk`
+
+### CDN (Served via Cloudinary)
+- **Base URL:** `https://ddseu0ssi.mo.cloudinary.net/audio/`
+- **Full URL example:** `https://ddseu0ssi.mo.cloudinary.net/audio/en_nt_es/phrase/{uuid}_0.mp3`
+
+### Existing Audio Files
+All language folders already have audio files from the app:
+- German: ~10,000+ files
+- Spanish: ~5,000+ files
+- Italian: ~3,000+ files
+- Ukrainian: ~500+ files
+
+**You may be able to reuse existing audio files** - check the S3 bucket for words that already exist.
 
 ## How to Add Audio Files
 1. Record the word/phrase with a native speaker
-2. Upload to Cloudinary in the appropriate language folder
-3. Get the UUID/filename
-4. Replace the placeholder `AUDIO_NEEDED_[word]` in the article with the actual filename
+2. Generate a UUID for the filename (e.g., `uuidgen` command)
+3. Name the file: `{uuid}_0.mp3`
+4. Upload to S3: `aws s3 cp {uuid}_0.mp3 s3://kleo-prod/audio/{lang_code}/phrase/`
+5. Replace the placeholder in the article with `{uuid}_0.mp3`
+
+### Example
+```bash
+# Generate UUID and upload Spanish audio
+UUID=$(uuidgen | tr '[:upper:]' '[:lower:]')
+aws s3 cp hola.mp3 s3://kleo-prod/audio/en_nt_es/phrase/${UUID}_0.mp3
+echo "Replace AUDIO_NEEDED_es_hola with: ${UUID}_0.mp3"
+```
 
 ---
 
