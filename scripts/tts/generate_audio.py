@@ -56,8 +56,23 @@ S3_PATHS = {
 
 CDN_BASE = "https://ddseu0ssi.mo.cloudinary.net/audio"
 
-# Default voice ID - Rachel (multilingual capable)
+# Language-specific native speaker voices
+# To find more voices: browse elevenlabs.io/voice-library and copy voice ID
+VOICE_IDS = {
+    'es': 'sDh3eviBhiuHKi0MjTNq',  # Spanish native speaker
+    'it': 'HuK8QKF35exsCh2e7fLT',  # Italian native speaker
+    'uk': 'nCqaTnIbLdME87OuQaZY',  # Ukrainian native speaker
+    'de': 'fmj9wTxZg3ta4xR75kgB',  # German native speaker
+}
+
+# Fallback voice ID - Rachel (multilingual capable)
 DEFAULT_VOICE_ID = "21m00Tcm4TlvDq8ikWAM"
+
+# TTS Models - highest quality first
+# eleven_v3: Highest quality, 70+ languages, but in ALPHA (5000 char limit)
+# eleven_multilingual_v2: High quality, 29 languages, production-ready
+DEFAULT_MODEL = "eleven_multilingual_v2"
+HIGH_QUALITY_MODEL = "eleven_v3"  # Use with --hq flag
 
 def generate_speech(text, voice_id, language_code=None, model_id="eleven_multilingual_v2"):
     """
@@ -142,7 +157,7 @@ def generate_and_upload(text, language, voice_id=None):
     Args:
         text: Word or phrase to generate
         language: Language code (es, it, uk)
-        voice_id: Optional voice ID (will use default if not provided)
+        voice_id: Optional voice ID (uses language-specific voice if not provided)
 
     Returns:
         dict with uuid, filename, and s3_path
@@ -151,17 +166,27 @@ def generate_and_upload(text, language, voice_id=None):
     file_uuid = str(uuid.uuid4())
     filename = f"{file_uuid}_0.mp3"
 
+    # Use language-specific voice if not explicitly provided
     if voice_id is None:
-        voice_id = DEFAULT_VOICE_ID
+        voice_id = VOICE_IDS.get(language, DEFAULT_VOICE_ID)
 
-    print(f"Generating audio for '{text}' in {language}...")
+    # Get voice name for logging
+    voice_name = "custom"
+    for lang, vid in VOICE_IDS.items():
+        if vid == voice_id:
+            voice_name = f"{lang} native"
+            break
+    if voice_id == DEFAULT_VOICE_ID:
+        voice_name = "Rachel (default)"
+
+    print(f"Generating audio for '{text}' in {language} using voice: {voice_name}...")
 
     # Generate the speech
     audio_data = generate_speech(
         text=text,
         voice_id=voice_id,
         language_code=LANGUAGE_CODES.get(language),
-        model_id="eleven_multilingual_v2"
+        model_id=DEFAULT_MODEL
     )
 
     print(f"Generated {len(audio_data)} bytes of audio")
@@ -206,6 +231,25 @@ def batch_generate(words_file, language):
 
     return results
 
+def show_voices():
+    """Display configured voices for each language"""
+    print("\nConfigured Native Speaker Voices:")
+    print("=" * 50)
+    for lang, voice_id in VOICE_IDS.items():
+        lang_name = {'es': 'Spanish', 'it': 'Italian', 'uk': 'Ukrainian', 'de': 'German'}.get(lang, lang)
+        is_default = voice_id == DEFAULT_VOICE_ID
+        status = " (fallback - needs native voice)" if is_default else ""
+        print(f"  {lang_name:12} → {voice_id}{status}")
+    print("")
+    print("To update voices:")
+    print("  1. Browse elevenlabs.io/voice-library")
+    print("  2. Filter by language and find a native speaker")
+    print("  3. Copy the voice ID and update VOICE_IDS in this script")
+    print("")
+    print(f"Current model: {DEFAULT_MODEL}")
+    print(f"High-quality model (alpha): {HIGH_QUALITY_MODEL}")
+
+
 if __name__ == "__main__":
     if not ELEVENLABS_API_KEY:
         print("Error: ELEVENLABS_API_KEY not found in environment")
@@ -215,17 +259,25 @@ if __name__ == "__main__":
         print("Usage:")
         print("  python generate_audio.py generate <text> <language> [voice_id]")
         print("  python generate_audio.py batch <words_file> <language>")
+        print("  python generate_audio.py voices")
         print("")
         print("Languages: es (Spanish), it (Italian), uk (Ukrainian), de (German)")
+        print("")
+        print("Each language uses a native speaker voice automatically.")
+        print("Run 'voices' command to see configured voices.")
         print("")
         print("Examples:")
         print('  python generate_audio.py generate "jalapeño" es')
         print('  python generate_audio.py batch missing_words.txt es')
+        print('  python generate_audio.py voices')
         sys.exit(1)
 
     command = sys.argv[1]
 
-    if command == "generate":
+    if command == "voices":
+        show_voices()
+
+    elif command == "generate":
         if len(sys.argv) < 4:
             print("Usage: python generate_audio.py generate <text> <language> [voice_id]")
             sys.exit(1)
