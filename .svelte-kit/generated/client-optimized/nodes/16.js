@@ -1,1 +1,0 @@
-export { default as component } from "../../../../src/routes/of/learn-italian-like-you-are-there/+page.svelte";

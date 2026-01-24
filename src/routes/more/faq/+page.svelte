@@ -1,7 +1,8 @@
 <script>
     import {faqs} from '$lib/utils/stores.js';
     import Seohead from '$lib/SEO/seohead.svelte';
-    
+    import SchemaFAQ from '$lib/SEO/SchemaFAQ.svelte';
+
     let title = 'FAQ';
     let metadescription = 'frequently asked questions regarding language learning with Kleo';
 
@@ -14,6 +15,7 @@
 </script>
 
 <Seohead title={title} metadescription={metadescription} canon={'more/faq'} />
+<SchemaFAQ faqs={$faqs} />
 
 <section class="mt-6" id='pages'>
     <div class="bg-gray-50 rounded-xl mx-3">

@@ -62,8 +62,15 @@
         </svg>
       </a>
     </div>
-    <p class="mt-8 text-center text-base text-white">&copy; 2019 We Say Hi, Inc. All rights reserved. Contact us anytime at:
-      <a href="mailto:support@meetkleo.com" alt="email link" class="text-blue-100 text-lg">support@meetkleo.com</a></p>
+    <p class="mt-8 text-center text-base text-white">
+      &copy; 2019-2026 We Say Hi, Inc. All rights reserved.
+    </p>
+    <p class="mt-2 text-center text-base text-white">
+      Contact us anytime at: <a href="mailto:support@meetkleo.com" title="Email Kleo Support" class="text-blue-100 hover:text-white underline">support@meetkleo.com</a>
+    </p>
+    <p class="mt-2 text-center text-sm text-white/80">
+      <a href="/legal" class="hover:text-white underline">Privacy Policy</a> · <a href="/legal" class="hover:text-white underline">Terms of Service</a>
+    </p>
   </div>
 </footer>
 

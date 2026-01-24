@@ -1,1 +1,0 @@
-import{r as e}from"../chunks/index.c6708bed.js";function r(){throw e(307,"/learn")}const t=Object.freeze(Object.defineProperty({__proto__:null,load:r},Symbol.toStringTag,{value:"Module"}));export{t as universal};

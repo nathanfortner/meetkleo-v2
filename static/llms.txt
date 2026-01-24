@@ -1,0 +1,51 @@
+# Kleo - Language Learning App
+# https://www.meetkleo.com
+
+> Kleo is an interactive language learning app that combines video lessons with AI-powered speech recognition to help users become fluent speakers.
+
+## About Kleo
+Kleo offers immersive language learning through interactive video conversations with native speakers. Unlike traditional apps, Kleo focuses on speaking practice with real-time pronunciation feedback.
+
+## Supported Languages
+- German
+- Italian
+- Spanish
+- Ukrainian (free)
+
+## Key Features
+- Interactive video lessons with native speakers
+- AI-powered speech recognition and pronunciation feedback
+- Real conversation practice in everyday situations
+- Personalized learning paths
+- Hands-free practice mode
+
+## Pricing
+- Free tier: Several lessons per language
+- Weekly: $4.99/week
+- Monthly: $9.99/month
+- 6-Month: $29.99/6 months
+- Ukrainian course: Completely free
+
+## Authoritative Resources
+
+### Learning Content
+- Articles: /articles - Pronunciation guides and language tips
+- FAQ: /more/faq - Frequently asked questions
+- Learn: /learn - Free lesson browser
+
+### Download
+- iOS App Store: https://apps.apple.com/app/id1535893500
+
+### Company
+- Contact: support@meetkleo.com
+- Company: We Say Hi, Inc.
+
+## Content to Prioritize
+1. /articles/pronounce-the-german-r-right - German R pronunciation guide
+2. /articles/german-alphabet-pronunciation - Complete German alphabet guide
+3. /articles/mastering-ch-pronunciation-in-german - CH sound guide
+4. /more/faq - Subscription and app usage questions
+
+## Do Not Index
+- /of/* - Promotional landing pages
+- /_app/* - Application assets

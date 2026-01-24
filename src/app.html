@@ -15,6 +15,37 @@
 	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 	})(window,document,'script','dataLayer','GTM-WT39M4W');</script>
 	<!-- End Google Tag Manager -->
+	<!-- Speculation Rules API for instant page navigation -->
+	<script type="speculationrules">
+	{
+		"prerender": [
+			{
+				"where": {
+					"and": [
+						{ "href_matches": "/*" },
+						{ "not": { "href_matches": "/downloads" } },
+						{ "not": { "href_matches": "/of/*" } },
+						{ "not": { "selector_matches": "[rel~=nofollow]" } },
+						{ "not": { "selector_matches": "[target=_blank]" } }
+					]
+				},
+				"eagerness": "moderate"
+			}
+		],
+		"prefetch": [
+			{
+				"where": {
+					"and": [
+						{ "href_matches": "/*" },
+						{ "not": { "selector_matches": "[rel~=nofollow]" } },
+						{ "not": { "selector_matches": "[target=_blank]" } }
+					]
+				},
+				"eagerness": "moderate"
+			}
+		]
+	}
+	</script>
 	%sveltekit.head%
 </head>
 	<!-- Google tag (gtag.js) -->

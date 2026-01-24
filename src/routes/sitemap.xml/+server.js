@@ -1,158 +1,60 @@
+import { fetchMarkdownPosts } from '$lib/utils';
+
+export const prerender = true;
+
 export async function GET() {
-    return new Response(
-      `
-      <?xml version="1.0" encoding="UTF-8" ?>
-      <urlset
-        xmlns="https://www.sitemaps.org/schemas/sitemap/0.9"
+    const posts = await fetchMarkdownPosts();
+    const today = new Date().toISOString().split('T')[0];
+
+    // Static pages
+    const staticPages = [
+        { url: '', priority: '1.0', changefreq: 'weekly' },
+        { url: 'articles', priority: '0.9', changefreq: 'daily' },
+        { url: 'learn', priority: '0.8', changefreq: 'weekly' },
+        { url: 'downloads', priority: '0.7', changefreq: 'monthly' },
+        { url: 'more/faq', priority: '0.8', changefreq: 'monthly' },
+        { url: 'more/news', priority: '0.6', changefreq: 'weekly' },
+        { url: 'more', priority: '0.5', changefreq: 'monthly' },
+        { url: 'legal', priority: '0.3', changefreq: 'yearly' },
+    ];
+
+    // Generate article URLs from markdown posts
+    const articleUrls = posts.map(post => ({
+        url: `articles/${post.path}`,
+        priority: '0.8',
+        changefreq: 'monthly',
+        lastmod: post.meta.date ? convertDateFormat(post.meta.date) : today
+    }));
+
+    const allUrls = [...staticPages.map(p => ({ ...p, lastmod: today })), ...articleUrls];
+
+    const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:xhtml="https://www.w3.org/1999/xhtml"
-        xmlns:mobile="https://www.google.com/schemas/sitemap-mobile/1.0"
-        xmlns:news="https://www.google.com/schemas/sitemap-news/0.9"
-        xmlns:image="https://www.google.com/schemas/sitemap-image/1.1"
-        xmlns:video="https://www.google.com/schemas/sitemap-video/1.1"
-      >
-      <url>
-      <loc>https://www.meetkleo.com/</loc>
-      <lastmod>2022-11-08</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>1.0</priority>
-    </url>
-    <url>
-      <loc>https://www.meetkleo.com/articles</loc>
-      <lastmod>2022-11-08</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.9</priority>
-    </url>
-    <url>
-      <loc>https://www.meetkleo.com/more/faq</loc>
-      <lastmod>2022-11-08</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.9</priority>
-    </url>
-    <url>
-      <loc>https://www.meetkleo.com/more/news</loc>
-      <lastmod>2022-11-08</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.9</priority>
-    </url>
-    <url>
-      <loc>https://www.meetkleo.com/legal</loc>
-      <lastmod>2022-11-08</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.9</priority>
-    </url>
-    <url>
-      <loc>https://www.meetkleo.com/more</loc>
-      <lastmod>2022-11-08</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.9</priority>
-    </url>
-    <url>
-      <loc>https://www.meetkleo.com/downloads</loc>
-      <lastmod>2022-11-08</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.9</priority>
-    </url>
-    <url>
-      <loc>https://www.meetkleo.com/learn</loc>
-      <lastmod>2022-11-08</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.9</priority>
-    </url>
-    <url>
-      <loc>https://www.meetkleo.com/articles/a-pronunciation-tips</loc>
-      <lastmod>2022-11-08</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.8</priority>
-    </url>
-    <url>
-      <loc>https://www.meetkleo.com/articles/how-to-pronounce-ig-in-german</loc>
-      <lastmod>2022-11-08</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.8</priority>
-    </url>
-    <url>
-      <loc>https://www.meetkleo.com/articles/me-in-german</loc>
-      <lastmod>2022-11-08</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.8</priority>
-    </url>
-    <url>
-      <loc>https://www.meetkleo.com/articles/pronounce-the-german-r-right</loc>
-      <lastmod>2022-11-08</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.8</priority>
-    </url>
-    <url>
-      <loc>https://www.meetkleo.com/articles/o-umlaut-made-easy</loc>
-      <lastmod>2022-11-08</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.8</priority>
-    </url>
-    <url>
-      <loc>https://www.meetkleo.com/articles/how-to-use-danke-and-variations-to-say-thank-you-in-german</loc>
-      <lastmod>2022-11-08</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.8</priority>
-    </url>
-    <url>
-      <loc>https://www.meetkleo.com/articles/i-am-in-german</loc>
-      <lastmod>2022-11-08</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.8</priority>
-    </url>
-    <url>
-      <loc>https://www.meetkleo.com/articles/german-alphabet-pronunciation</loc>
-      <lastmod>2022-11-08</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.8</priority>
-    </url>
-    <url>
-      <loc>https://www.meetkleo.com/articles/ei-and-ie-pronunciation-in-german</loc>
-      <lastmod>2022-11-08</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.8</priority>
-    </url>
-    <url>
-      <loc>https://www.meetkleo.com/articles/mastering-ch-pronunciation-in-german</loc>
-      <lastmod>2022-11-08</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.8</priority>
-    </url>
-    <url>
-      <loc>https://www.meetkleo.com/articles/how-to-pronounce-ich-in-german</loc>
-      <lastmod>2022-11-08</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.8</priority>
-    </url>
-    <url>
-      <loc>https://www.meetkleo.com/articles/how-to-use-and-pronounce-ich-liebe-dich-to-share-your-love</loc>
-      <lastmod>2022-11-08</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.8</priority>
-    </url>
-    <url>
-      <loc>https://www.meetkleo.com/articles/how-to-pronounce-the-german-z</loc>
-      <lastmod>2022-11-08</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.8</priority>
-    </url>
-    <url>
-      <loc>https://www.meetkleo.com/articles/u-umlaut-simplified-like-never-before</loc>
-      <lastmod>2022-11-08</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.8</priority>
-    </url>
-    <url>
-      <loc>https://www.meetkleo.com/articles/ess-tset-pronunciation-and-meaning</loc>
-      <lastmod>2022-11-08</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.8</priority>
-    </url>
-      </urlset>`.trim(),
-      {
+        xmlns:image="https://www.google.com/schemas/sitemap-image/1.1">
+${allUrls.map(page => `  <url>
+    <loc>https://www.meetkleo.com/${page.url}</loc>
+    <lastmod>${page.lastmod}</lastmod>
+    <changefreq>${page.changefreq}</changefreq>
+    <priority>${page.priority}</priority>
+  </url>`).join('\n')}
+</urlset>`;
+
+    return new Response(sitemap.trim(), {
         headers: {
-          'Content-Type': 'application/xml'
+            'Content-Type': 'application/xml',
+            'Cache-Control': 'max-age=3600'
         }
-      }
-    );
-  }
+    });
+}
+
+// Convert MM/DD/YYYY to YYYY-MM-DD
+function convertDateFormat(dateStr) {
+    if (!dateStr) return new Date().toISOString().split('T')[0];
+    const parts = dateStr.split('/');
+    if (parts.length === 3) {
+        const [month, day, year] = parts;
+        return `${year}-${month.padStart(2, '0')}-${day.padStart(2, '0')}`;
+    }
+    return dateStr;
+}

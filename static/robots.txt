@@ -1,0 +1,62 @@
+# Robots.txt for meetkleo.com
+# Updated for 2026 SEO and AI crawler management
+
+# Default rules for all crawlers
+User-agent: *
+Allow: /
+Disallow: /_app/
+Disallow: /api/
+
+# Search engine crawlers - full access
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+# AI Search/Retrieval Bots - Allow live retrieval for citations
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: YouBot
+Allow: /
+
+# AI Training Bots - Block training on content, allow retrieval
+User-agent: GPTBot
+Allow: /articles/
+Allow: /more/faq
+Disallow: /
+
+User-agent: ClaudeBot
+Allow: /articles/
+Allow: /more/faq
+Disallow: /
+
+User-agent: Claude-Web
+Allow: /articles/
+Allow: /more/faq
+Disallow: /
+
+User-agent: anthropic-ai
+Allow: /articles/
+Allow: /more/faq
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+# Promotional pages - block from all
+User-agent: *
+Disallow: /of/
+
+# Sitemap location
+Sitemap: https://www.meetkleo.com/sitemap.xml
