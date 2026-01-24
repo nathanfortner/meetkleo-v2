@@ -48,7 +48,7 @@ tldr: "The Italian R is a tongue-tip trill made at the front of the mouth - neve
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_roma'} displayname={'Roma'} />
+					<Kaudio lang={'it'} pid={'893270f0-d6ea-4dc5-af48-b7ad05ae355e_0.mp3'} displayname={'Roma'} />
 				</td>
 				<td>Rome</td>
 				<td>Initial R</td>
@@ -85,21 +85,21 @@ tldr: "The Italian R is a tongue-tip trill made at the front of the mouth - neve
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_caro'} displayname={'caro'} />
+					<Kaudio lang={'it'} pid={'bdd47129-d5f4-4653-ade8-f62386be2f31_0.mp3'} displayname={'caro'} />
 				</td>
 				<td>dear/expensive</td>
 				<td>
-					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_carro'} displayname={'carro'} />
+					<Kaudio lang={'it'} pid={'08bc8a4d-7762-4abe-9daf-adaf75110107_0.mp3'} displayname={'carro'} />
 				</td>
 				<td>cart</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_sera'} displayname={'sera'} />
+					<Kaudio lang={'it'} pid={'ce232f8d-564a-488a-bca8-00fd95a1904e_0.mp3'} displayname={'sera'} />
 				</td>
 				<td>evening</td>
 				<td>
-					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_terra'} displayname={'terra'} />
+					<Kaudio lang={'it'} pid={'e7ac2ab3-3c0a-40ce-ac1f-e60fd0978d6f_0.mp3'} displayname={'terra'} />
 				</td>
 				<td>earth</td>
 			</tr>
@@ -124,7 +124,7 @@ tldr: "The Italian R is a tongue-tip trill made at the front of the mouth - neve
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_roma'} displayname={'Roma'} />
+					<Kaudio lang={'it'} pid={'893270f0-d6ea-4dc5-af48-b7ad05ae355e_0.mp3'} displayname={'Roma'} />
 				</td>
 				<td>Rome</td>
 			</tr>
@@ -152,13 +152,13 @@ tldr: "The Italian R is a tongue-tip trill made at the front of the mouth - neve
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_caro'} displayname={'caro'} />
+					<Kaudio lang={'it'} pid={'bdd47129-d5f4-4653-ade8-f62386be2f31_0.mp3'} displayname={'caro'} />
 				</td>
 				<td>dear</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_sera'} displayname={'sera'} />
+					<Kaudio lang={'it'} pid={'ce232f8d-564a-488a-bca8-00fd95a1904e_0.mp3'} displayname={'sera'} />
 				</td>
 				<td>evening</td>
 			</tr>
@@ -211,13 +211,13 @@ tldr: "The Italian R is a tongue-tip trill made at the front of the mouth - neve
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_carro'} displayname={'carro'} />
+					<Kaudio lang={'it'} pid={'08bc8a4d-7762-4abe-9daf-adaf75110107_0.mp3'} displayname={'carro'} />
 				</td>
 				<td>cart</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_terra'} displayname={'terra'} />
+					<Kaudio lang={'it'} pid={'e7ac2ab3-3c0a-40ce-ac1f-e60fd0978d6f_0.mp3'} displayname={'terra'} />
 				</td>
 				<td>earth</td>
 			</tr>

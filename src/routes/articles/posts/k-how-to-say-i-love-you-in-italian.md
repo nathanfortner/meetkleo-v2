@@ -77,28 +77,28 @@ tldr: "Italian distinguishes between romantic love and affectionate love: 'ti am
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_amore_mio'} displayname={'amore mio'} />
+					<Kaudio lang={'it'} pid={'dc6179b8-d671-4f98-b1e9-4e23f347e951_0.mp3'} displayname={'amore mio'} />
 				</td>
 				<td>my love</td>
 				<td>Very common for partners</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_tesoro'} displayname={'tesoro'} />
+					<Kaudio lang={'it'} pid={'65379bb9-ee55-4b9f-be1b-f4f8712654ca_0.mp3'} displayname={'tesoro'} />
 				</td>
 				<td>treasure / darling</td>
 				<td>Sweet and affectionate</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_cara'} displayname={'cara'} />
+					<Kaudio lang={'it'} pid={'5c9addea-a9fd-48fb-ad3d-311714954b32_0.mp3'} displayname={'cara'} />
 				</td>
 				<td>dear (to a woman)</td>
 				<td>Warm, affectionate</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_caro'} displayname={'caro'} />
+					<Kaudio lang={'it'} pid={'bdd47129-d5f4-4653-ade8-f62386be2f31_0.mp3'} displayname={'caro'} />
 				</td>
 				<td>dear (to a man)</td>
 				<td>Warm, affectionate</td>

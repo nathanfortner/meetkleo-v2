@@ -49,21 +49,21 @@ tldr: "The Spanish Ñ sounds like 'NY' in 'canyon' or 'onion'. It's a single sou
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_nino'} displayname={'niño'} />
+					<Kaudio lang={'es'} pid={'82e80510-aff3-41b8-82bb-986b0662e73d_0.mp3'} displayname={'niño'} />
 				</td>
 				<td>boy</td>
 				<td>"NEEN-yo"</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_nina'} displayname={'niña'} />
+					<Kaudio lang={'es'} pid={'07da76a0-b8bf-41cb-be50-fda9bdf9c897_0.mp3'} displayname={'niña'} />
 				</td>
 				<td>girl</td>
 				<td>"NEEN-ya"</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_espana'} displayname={'España'} />
+					<Kaudio lang={'es'} pid={'0cb84b69-1b1d-4193-8c0b-4cca18a33dbf_0.mp3'} displayname={'España'} />
 				</td>
 				<td>Spain</td>
 				<td>"es-PAN-ya"</td>
@@ -132,7 +132,7 @@ tldr: "The Spanish Ñ sounds like 'NY' in 'canyon' or 'onion'. It's a single sou
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_cumpleanos'} displayname={'cumpleaños'} />
+					<Kaudio lang={'es'} pid={'a4c8012b-91ac-4333-ad45-a9632438c11c_0.mp3'} displayname={'cumpleaños'} />
 				</td>
 				<td>birthday</td>
 			</tr>
@@ -153,25 +153,25 @@ tldr: "The Spanish Ñ sounds like 'NY' in 'canyon' or 'onion'. It's a single sou
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_nino'} displayname={'niño'} />
+					<Kaudio lang={'es'} pid={'82e80510-aff3-41b8-82bb-986b0662e73d_0.mp3'} displayname={'niño'} />
 				</td>
 				<td>boy / child</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_nina'} displayname={'niña'} />
+					<Kaudio lang={'es'} pid={'07da76a0-b8bf-41cb-be50-fda9bdf9c897_0.mp3'} displayname={'niña'} />
 				</td>
 				<td>girl</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_senor'} displayname={'señor'} />
+					<Kaudio lang={'es'} pid={'d254b51f-ec45-4e97-b1cf-09ce5bf19777_0.mp3'} displayname={'señor'} />
 				</td>
 				<td>mister / sir</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_senora'} displayname={'señora'} />
+					<Kaudio lang={'es'} pid={'d254b51f-ec45-4e97-b1cf-09ce5bf19777_0.mp3a'} displayname={'señora'} />
 				</td>
 				<td>mrs / madam</td>
 			</tr>
@@ -192,7 +192,7 @@ tldr: "The Spanish Ñ sounds like 'NY' in 'canyon' or 'onion'. It's a single sou
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_pequeno'} displayname={'pequeño'} />
+					<Kaudio lang={'es'} pid={'504fc627-53c8-4cce-90db-d195f8856032_0.mp3'} displayname={'pequeño'} />
 				</td>
 				<td>small</td>
 			</tr>

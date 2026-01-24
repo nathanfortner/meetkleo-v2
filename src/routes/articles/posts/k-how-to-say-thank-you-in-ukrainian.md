@@ -54,14 +54,14 @@ tldr: "Basic: 'дякую' (DYAH-koo-yoo) = thank you. Emphatic: 'дуже дя�
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'uk'} pid={'AUDIO_NEEDED_uk_duzhe_dyakuyu'} displayname={'дуже дякую'} />
+					<Kaudio lang={'uk'} pid={'dddfdf78-b696-468f-9af9-d0d544c9b329_0.mp3'} displayname={'дуже дякую'} />
 				</td>
 				<td>DOO-zheh DYAH-koo-yoo</td>
 				<td>thank you very much</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'uk'} pid={'AUDIO_NEEDED_uk_shchyro_dyakuyu'} displayname={'щиро дякую'} />
+					<Kaudio lang={'uk'} pid={'55e3fa9f-c9a4-4b42-bb76-4d208b0204fc_0.mp3'} displayname={'щиро дякую'} />
 				</td>
 				<td>SHCHY-roh DYAH-koo-yoo</td>
 				<td>I sincerely thank you</td>
@@ -91,14 +91,14 @@ tldr: "Basic: 'дякую' (DYAH-koo-yoo) = thank you. Emphatic: 'дуже дя�
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'uk'} pid={'AUDIO_NEEDED_uk_nema_za_shcho'} displayname={'нема за що'} />
+					<Kaudio lang={'uk'} pid={'a883e895-40e2-4839-87f4-0774ca636a8c_0.mp3'} displayname={'нема за що'} />
 				</td>
 				<td>neh-MAH zah SHCHO</td>
 				<td>it's nothing / don't mention it</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'uk'} pid={'AUDIO_NEEDED_uk_proshu'} displayname={'прошу'} />
+					<Kaudio lang={'uk'} pid={'450f1930-b48a-40f9-ace9-6b9e89357a60_0.mp3'} displayname={'прошу'} />
 				</td>
 				<td>PROH-shoo</td>
 				<td>you're welcome</td>

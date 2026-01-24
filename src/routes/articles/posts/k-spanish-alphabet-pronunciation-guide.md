@@ -75,7 +75,7 @@ tldr: "The Spanish alphabet has 27 letters - the 26 English letters plus Ñ. Key
 				<td>Ñ</td>
 				<td>Like "NY" in canyon</td>
 				<td>
-					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_nino'} displayname={'niño'} />
+					<Kaudio lang={'es'} pid={'82e80510-aff3-41b8-82bb-986b0662e73d_0.mp3'} displayname={'niño'} />
 				</td>
 				<td>boy</td>
 			</tr>
@@ -128,7 +128,7 @@ tldr: "The Spanish alphabet has 27 letters - the 26 English letters plus Ñ. Key
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_cerveza'} displayname={'cerveza'} />
+					<Kaudio lang={'es'} pid={'6fef27c6-5ad6-4016-932e-54562f8e6266_0.mp3'} displayname={'cerveza'} />
 				</td>
 				<td>beer</td>
 			</tr>
@@ -193,7 +193,7 @@ tldr: "The Spanish alphabet has 27 letters - the 26 English letters plus Ñ. Key
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_zapato'} displayname={'zapato'} />
+					<Kaudio lang={'es'} pid={'6cc68efe-5005-4af9-919d-f39f899bc597_0.mp3'} displayname={'zapato'} />
 				</td>
 				<td>shoe</td>
 			</tr>
@@ -253,7 +253,7 @@ tldr: "The Spanish alphabet has 27 letters - the 26 English letters plus Ñ. Key
 				<td>I</td>
 				<td>"ee" as in "see"</td>
 				<td>
-					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_nino'} displayname={'niño'} />
+					<Kaudio lang={'es'} pid={'82e80510-aff3-41b8-82bb-986b0662e73d_0.mp3'} displayname={'niño'} />
 				</td>
 				<td>boy</td>
 			</tr>

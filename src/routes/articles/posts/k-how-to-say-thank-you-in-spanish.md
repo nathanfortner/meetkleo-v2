@@ -54,21 +54,21 @@ tldr: "Basic: 'gracias' (thank you). Emphatic: 'muchas gracias' (thank you very 
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_muchas_gracias'} displayname={'muchas gracias'} />
+					<Kaudio lang={'es'} pid={'5a20f48a-a841-406f-9ef3-4b466f1ebef4_0.mp3'} displayname={'muchas gracias'} />
 				</td>
 				<td>thank you very much</td>
 				<td>More emphatic thanks</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_muchisimas_gracias'} displayname={'muchísimas gracias'} />
+					<Kaudio lang={'es'} pid={'c338bf22-e303-4a7a-82ab-6625e40a6851_0.mp3'} displayname={'muchísimas gracias'} />
 				</td>
 				<td>thank you so much</td>
 				<td>Very emphatic</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_mil_gracias'} displayname={'mil gracias'} />
+					<Kaudio lang={'es'} pid={'2bf4a9bb-cb7a-4628-bec4-6cd17bccad84_0.mp3'} displayname={'mil gracias'} />
 				</td>
 				<td>a thousand thanks</td>
 				<td>Heartfelt gratitude</td>
@@ -98,14 +98,14 @@ tldr: "Basic: 'gracias' (thank you). Emphatic: 'muchas gracias' (thank you very 
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_no_hay_de_que'} displayname={'no hay de qué'} />
+					<Kaudio lang={'es'} pid={'004b6a16-63e5-4d5a-b14d-9c5de53e09c6_0.mp3'} displayname={'no hay de qué'} />
 				</td>
 				<td>don't mention it</td>
 				<td>Slightly formal</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_gracias_a_ti'} displayname={'gracias a ti'} />
+					<Kaudio lang={'es'} pid={'2ced5ef1-5cad-4387-8946-672fbc347c01_0.mp3'} displayname={'gracias a ti'} />
 				</td>
 				<td>thank YOU</td>
 				<td>Returning thanks</td>
@@ -127,7 +127,7 @@ tldr: "Basic: 'gracias' (thank you). Emphatic: 'muchas gracias' (thank you very 
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_te_lo_agradezco'} displayname={'te lo agradezco'} />
+					<Kaudio lang={'es'} pid={'cedadad0-7edc-40f2-909e-54bf68f3adc3_0.mp3'} displayname={'te lo agradezco'} />
 				</td>
 				<td>I appreciate it (informal)</td>
 			</tr>

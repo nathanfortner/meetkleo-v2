@@ -68,7 +68,7 @@ tldr: "Ukrainian uses the Cyrillic alphabet with 33 letters. Many look familiar 
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'uk'} pid={'AUDIO_NEEDED_uk_dobre'} displayname={'добре'} />
+					<Kaudio lang={'uk'} pid={'9d5178ad-d247-4a40-b53b-d9be85ae8c8b_0.mp3'} displayname={'добре'} />
 				</td>
 				<td>DOH-breh</td>
 				<td>good / okay</td>
@@ -141,7 +141,7 @@ tldr: "Ukrainian uses the Cyrillic alphabet with 33 letters. Many look familiar 
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'uk'} pid={'AUDIO_NEEDED_uk_khlib'} displayname={'хліб'} />
+					<Kaudio lang={'uk'} pid={'f30a0736-33d3-406d-8411-f6868268532e_0.mp3'} displayname={'хліб'} />
 				</td>
 				<td>bread</td>
 			</tr>
@@ -153,7 +153,7 @@ tldr: "Ukrainian uses the Cyrillic alphabet with 33 letters. Many look familiar 
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'uk'} pid={'AUDIO_NEEDED_uk_ukrayina'} displayname={'Україна'} />
+					<Kaudio lang={'uk'} pid={'bdd7920a-90b5-41d1-94d7-4189ab998e59_0.mp3'} displayname={'Україна'} />
 				</td>
 				<td>Ukraine</td>
 			</tr>
@@ -173,7 +173,7 @@ tldr: "Ukrainian uses the Cyrillic alphabet with 33 letters. Many look familiar 
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio lang={'uk'} pid={'AUDIO_NEEDED_uk_khlib'} displayname={'хліб'} />
+					<Kaudio lang={'uk'} pid={'f30a0736-33d3-406d-8411-f6868268532e_0.mp3'} displayname={'хліб'} />
 				</td>
 				<td>bread</td>
 			</tr>

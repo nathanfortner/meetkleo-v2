@@ -76,7 +76,7 @@ tldr: "GLI sounds like 'LLI' in 'million' or 'brilliant' - your tongue presses f
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_aglio'} displayname={'aglio'} />
+					<Kaudio lang={'it'} pid={'cc57f01e-2a6e-4305-b046-07663a95fbdd_0.mp3'} displayname={'aglio'} />
 				</td>
 				<td>garlic</td>
 				<td>AH-lyoh</td>
@@ -99,14 +99,14 @@ tldr: "GLI sounds like 'LLI' in 'million' or 'brilliant' - your tongue presses f
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_gnocchi'} displayname={'gnocchi'} />
+					<Kaudio lang={'it'} pid={'0e614806-992a-4af2-bab7-5ca11a8a12b4_0.mp3'} displayname={'gnocchi'} />
 				</td>
 				<td>gnocchi</td>
 				<td>NYOH-kee</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_lasagna'} displayname={'lasagna'} />
+					<Kaudio lang={'it'} pid={'65f04070-f3e9-481c-902e-e2eaadb123c6_0.mp3'} displayname={'lasagna'} />
 				</td>
 				<td>lasagna</td>
 				<td>lah-ZAH-nyah</td>
@@ -141,19 +141,19 @@ tldr: "GLI sounds like 'LLI' in 'million' or 'brilliant' - your tongue presses f
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_signore'} displayname={'signore'} />
+					<Kaudio lang={'it'} pid={'7f2ccc5e-aff6-492f-977f-dbc9b8085b9f_0.mp3'} displayname={'signore'} />
 				</td>
 				<td>mister / sir</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_signora'} displayname={'signora'} />
+					<Kaudio lang={'it'} pid={'5c37a99a-f3b9-405f-82cb-ca5c27db55af_0.mp3'} displayname={'signora'} />
 				</td>
 				<td>mrs / madam</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_bologna'} displayname={'Bologna'} />
+					<Kaudio lang={'it'} pid={'b2b91cf4-3655-4681-bf4b-b27864b7d355_0.mp3'} displayname={'Bologna'} />
 				</td>
 				<td>Bologna (city)</td>
 			</tr>

@@ -47,14 +47,14 @@ tldr: "Spanish has two main ways to say 'I love you': 'te quiero' (casual, for f
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_te_quiero'} displayname={'te quiero'} />
+					<Kaudio lang={'es'} pid={'95b35fd2-949a-4278-a7f8-5836ae5e0e28_0.mp3'} displayname={'te quiero'} />
 				</td>
 				<td>I love you</td>
 				<td>Family, friends, new relationships</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_te_amo'} displayname={'te amo'} />
+					<Kaudio lang={'es'} pid={'119044fb-a956-4e52-a4ae-6a3ee5af276c_0.mp3'} displayname={'te amo'} />
 				</td>
 				<td>I love you (deeply)</td>
 				<td>Deep romantic love</td>
@@ -77,14 +77,14 @@ tldr: "Spanish has two main ways to say 'I love you': 'te quiero' (casual, for f
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_te_adoro'} displayname={'te adoro'} />
+					<Kaudio lang={'es'} pid={'52d3a1ab-feed-4623-baa7-e1991cd0c502_0.mp3'} displayname={'te adoro'} />
 				</td>
 				<td>I adore you</td>
 				<td>Very emphatic, romantic</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_te_quiero_mucho'} displayname={'te quiero mucho'} />
+					<Kaudio lang={'es'} pid={'17e52c67-35fc-4ed1-8004-5faf2b1ddbcb_0.mp3'} displayname={'te quiero mucho'} />
 				</td>
 				<td>I love you a lot</td>
 				<td>Emphatic "te quiero"</td>
@@ -106,14 +106,14 @@ tldr: "Spanish has two main ways to say 'I love you': 'te quiero' (casual, for f
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_mi_amor'} displayname={'mi amor'} />
+					<Kaudio lang={'es'} pid={'0f1a8e06-77a4-4117-8d26-5c22ce86ce67_0.mp3'} displayname={'mi amor'} />
 				</td>
 				<td>my love</td>
 				<td>Very common, for partners</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_carino'} displayname={'cariño'} />
+					<Kaudio lang={'es'} pid={'e6c4ffe2-6e1c-4a01-9971-6738696cefb6_0.mp3'} displayname={'cariño'} />
 				</td>
 				<td>darling / sweetie</td>
 				<td>Warm, affectionate</td>

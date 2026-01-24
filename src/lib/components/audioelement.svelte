@@ -4,9 +4,6 @@
     export let pid;
     export let lang = 'de'; // default to German for backwards compatibility
 
-    displayname;
-    pid;
-
     // Language code mapping for audio paths
     const langCodes = {
         'de': 'en_nt_de',
@@ -17,21 +14,30 @@
 
     //audio url parts
     let kAudio;
-    let kAudioBaseUrl = 'https://ddseu0ssi.mo.cloudinary.net/audio/';
-    let langPath = langCodes[lang] || 'en_nt_de';
-    let kAudioFullUrl = `${kAudioBaseUrl}${langPath}/phrase/${pid}`;
+    const kAudioBaseUrl = 'https://ddseu0ssi.mo.cloudinary.net/audio/';
+    $: langPath = langCodes[lang] || 'en_nt_de';
+    $: kAudioFullUrl = `${kAudioBaseUrl}${langPath}/phrase/${pid}`;
 
     function playAudio() {
-        kAudio.play();
+        if (!kAudio) {
+            return;
+        }
+
+        if (kAudio.readyState === 0) {
+            kAudio.load();
+        }
+
+        kAudio.play().catch(err => {
+            console.error('Audio playback failed:', err);
+        });
     }
 </script>
     <!-- svelte-ignore a11y-media-has-caption -->
-    <!-- svelte-ignore a11y-click-events-have-key-events -->
-    <div class="kaudio" on:click={playAudio}>
+    <div class="kaudio" on:click={playAudio} on:keydown={(e) => e.key === 'Enter' && playAudio()} role="button" tabindex="0">
         <p class="kaudiotext">{displayname}</p>
-        <audio bind:this={kAudio} type="audio/mpeg">
+        <audio bind:this={kAudio} preload="auto">
             <track kind="captions">
-            <source src={kAudioFullUrl}>
+            <source src={kAudioFullUrl} type="audio/mpeg">
             <p>
                     Download <a href={`${kAudioFullUrl}`}>MP3</a>
             </p>

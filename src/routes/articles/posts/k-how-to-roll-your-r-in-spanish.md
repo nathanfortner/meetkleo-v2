@@ -96,7 +96,7 @@ tldr: "Spanish has two R sounds: the single R (a quick tongue tap) and the rolle
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_arroz'} displayname={'arroz'} />
+					<Kaudio lang={'es'} pid={'36b390da-4b27-4343-b834-21186aa1999b_0.mp3'} displayname={'arroz'} />
 				</td>
 				<td>rice</td>
 			</tr>
@@ -117,19 +117,19 @@ tldr: "Spanish has two R sounds: the single R (a quick tongue tap) and the rolle
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_rosa'} displayname={'rosa'} />
+					<Kaudio lang={'es'} pid={'541768c0-cce2-41d7-b8ac-8a8dfcee3417_0.mp3'} displayname={'rosa'} />
 				</td>
 				<td>rose</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_rico'} displayname={'rico'} />
+					<Kaudio lang={'es'} pid={'c0779cef-35f7-4e9d-9676-88aa9abf3f89_0.mp3'} displayname={'rico'} />
 				</td>
 				<td>rich/delicious</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_raton'} displayname={'ratón'} />
+					<Kaudio lang={'es'} pid={'110e1626-6634-4c5f-98d1-069684a58c29_0.mp3'} displayname={'ratón'} />
 				</td>
 				<td>mouse</td>
 			</tr>
@@ -150,13 +150,13 @@ tldr: "Spanish has two R sounds: the single R (a quick tongue tap) and the rolle
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_alrededor'} displayname={'alrededor'} />
+					<Kaudio lang={'es'} pid={'49e27515-31f7-440a-9de5-d0421c699242_0.mp3'} displayname={'alrededor'} />
 				</td>
 				<td>around</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_enrique'} displayname={'Enrique'} />
+					<Kaudio lang={'es'} pid={'9d0b1451-350e-4f6d-8d1a-85842d7d5134_0.mp3'} displayname={'Enrique'} />
 				</td>
 				<td>Henry (name)</td>
 			</tr>
@@ -182,7 +182,7 @@ tldr: "Spanish has two R sounds: the single R (a quick tongue tap) and the rolle
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_caro'} displayname={'caro'} />
+					<Kaudio lang={'es'} pid={'ed80e428-8d1a-43e8-b1b9-d9477c8780f8_0.mp3'} displayname={'caro'} />
 				</td>
 				<td>expensive</td>
 			</tr>

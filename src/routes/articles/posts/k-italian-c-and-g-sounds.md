@@ -111,7 +111,7 @@ tldr: "Italian C before E/I = 'CH' sound (cena, ciao). C before A/O/U = 'K' soun
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_che'} displayname={'che'} />
+					<Kaudio lang={'it'} pid={'a3d807cc-dce4-47b6-b50d-d49ba984e64c_0.mp3'} displayname={'che'} />
 				</td>
 				<td>what/that</td>
 				<td>KEH</td>
@@ -151,7 +151,7 @@ tldr: "Italian C before E/I = 'CH' sound (cena, ciao). C before A/O/U = 'K' soun
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_gente'} displayname={'gente'} />
+					<Kaudio lang={'it'} pid={'f4a500fc-4397-4252-9522-83faa83b2770_0.mp3'} displayname={'gente'} />
 				</td>
 				<td>people</td>
 				<td>JEN-teh</td>
@@ -204,14 +204,14 @@ tldr: "Italian C before E/I = 'CH' sound (cena, ciao). C before A/O/U = 'K' soun
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_spaghetti'} displayname={'spaghetti'} />
+					<Kaudio lang={'it'} pid={'c177a6c0-3031-411c-9555-1e8068514980_0.mp3'} displayname={'spaghetti'} />
 				</td>
 				<td>spaghetti</td>
 				<td>spah-GET-tee</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_funghi'} displayname={'funghi'} />
+					<Kaudio lang={'it'} pid={'67c8108b-bf4f-48b8-a0c2-747a6d82dda4_0.mp3'} displayname={'funghi'} />
 				</td>
 				<td>mushrooms</td>
 				<td>FOON-gee</td>
@@ -268,7 +268,7 @@ tldr: "Italian C before E/I = 'CH' sound (cena, ciao). C before A/O/U = 'K' soun
 				</td>
 				<td>hello</td>
 				<td>
-					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_che'} displayname={'che'} />
+					<Kaudio lang={'it'} pid={'a3d807cc-dce4-47b6-b50d-d49ba984e64c_0.mp3'} displayname={'che'} />
 				</td>
 				<td>what</td>
 			</tr>
@@ -288,7 +288,7 @@ tldr: "Italian C before E/I = 'CH' sound (cena, ciao). C before A/O/U = 'K' soun
 				</td>
 				<td>ice cream</td>
 				<td>
-					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_spaghetti'} displayname={'spaghetti'} />
+					<Kaudio lang={'it'} pid={'c177a6c0-3031-411c-9555-1e8068514980_0.mp3'} displayname={'spaghetti'} />
 				</td>
 				<td>spaghetti</td>
 			</tr>

@@ -54,14 +54,14 @@ tldr: "Basic: 'grazie' (GRAHT-see-eh). Emphatic: 'grazie mille' (thanks a lot), 
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_grazie_mille'} displayname={'grazie mille'} />
+					<Kaudio lang={'it'} pid={'0e5b16b6-9861-49cf-9d4d-b4f92b866727_0.mp3'} displayname={'grazie mille'} />
 				</td>
 				<td>thanks a lot (lit: a thousand thanks)</td>
 				<td>More emphatic</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_grazie_tante'} displayname={'grazie tante'} />
+					<Kaudio lang={'it'} pid={'e840052c-8fd3-4d11-b57d-afb147e87a66_0.mp3'} displayname={'grazie tante'} />
 				</td>
 				<td>many thanks</td>
 				<td>Emphatic</td>
@@ -91,14 +91,14 @@ tldr: "Basic: 'grazie' (GRAHT-see-eh). Emphatic: 'grazie mille' (thanks a lot), 
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_di_niente'} displayname={'di niente'} />
+					<Kaudio lang={'it'} pid={'866d1029-6199-40de-a973-e4d2b9cf14e7_0.mp3'} displayname={'di niente'} />
 				</td>
 				<td>it's nothing</td>
 				<td>Casual, friendly</td>
 			</tr>
 			<tr>
 				<td>
-					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_figurati'} displayname={'figurati'} />
+					<Kaudio lang={'it'} pid={'29e7bba7-ed34-48a9-970c-e912a9f4e140_0.mp3'} displayname={'figurati'} />
 				</td>
 				<td>don't mention it</td>
 				<td>Informal (to friends)</td>
@@ -120,7 +120,7 @@ tldr: "Basic: 'grazie' (GRAHT-see-eh). Emphatic: 'grazie mille' (thanks a lot), 
 		<tbody>
 			<tr>
 				<td>
-					<Kaudio lang={'it'} pid={'AUDIO_NEEDED_it_ti_ringrazio'} displayname={'ti ringrazio'} />
+					<Kaudio lang={'it'} pid={'739aa99c-4918-4ef7-9aea-6b1ebb5bf8d4_0.mp3'} displayname={'ti ringrazio'} />
 				</td>
 				<td>I thank you (informal)</td>
 			</tr>
