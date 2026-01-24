@@ -10,8 +10,8 @@ longdate: January 24, 2026
 author: Kleo Team
 categories: phrases, training, speaking
 k_language: ukrainian
-coverimage: Articles/ukrainian_dyakuyu_cover1.png
-articleimage: Articles/ukrainian_dyakuyu_cover2.png
+coverimage: Articles/ukrainian_dyakuyu_cover1.jpg
+articleimage: Articles/ukrainian_dyakuyu_cover2.jpg
 tldr: "Basic: 'дякую' (DYAH-koo-yoo) = thank you. Emphatic: 'дуже дякую' (very much), 'щиро дякую' (sincerely). Responses: 'будь ласка' (you're welcome/please), 'нема за що' (it's nothing), 'прошу' (you're welcome). Дякую comes from an ancient word meaning 'to give thanks.'"
 ---
 <script>
