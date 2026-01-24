@@ -59,7 +59,7 @@ tldr: "The Spanish alphabet has 27 letters - the 26 English letters plus Ñ. Key
 				<td>J</td>
 				<td>Like English "H"</td>
 				<td>
-					<Kaudio lang={'es'} pid={'AUDIO_NEEDED_es_jalapeno'} displayname={'jalapeño'} />
+					<Kaudio lang={'es'} pid={'8eacc7f0-e60f-4022-b5ff-8d01abbb16aa_0.mp3'} displayname={'jalapeño'} />
 				</td>
 				<td>jalapeño</td>
 			</tr>

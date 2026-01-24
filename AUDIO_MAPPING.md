@@ -39,7 +39,7 @@ Run find-and-replace in your editor to replace placeholders with actual UUIDs.
 
 | Word/Phrase | Placeholder |
 |-------------|-------------|
-| jalapeño | `AUDIO_NEEDED_es_jalapeno` |
+| ~~jalapeño~~ | `8eacc7f0-e60f-4022-b5ff-8d01abbb16aa_0.mp3` (TTS generated) |
 | niño | `AUDIO_NEEDED_es_nino` |
 | zapato | `AUDIO_NEEDED_es_zapato` |
 | cerveza | `AUDIO_NEEDED_es_cerveza` |
