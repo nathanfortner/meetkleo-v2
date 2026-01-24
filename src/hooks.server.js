@@ -23,11 +23,12 @@ export async function handle({ event, resolve }) {
         'Content-Security-Policy',
         [
             "default-src 'self'",
-            "script-src 'self' 'unsafe-inline' 'unsafe-eval' https://www.googletagmanager.com https://cdn.usefathom.com https://connect.facebook.net",
+            "script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.googletagmanager.com https://*.google-analytics.com https://www.google.com https://cdn.usefathom.com https://connect.facebook.net https://www.facebook.com",
             "style-src 'self' 'unsafe-inline'",
             "img-src 'self' data: https: blob:",
             "font-src 'self' data:",
-            "connect-src 'self' https://www.google-analytics.com https://cdn.usefathom.com",
+            "connect-src 'self' https://*.google-analytics.com https://*.analytics.google.com https://*.googletagmanager.com https://*.doubleclick.net https://cdn.usefathom.com https://www.facebook.com",
+            "frame-src https://www.googletagmanager.com https://www.facebook.com",
             "frame-ancestors 'none'",
             "base-uri 'self'",
             "form-action 'self'"
