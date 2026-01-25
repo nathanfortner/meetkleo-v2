@@ -264,3 +264,181 @@ Always ask:
 2. Does this change the H1 or main content? → **Check if page ranks well first**
 3. Is this a design/style change only? → **Usually safe**
 4. Am I adding content (not removing)? → **Usually safe**
+
+---
+
+## Content Creation Guide
+
+### Creating New Articles
+
+1. **Create the markdown file**
+   - Location: `src/routes/articles/posts/`
+   - Filename format: `k-{slug}.md` (the slug becomes the URL)
+   - Example: `k-how-to-say-hello-in-german.md` → `/articles/how-to-say-hello-in-german`
+
+2. **Add required frontmatter**
+```yaml
+---
+layout: blog
+seotitle: "SEO-optimized title (60 chars max)"
+title: "Display Title"
+metadescription: "Meta description for search results (155 chars max)"
+fname: "k-how-to-say-hello-in-german"
+date: "01/24/2026"
+dateModified: "01/24/2026"
+longdate: "January 24, 2026"
+author: "Kleo Team"
+categories: "phrases, training, speaking"
+k_language: "german"
+coverimage: "Articles/your-cover-image.jpg"
+articleimage: "Articles/your-article-image.jpg"
+tldr: "Brief summary for AI/search snippets"
+---
+```
+
+3. **k_language values** (used for filtering):
+   - `german`, `italian`, `spanish`, `ukrainian`, `all`
+
+4. **Add audio elements** (for pronunciation):
+```svelte
+<script>
+    import Kaudio from '$lib/components/audioelement.svelte';
+</script>
+
+<Kaudio lang={'de'} pid={'uuid-from-s3_0.mp3'} displayname={'Guten Tag'} />
+```
+   - Language codes: `de` (German), `es` (Spanish), `it` (Italian), `uk` (Ukrainian)
+
+5. **Images in articles**:
+```svelte
+<script>
+    let WEB_IMG_BASE_URL = `https://ddseu0ssi.mo.cloudinary.net/web/images/`;
+</script>
+
+<img src={`${WEB_IMG_BASE_URL}Articles/image-name.jpg`} alt="Description">
+```
+
+---
+
+### Creating Thumbnails
+
+Thumbnails are extracted from lesson videos or generated using AI.
+
+#### Setup
+```bash
+cd scripts/thumbnails
+python -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+```
+
+#### Environment Variables
+Create `.env` file:
+```
+AWS_ACCESS_KEY_ID=your_key
+AWS_SECRET_ACCESS_KEY=your_secret
+GEMINI_API_KEY=your_gemini_key
+```
+
+#### Extract Frames from Lesson Videos
+
+1. **List available videos**:
+```bash
+python extract_thumbnails.py list --lang de --env prod
+```
+   - Languages: `de`, `es`, `it`, `uk`
+   - Environments: `dev`, `staging`, `prod`
+
+2. **Extract a single frame**:
+```bash
+python extract_thumbnails.py extract D57_S1_C1.mp4 --lang de --env prod -t 2 -o output/thumbnail.jpg
+```
+   - `-t`: Timestamp in seconds
+   - `-o`: Output filename
+
+3. **Batch extract** (multiple timestamps):
+```bash
+python extract_thumbnails.py batch --lang de --env prod --timestamp 3
+```
+
+#### Generate/Enhance Thumbnails with AI
+
+Use Gemini to polish or enhance existing images:
+
+```bash
+python generate_thumbnail.py input.jpg output.jpg --model "gemini-2.0-flash-exp"
+```
+
+**Enhancement prompt** (keeps original scene):
+```bash
+python generate_thumbnail.py input.jpg output.jpg --prompt "Lightly enhance this photo:
+- Improve lighting and color balance
+- Sharpen slightly for clarity
+- Keep the original scene exactly as is
+- Do not change faces or poses"
+```
+
+**Creative generation** (transforms the image):
+```bash
+python generate_thumbnail.py reference.jpg output.jpg --prompt "Create a professional thumbnail based on this reference. Clean background, warm lighting."
+```
+
+#### Upload to Cloudinary
+
+After creating thumbnails, upload to Cloudinary:
+```bash
+python extract_thumbnails.py upload output/thumbnail.jpg --name Articles/article-name
+```
+
+The image will be available at:
+`https://ddseu0ssi.mo.cloudinary.net/web/images/Articles/article-name.jpg`
+
+---
+
+### Image Management
+
+#### Cloudinary Structure
+- **Base URL**: `https://ddseu0ssi.mo.cloudinary.net/web/images/`
+- **Article images**: `Articles/` folder
+- **Transformations**: Add `?tx=` parameter for resizing
+
+#### Common Transformations
+```
+?tx=c_fill,g_auto,h_300,w_550    # Fill with auto gravity
+?tx=c_thumb,g_face,z_0.7,ar_1:1  # Face-centered thumbnail
+?tx=h_200,w_150                   # Simple resize
+```
+
+#### Image Naming Convention
+- Article covers: `{language}_{topic}_v{version}.jpg`
+- Examples: `italian_love_v3.jpg`, `german_r_pronunciation_v2.jpg`
+
+#### S3/CloudFront (App Assets)
+- **Prod CloudFront**: `https://d302naonb9wq01.cloudfront.net`
+- **Lesson tiles**: `/images/en_nt_{lang}/lesson/tile/{lessonID}_0.jpg`
+- **Audio files**: `/audio/en_nt_{lang}/phrase/{uuid}.mp3`
+
+---
+
+### Audio Files
+
+Audio files are stored in S3 and served via CloudFront.
+
+#### Path Structure
+```
+s3://kleo-prod/audio/en_nt_{lang}/phrase/{uuid}_0.mp3
+```
+
+#### Generate TTS Audio (ElevenLabs)
+```bash
+cd scripts/tts
+source venv/bin/activate
+python generate_audio.py --lang de --text "Guten Tag"
+```
+
+#### Using Audio in Articles
+```svelte
+<Kaudio lang={'de'} pid={'6ccb5332-2452-44a6-92f1-1faf28802a07_0.mp3'} displayname={'rot'} />
+```
+
+The `pid` is the S3 object key (UUID + suffix).
