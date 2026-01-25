@@ -204,13 +204,14 @@ def extract_thumbnail(video_path, timestamp="5", output_path=None, quality=2, or
 
     print(f"Extracting frame at {ts}...")
 
-    # FFmpeg command
+    # FFmpeg command (with pixel format conversion for 10-bit videos)
     cmd = [
         "ffmpeg",
         "-y",  # Overwrite output
         "-ss", ts,  # Seek to timestamp (before input for faster seeking)
         "-i", str(video_path),
         "-frames:v", "1",  # Extract one frame
+        "-pix_fmt", "yuvj420p",  # Convert to full-range YUV for JPEG compatibility
         "-q:v", str(quality),  # JPEG quality
         str(output_path)
     ]
