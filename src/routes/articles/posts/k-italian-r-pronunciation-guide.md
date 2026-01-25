@@ -10,8 +10,8 @@ longdate: January 24, 2026
 author: Kleo Team
 categories: pronunciation, training, speaking
 k_language: italian
-coverimage: Articles/italian_r_cover1.png
-articleimage: Articles/italian_r_cover2.png
+coverimage: Articles/italian_r_v3.jpg
+articleimage: Articles/italian_r_v3.jpg
 tldr: "The Italian R is a tongue-tip trill made at the front of the mouth - never the throat R of English. Single R gets 1-2 taps, double RR gets a longer trill. Practice tip: say 'butter' quickly in American English - that middle sound is close to the Italian single R tap."
 ---
 <script>

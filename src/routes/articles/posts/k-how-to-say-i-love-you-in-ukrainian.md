@@ -10,8 +10,8 @@ longdate: January 24, 2026
 author: Kleo Team
 categories: phrases, training, speaking
 k_language: ukrainian
-coverimage: Articles/ukrainian_love_cover1.png
-articleimage: Articles/ukrainian_love_cover2.png
+coverimage: Articles/ukrainian_love_v3.jpg
+articleimage: Articles/ukrainian_love_v3.jpg
 tldr: "Ukrainian has two ways to say 'I love you': 'Я тебе кохаю' (ya tebe kokhayu) for romantic love, and 'Я тебе люблю' (ya tebe lyublyu) for general love (family, friends, things). Common endearments: 'кохання моє' (my love), 'любий/люба' (dear), 'сонечко' (little sun/sunshine)."
 ---
 <script>

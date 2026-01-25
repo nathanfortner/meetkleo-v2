@@ -10,8 +10,8 @@ longdate: January 24, 2026
 author: Kleo Team
 categories: pronunciation, training, speaking
 k_language: italian
-coverimage: Articles/italian_c_g_cover1.png
-articleimage: Articles/italian_c_g_cover2.png
+coverimage: Articles/italian_cg_v3.jpg
+articleimage: Articles/italian_cg_v3.jpg
 tldr: "Italian C before E/I = 'CH' sound (cena, ciao). C before A/O/U = 'K' sound (casa). CH always = 'K' (che). Italian G before E/I = 'J' sound (gelato). G before A/O/U = hard G (gatto). GH always = hard G (spaghetti). The H keeps C and G hard before E/I."
 ---
 <script>

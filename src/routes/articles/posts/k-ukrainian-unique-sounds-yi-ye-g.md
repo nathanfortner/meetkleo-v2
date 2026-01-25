@@ -10,8 +10,8 @@ longdate: January 24, 2026
 author: Kleo Team
 categories: pronunciation, training, speaking
 k_language: ukrainian
-coverimage: Articles/ukrainian_sounds_cover1.png
-articleimage: Articles/ukrainian_sounds_cover2.png
+coverimage: Articles/ukrainian_sounds_v3.jpg
+articleimage: Articles/ukrainian_sounds_v3.jpg
 tldr: "Ї (yi) = 'YEE' as in 'yield' - unique to Ukrainian (їжа = food, Київ = Kyiv). Є (ye) = 'YE' as in 'yes' (Європа = Europe). Ґ = hard G as in 'go' - rare but important (ґанок = porch). Also learn Щ (shch) and Ц (ts) - sounds that take practice but are essential for proper Ukrainian."
 ---
 <script>

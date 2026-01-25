@@ -10,8 +10,8 @@ longdate: January 24, 2026
 author: Kleo Team
 categories: pronunciation, training, speaking
 k_language: italian
-coverimage: Articles/italian_alphabet_cover1.png
-articleimage: Articles/italian_alphabet_cover2.png
+coverimage: Articles/italian_alphabet_v3.jpg
+articleimage: Articles/italian_alphabet_v3.jpg
 tldr: "The Italian alphabet has 21 letters (no J, K, W, X, Y). Key sounds: C before E/I = 'CH' (cena), C before A/O/U = 'K' (casa), G before E/I = 'J' (gelato), G before A/O/U = hard G (gatto). Double consonants are held longer. Italian is highly phonetic - what you see is what you say."
 ---
 <script>

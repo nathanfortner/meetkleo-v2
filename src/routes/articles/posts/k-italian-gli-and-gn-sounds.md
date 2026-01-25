@@ -10,8 +10,8 @@ longdate: January 24, 2026
 author: Kleo Team
 categories: pronunciation, training, speaking
 k_language: italian
-coverimage: Articles/italian_gli_gn_cover1.png
-articleimage: Articles/italian_gli_gn_cover2.png
+coverimage: Articles/italian_gli_v3.jpg
+articleimage: Articles/italian_gli_v3.jpg
 tldr: "GLI sounds like 'LLI' in 'million' or 'brilliant' - your tongue presses flat against the roof of your mouth (famiglia, figlio). GN sounds like 'NY' in 'canyon' or 'NI' in 'onion' (gnocchi, lasagna, bagno). Both are single sounds, not two separate letters."
 ---
 <script>

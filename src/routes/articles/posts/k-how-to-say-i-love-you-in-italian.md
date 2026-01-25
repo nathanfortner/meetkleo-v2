@@ -10,8 +10,8 @@ longdate: January 24, 2026
 author: Kleo Team
 categories: phrases, training, speaking
 k_language: italian
-coverimage: Articles/italian_love_cover1.png
-articleimage: Articles/italian_love_cover2.png
+coverimage: Articles/italian_love_v3.jpg
+articleimage: Articles/italian_love_v3.jpg
 tldr: "Italian distinguishes between romantic love and affectionate love: 'ti amo' (I love you - romantic, passionate) vs 'ti voglio bene' (I love you - for family, friends, pets). Using 'ti amo' with family would sound strange! Common endearments: 'amore mio' (my love), 'tesoro' (treasure/darling)."
 ---
 <script>

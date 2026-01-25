@@ -10,8 +10,8 @@ longdate: January 24, 2026
 author: Kleo Team
 categories: phrases, training, speaking
 k_language: spanish
-coverimage: Articles/spanish_gracias_cover1.png
-articleimage: Articles/spanish_gracias_cover2.png
+coverimage: Articles/spanish_gracias_v3.jpg
+articleimage: Articles/spanish_gracias_v3.jpg
 tldr: "Basic: 'gracias' (thank you). Emphatic: 'muchas gracias' (thank you very much), 'mil gracias' (a thousand thanks). Responses: 'de nada' (you're welcome), 'no hay de qué' (don't mention it). For formal situations, use 'te lo agradezco' (I appreciate it)."
 ---
 <script>

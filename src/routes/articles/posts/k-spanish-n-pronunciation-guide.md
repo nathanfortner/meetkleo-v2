@@ -10,8 +10,8 @@ longdate: January 24, 2026
 author: Kleo Team
 categories: pronunciation, training, speaking
 k_language: spanish
-coverimage: Articles/spanish_ene_cover1.png
-articleimage: Articles/spanish_ene_cover2.png
+coverimage: Articles/spanish_ene_v3.jpg
+articleimage: Articles/spanish_ene_v3.jpg
 tldr: "The Spanish Ñ sounds like 'NY' in 'canyon' or 'onion'. It's a single sound, not N+Y. Common words: niño (boy), España (Spain), mañana (tomorrow), año (year). The tilde (~) over the N completely changes the sound and meaning - 'ano' means something very different from 'año'!"
 ---
 <script>

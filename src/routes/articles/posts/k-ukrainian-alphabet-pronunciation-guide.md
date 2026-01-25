@@ -10,8 +10,8 @@ longdate: January 24, 2026
 author: Kleo Team
 categories: pronunciation, training, speaking
 k_language: ukrainian
-coverimage: Articles/ukrainian_alphabet_cover1.png
-articleimage: Articles/ukrainian_alphabet_cover2.png
+coverimage: Articles/ukrainian_alphabet_v3.jpg
+articleimage: Articles/ukrainian_alphabet_v3.jpg
 tldr: "Ukrainian uses the Cyrillic alphabet with 33 letters. Many look familiar but sound different (H sounds like English H, P sounds like R). Unique letters: Ї (YEE), Є (YE), Ґ (hard G). Good news: Ukrainian is phonetic - each letter has one consistent sound. Start by learning 'привіт' (hello) and 'так' (yes)."
 ---
 <script>

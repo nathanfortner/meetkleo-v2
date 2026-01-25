@@ -10,8 +10,8 @@ longdate: January 24, 2026
 author: Kleo Team
 categories: phrases, training, speaking
 k_language: spanish
-coverimage: Articles/spanish_love_cover1.png
-articleimage: Articles/spanish_love_cover2.png
+coverimage: Articles/spanish_love_v1.jpg
+articleimage: Articles/spanish_love_v1.jpg
 tldr: "Spanish has two main ways to say 'I love you': 'te quiero' (casual, for family/friends/new relationships) and 'te amo' (deep romantic love). Using 'te amo' too early can seem intense! Common terms of endearment: 'mi amor' (my love), 'cariño' (darling)."
 ---
 <script>

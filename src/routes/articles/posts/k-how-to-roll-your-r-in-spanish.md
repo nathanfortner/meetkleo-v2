@@ -10,8 +10,8 @@ longdate: January 24, 2026
 author: Kleo Team
 categories: pronunciation, training, speaking
 k_language: spanish
-coverimage: Articles/spanish_r_cover1.png
-articleimage: Articles/spanish_r_cover2.png
+coverimage: Articles/spanish_rr_v3.jpg
+articleimage: Articles/spanish_rr_v3.jpg
 tldr: "Spanish has two R sounds: the single R (a quick tongue tap) and the rolled RR (a trill). The RR appears between vowels (perro) and the rolled sound also occurs with single R at word beginnings (rosa) or after L/N (alrededor). Practice by saying 'butter' quickly - that middle sound is close to the Spanish tap R."
 ---
 <script>

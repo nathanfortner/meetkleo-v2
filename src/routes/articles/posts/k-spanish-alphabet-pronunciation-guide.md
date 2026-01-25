@@ -10,8 +10,8 @@ longdate: January 24, 2026
 author: Kleo Team
 categories: pronunciation, training, speaking
 k_language: spanish
-coverimage: Articles/spanish_alphabet_cover1.png
-articleimage: Articles/spanish_alphabet_cover2.png
+coverimage: Articles/spanish_alphabet_v3.jpg
+articleimage: Articles/spanish_alphabet_v3.jpg
 tldr: "The Spanish alphabet has 27 letters - the 26 English letters plus Ñ. Key differences: J sounds like English H, LL sounds like Y, H is always silent, and RR is rolled. Most letters have consistent pronunciations, making Spanish one of the most phonetically regular languages."
 ---
 <script>

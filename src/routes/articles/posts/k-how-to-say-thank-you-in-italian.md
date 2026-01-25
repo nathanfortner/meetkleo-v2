@@ -10,8 +10,8 @@ longdate: January 24, 2026
 author: Kleo Team
 categories: phrases, training, speaking
 k_language: italian
-coverimage: Articles/italian_grazie_cover1.png
-articleimage: Articles/italian_grazie_cover2.png
+coverimage: Articles/italian_grazie_v3.jpg
+articleimage: Articles/italian_grazie_v3.jpg
 tldr: "Basic: 'grazie' (GRAHT-see-eh). Emphatic: 'grazie mille' (thanks a lot), 'grazie tante' (many thanks). Responses: 'prego' (you're welcome - most common), 'di niente' (it's nothing), 'figurati' (don't mention it - casual). Pronunciation tip: the 'zi' sounds like 'tsee'."
 ---
 <script>
