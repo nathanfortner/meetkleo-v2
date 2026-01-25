@@ -32,3 +32,11 @@ test-*.png
 # Playwright
 playwright-report/
 test-results/
+
+# Claude Code session data
+.claude/
+
+# Generated/temporary files
+generated_*.json
+test-audio-debug.mjs
+scripts/tts/missing_*.txt
