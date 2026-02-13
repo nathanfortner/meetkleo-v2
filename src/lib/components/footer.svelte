@@ -62,14 +62,20 @@
         </svg>
       </a>
     </div>
-    <p class="mt-8 text-center text-base text-white">
+    <div class="mt-8 text-center text-sm text-white/80 space-y-1">
+      <p>
+        <a href="/public/Kleo-Privacy.pdf" class="hover:text-white underline">Privacy Policy</a>
+        &nbsp;·&nbsp;
+        <a href="https://kleo-website-assets.s3.us-east-2.amazonaws.com/mobile_eula.pdf" class="hover:text-white underline">Terms of Service</a>
+        &nbsp;·&nbsp;
+        <a href="/legal" class="hover:text-white underline">Legal</a>
+      </p>
+    </div>
+    <p class="mt-4 text-center text-base text-white">
       &copy; 2019-2026 We Say Hi, Inc. All rights reserved.
     </p>
-    <p class="mt-2 text-center text-base text-white">
-      Contact us anytime at: <a href="mailto:support@meetkleo.com" title="Email Kleo Support" class="text-blue-100 hover:text-white underline">support@meetkleo.com</a>
-    </p>
-    <p class="mt-2 text-center text-sm text-white/80">
-      <a href="/legal" class="hover:text-white underline">Privacy Policy</a> · <a href="/legal" class="hover:text-white underline">Terms of Service</a>
+    <p class="mt-1 text-center text-sm text-white/80">
+      We Say Hi, Inc. · Ft. Mitchell, KY · <a href="mailto:support@meetkleo.com" title="Email Kleo Support" class="hover:text-white underline">support@meetkleo.com</a>
     </p>
   </div>
 </footer>
